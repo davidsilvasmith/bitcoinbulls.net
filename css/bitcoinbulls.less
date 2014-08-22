@@ -1,0 +1,73 @@
+@import "./bootstrap_css/bootstrap.less";
+@import "./custom_css/variables.less";
+
+img {
+	max-width: 100%;
+}
+
+html { 
+  background: url(/images/bitcoin-bulls.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+	background:rgba(255,255,255,0.90);
+}
+
+/* thanks to http://stackoverflow.com/questions/796087/make-a-div-into-a-link */
+.link_fill {
+	position:		absolute; 
+	width:			100%;
+	height:			100%;
+	top:			0;
+	left: 			0;
+	/* edit: added z-index */
+	z-index: 		1;
+
+	/* edit: fixes overlap error in IE7/8, 
+     make sure you have an empty gif */
+	background-image: url('/images/empty.gif');
+  }
+
+.fillable, .fillable-with-border
+ {
+ 	position:relative;
+ }
+
+.fillable-with-border {
+	border: 1px solid @font_color;	
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1, h4 {
+	text-align: center;
+}
+
+dd, h4 + ol > li,
+h4 + ul > li {
+	margin-bottom: 1em;
+}
+
+h4 + ol,
+h4 + ul {
+	width: 90%;
+}
+
+/* looks crappy when it is this small, but in case needed for the future 
+from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have-the-same-width-as-a-fixed-width-non-stacked-one */
+.swb-fa-sm {
+    font-size:0.63em;
+}
+
+.navbar-collapse + .navbar-collapse > ul > li {
+	margin-left: 1em; 
+}
+
+
+ 

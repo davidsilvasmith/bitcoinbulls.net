@@ -1,0 +1,20 @@
+name: Bitcoin Bulls
+markdown: kramdown
+timezone: America/Detroit
+pygments: true
+safe: true
+lsi: false
+
+url: http://www.bitcoinbulls.net
+exclude:  [CNAME, Gemfile, Gemfile.lock, '*.less', gruntfile.js, custom_css, node_modules, README.md, '*.svg', '*.docx']
+include: [glyphicons-halflings-regular.svg]
+
+relative_permalinks: false
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+      
