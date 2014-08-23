@@ -1,7 +1,7 @@
 name: Bitcoin Bulls
 markdown: kramdown
 timezone: America/Detroit
-pygments: true
+highlighter: pygments
 safe: true
 lsi: false
 
