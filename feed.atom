@@ -1,0 +1,34 @@
+---
+layout: none
+permalink: /blog/feed.atom
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>{{ site.name | xml_escape }}</title>
+	<link href="{{ site.url }}{{ page.url }}" rel="self" />
+	<link href="{{ site.url }}/" />
+	<id>{{ site.url }}/</id>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<author>
+		<name>{{ site.author | xml_escape }}</name>
+		<uri>https://plus.google.com/109297602506769723640</uri>
+		<email>dave@bitcoinbulls.net</email>
+    	<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh4.googleusercontent.com/-nvEdxs20cvg/AAAAAAAAAAI/AAAAAAAAZ7Q/xnoz42Wekow/s512-c/photo.jpg"/>
+	</author>
+{% for post in site.posts limit:20 %}
+	<entry>
+		<id>{{ site.url }}{{ post.url }}</id>
+		<published>{{ post.date | date_to_xmlschema }}</published>
+		<updated>{% if post.updated == null %}{{ post.date | date_to_xmlschema }}{% else %}{{ post.updated | append: '@12am' | date_to_xmlschema }}{% endif %}</updated>
+		<title type="text">{{ post.title | strip_html }}</title>
+		<link href="{{ site.url }}{{ post.url }}" />
+		<content type="html">{{ post.content | xml_escape }}</content>
+		<author>
+			<name>{{ site.author | xml_escape }}</name>
+			<uri>https://plus.google.com/109297602506769723640</uri>
+			<email>dave@bitcoinbulls.net</email>
+	    	<gd:image rel="http://schemas.google.com/g/2005#thumbnail" width="32" height="32" src="//lh4.googleusercontent.com/-nvEdxs20cvg/AAAAAAAAAAI/AAAAAAAAZ7Q/xnoz42Wekow/s512-c/photo.jpg"/>
+		</author>
+	</entry>
+{% endfor %}
+</feed>
