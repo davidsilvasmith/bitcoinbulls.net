@@ -5,8 +5,9 @@ permalink: /blog/
 
 <ul>
   {% for post in site.posts %}
-    <li>
-
+    <li>    	
+<a href="{{ post.url }}">
+	<p>{{post.date | date: "%B %d, %Y" }}</p>
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -19,8 +20,15 @@ permalink: /blog/
       		{% endif %}
       	{% endif %}
       {% endfor %}
+      <p>
+      {{ post.excerpt }}
+      </p>
+      <p class="btn btn-md btn-success" role="button">READ POST
+      </p>
+      <br />
+      <br />
 
-      <a href="{{ post.url }}">{{ post.title }}</a>
+  </a>
     </li>
   {% endfor %}
 </ul>
