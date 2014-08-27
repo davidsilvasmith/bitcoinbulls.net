@@ -1,5 +1,5 @@
 ---
-title: Why AAA Would Benefit from Bitcoin
+title: Why AAA Would Benefit from Accepting Bitcoin
 excerpt: AAA's renewal process would be more convenient and efficient by using bitcoin. This post describes the current process and how a bitcoin process would be more convenient for customers.
 ---
 
@@ -23,7 +23,8 @@ I realized bitcoin would have reduced the process from a one month delay because
 Improved Bitcoin Process (estimated time 45 seconds)
 
  1. Receive an email or mailing with a QR code to pay via bitcoin.
- 2. Send payment.
+ 2. Send payment with bitcoin app
+    ![Updated renewal process](/images/why-aaa-would-benefit-from-bitcoin-new-process.jpg)
  3. Receive insurance card via mail email or (can it be on my phone?)
 
 Additional Benefits:

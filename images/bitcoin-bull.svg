@@ -13,7 +13,10 @@
    version="1.1"
    id="svg2"
    height="705"
-   width="738.03998">
+   width="738.03998"
+   inkscape:export-filename="/Users/smithd98/apps/bitcoinbulls.net/images/branding/Bitcoin-Bulls-96x96.png"
+   inkscape:export-xdpi="11.71"
+   inkscape:export-ydpi="11.71">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,15 +26,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1402"
-     inkscape:window-height="838"
+     inkscape:window-width="1200"
+     inkscape:window-height="702"
      id="namedview281"
      showgrid="false"
-     inkscape:zoom="0.52950009"
-     inkscape:cx="557.42169"
-     inkscape:cy="470.53551"
-     inkscape:window-x="78"
-     inkscape:window-y="0"
+     inkscape:zoom="0.066187512"
+     inkscape:cx="-5398.3375"
+     inkscape:cy="1691.3048"
+     inkscape:window-x="20"
+     inkscape:window-y="5"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      showguides="true"
@@ -1597,13 +1600,6 @@
        x2="-1887.6013"
        y2="-474.08145" />
   </defs>
-  <rect
-     style="opacity:0.59813083;fill:#000000;fill-opacity:1;stroke:none"
-     id="rect21485"
-     width="738.04535"
-     height="745.43628"
-     x="1.711287e-05"
-     y="8.5343403e-05" />
   <path
      sodipodi:type="arc"
      style="fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter10474)"
