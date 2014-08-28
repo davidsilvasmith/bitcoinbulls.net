@@ -76,3 +76,10 @@ Enjoy!
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
+
+<p>Other articles you may enjoy:
+	  {% for post in site.related_posts limit:5 %}
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</p>
+

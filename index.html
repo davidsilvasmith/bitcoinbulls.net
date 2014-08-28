@@ -12,6 +12,10 @@ permalink: /
 
 </div>
 
+  {% for post in site.posts limit:5 %}
+   {% include blog-post.html %}
+  {% endfor %}
+
 <!---
 <div class="row">
     <div class="col-lg-4 fillable">
