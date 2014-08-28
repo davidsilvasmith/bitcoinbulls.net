@@ -1,0 +1,15 @@
+{% capture result %}
+{% assign htmlAgain= 'empty' %}
+{% assign foundImageAgain = 0 %}
+      {% assign imagesAgain = page.content | split:"![" %}
+      {% for imageAgain in imagesAgain %}
+        {% if imageAgain contains '](' %}
+          {% if foundImageAgain == 0 %}
+            {% assign htmlAgain = imageAgain | split:"](" %}
+            {% assign htmlAgain = htmlAgain[1] %}
+            {% assign htmlAgain = htmlAgain | split:")" | first %}
+            {% assign foundImageAgain = 1 %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+{%endcapture%}{{site.url}}{{htmlAgain|strip}}
