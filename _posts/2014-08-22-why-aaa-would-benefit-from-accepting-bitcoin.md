@@ -34,3 +34,7 @@ Additional Benefits:
  * AAA increases margins by bitcoin's lower processing fees, even if they receive USD.
 
 While I was at it I decided to renew my license plate and drivers license. I noticed their processes were similar to AAA's and would also be improved by bitcoin.
+
+## Next Steps:
+
+ 1. Ask a business owner you know to accept bitcoin. Explain it is more convenient and saves them money!

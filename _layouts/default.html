@@ -39,7 +39,7 @@ navigation:
     {% if page.is_post %}
         <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Atom" href="{{ site.url }}/blog/feed.atom" />
         <meta property="og:image" content="{% include first-post-image-src.html %}" />
-        <meta property="og:description" content="{{page.excerpt | strip }}" />
+        <meta property="og:description" content="{{page.excerpt}}" />
         {% else %}
 
         <meta property="og:image" content="{{site.url}}/images/bitcoin-bulls.png" />

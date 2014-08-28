@@ -23,5 +23,6 @@ Instead of being scared like me or thinking about it Jason went and got it done.
 
 He is definately a Bull!
 
-Next Steps:
+## Next Steps:
+
  1. Donate to [Sean's Outpost](http://seansoutpost.com/). With bitcoin you can send as little or as much as you want. He ran across the country for a great cause.
