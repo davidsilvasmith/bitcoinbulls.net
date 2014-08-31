@@ -20,7 +20,7 @@ gulp.task('less', function () {
 });
 
 gulp.task('crush', function () {
-  var formats = ['images/**/*.png', 'images/**/*.jpg', 'images/**/*.svg'];
+  var formats = ['images/**/*.png', 'images/**/*.jpg'];
     return gulp.src(formats)
         .pipe(imagemin({
             progressive: true,
