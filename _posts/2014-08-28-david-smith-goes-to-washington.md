@@ -8,7 +8,7 @@ I'll be returning to DC for the first time in almost a decade. I have a lot of g
 
 Tomorrow though I'll be here on business.
 
-I'm happy to announce I'll be educating congressional policy makers about bitcoin as part of the Chambe of Digital Commerce's [Inagural Congressional Bitcoin Education Day](http://www.digitalchamber.org/btc-education-day.html). I'm one of 32 bitcoin industry participants from 12 states who flew in for the discussions. 
+I'm happy to announce I'll be educating congressional policy makers about bitcoin as part of the Chamber of Digital Commerce's [Inaugural Congressional Bitcoin Education Day](http://www.digitalchamber.org/btc-education-day.html). I'm one of 32 bitcoin industry participants from 12 states who flew in for the discussions. 
 
 I'm honored to be part of such an important effort.
 

@@ -30,7 +30,7 @@ Improved Bitcoin Process (estimated time 45 seconds)
 Additional Benefits:
 
  * AAA doesn't have my credit card information to worry about securing or losing
- * Less work for the customer (no tyoping in information or filling out prompts)
+ * Less work for the customer (no typing in information or filling out prompts)
  * AAA increases margins by bitcoin's lower processing fees, even if they receive USD.
 
 While I was at it I decided to renew my license plate and drivers license. I noticed their processes were similar to AAA's and would also be improved by bitcoin.

@@ -8,7 +8,7 @@ excerpt: BTCJam is a peer-to-peer lending service similar to Prosper and Lending
 ![Growing Bitcoins](/images/can-btcjam-grow-your-bitcoins.jpg)
 
 ## Back Story
-Last year I got a **%1,900%** 4-month return on my bitcoin investment. Key to that unbelievable return was a strategy of investing bitcoins. This incereased my gains and decreased the risk of a loss due to a decline in bitcoin's price. It also exposed me to the risk of losing the bitcoins I was investing.
+Last year I got a **%1,900%** 4-month return on my bitcoin investment. Key to that unbelievable return was a strategy of investing bitcoins. This increased my gains and decreased the risk of a loss due to a decline in bitcoin's price. It also exposed me to the risk of losing the bitcoins I was investing.
 
 The arbitrage and interest bearing accounts (read about it on page 4 of my [free ebook](http://vip.marketfy.com/bitcoin/)) all stopped working for me as detailed in the book.
 
@@ -39,7 +39,7 @@ Second it took work to get these loans. I noticed great loans get funded *fast*.
 
 I'm excited about BTCJam, but still learning more. 
 
-BTCJam has a programming interface and a secondary market which I haven't explored, but offer additional opportunities. BTCJam is intimidating. I signed up in May of 2013, but didn't make my first loan until after talking with BTCJam two weeks ago. There is definately a learning curve to getting these great returns.
+BTCJam has a programming interface and a secondary market which I haven't explored, but offer additional opportunities. BTCJam is intimidating. I signed up in May of 2013, but didn't make my first loan until after talking with BTCJam two weeks ago. There is definitely a learning curve to getting these great returns.
 
 To help alleviate the learning curve I'm hosting a free webinar Wednesday September 3rd at 8:00 PM Eastern time with BTCJam's Flavio Rump. Attendees will get to have all their BTCJam questions answered directly by BTCJam. Come [join us](/making-your-bitcoin-work/) to learn about this great opportunity!
 

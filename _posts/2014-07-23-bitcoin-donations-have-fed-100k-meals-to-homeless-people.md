@@ -5,7 +5,7 @@ excerpt: Bitcoin is great for charities. Bitcoin is the most efficient digital f
 
 ![two week BTCJam Returns](/images/bitcoin-donations-have-fed-100k-meals-to-homeless-people.jpg)
 
-At Coin Congress San Franciso this week I heard Jason King talk about the homeless outreach he is doing in in Florida.
+At Coin Congress San Francisco this week I heard Jason King talk about the homeless outreach he is doing in in Florida.
 
 His organization, [Sean's Outpost](http://seansoutpost.com/), works with over 400 homeless people in Pensacola Florida.
 
@@ -15,13 +15,13 @@ The group uses bitcoin donations to purchase blankets, buy meals, and have even 
 
 It was great to think about the power bitcoin gives people. For example in January someone in North Korea able to donate bitcoin to Sean's outpost. It doesn't matter who or where you are, bitcoin lets you do what you want with your money. The North Korean transaction is a great example of someone on the other side of the world being able to easily help homeless Floridians.
 
-Another fun fact about Jason, he ran across America to raise awareness for the homeless. Using bitcoin Jason ran an average of 32 miles a day from Miama to San Franciso.
+Another fun fact about Jason, he ran across America to raise awareness for the homeless. Using bitcoin Jason ran an average of 32 miles a day from Miami to San Francisco.
 
 Since seeing Forest Gump I've thought about running across the country.
 
 Instead of being scared like me or thinking about it Jason went and got it done.
 
-He is definately a Bull!
+He is definitely a Bull!
 
 ## Next Steps:
 
