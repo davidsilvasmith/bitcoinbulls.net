@@ -7,7 +7,7 @@ excerpt: On Friday August 29th the Chamber of Digital Commerce educated all 435 
 
 I was honored to participate in the [Inaugural Congressional Bitcoin Education Day](http://www.digitalchamber.org/btc-education-day.html).
 
-[Perianne Boring](https://twitter.com/PerianneDC), [Margaux Avedisian](https://twitter.com/MargauxWithAnX), and Congressman [Steve Stockman](https://twitter.com/SteveWorks4You) put together a great program. They successfully educated all house members on bitcoin. Brian Santos put the icing on the cake by sponsoring drinks and appetizers after the long day. 
+[Perianne Boring](https://twitter.com/PerianneDC), [Margaux Avedisian](https://twitter.com/MargauxWithAnX), and Congressman [Steve Stockman](https://twitter.com/SteveWorks4You) put together a great program. They successfully educated all house members on bitcoin. [Brian Santos](https://twitter.com/BrianSantoshi) put the icing on the cake by sponsoring drinks and appetizers after the long day. 
 
 We provided educational material to **all** 435 house members. 32 participants from 12 states traveled in for a day packed with meetings. We met with staff from 70 offices. For the other 365 house members we hand delivered the material.
 
@@ -27,7 +27,7 @@ We didn't just do education. I learned a lot myself on a tour of Capitol Hill Co
 ![Bob Anderson and David Smith touring Capitol Hill](/images/bob-anderson-david-smith.jpg)
 
 
-Finally we closed out the day with drinks and snacks provided by Brian Santos, CEO of Bitwall.
+Finally we closed out the day with drinks and snacks provided by Brian Santos, CEO of [eSpend](http://www.espend.com/).
 
 ![Perianne Boring and Representative Steve Stockman closing out the event](/images/congressional-education-day-close-out.jpg)
 
