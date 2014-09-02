@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar-container
 title: What is Bitcoin?
 permalink: /what-is-bitcoin/
 ---

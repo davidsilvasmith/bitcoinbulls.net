@@ -1,6 +1,7 @@
 ---
 title: Bitcoin Bulls Blog for Bitcoin believers.
 permalink: /blog/
+layout: sidebar-container
 ---
 
 <ul>
