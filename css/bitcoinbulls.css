@@ -6108,3 +6108,7 @@ from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have
 .bb-left-bar :not(img) {
   max-width: 609px;
 }
+body {
+  font-size: 18px;
+  line-height: 1.625;
+}
