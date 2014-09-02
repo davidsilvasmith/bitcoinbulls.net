@@ -2,9 +2,25 @@
 layout: default
 ---
 
+{% if page.contentFirst == 1 %}
+  {{content}}
+{% endif %}
+
 <div class="row">
   <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 bb-left-bar" style="height: auto;">
-  	{{content}}
+    {% if page.contentFirst != 1 %}
+      {{content}}
+    {% endif %}
+
+    {% if page.postsAfterContent > 0 %}
+      {% for post in site.posts limit:page.postsAfterContent %}
+       {% include blog-post.html %}
+      {% endfor %}
+    {% endif %}
+
+    {% if page.includeJoin == 1 %}
+      {% include join-the-herd.html %}
+    {% endif %}    
 
   </div>
   <div id="sidebar" class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
