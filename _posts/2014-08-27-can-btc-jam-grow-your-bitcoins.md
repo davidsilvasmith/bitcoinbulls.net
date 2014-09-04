@@ -41,9 +41,9 @@ I'm excited about BTCJam, but still learning more.
 
 BTCJam has a programming interface and a secondary market which I haven't explored, but offer additional opportunities. BTCJam is intimidating. I signed up in May of 2013, but didn't make my first loan until after talking with BTCJam two weeks ago. There is definitely a learning curve to getting these great returns.
 
-To help alleviate the learning curve I'm hosting a free webinar Wednesday September 3rd at 8:00 PM Eastern time with BTCJam's Flavio Rump. Attendees will get to have all their BTCJam questions answered directly by BTCJam. Come [join us](/making-your-bitcoin-work/) to learn about this great opportunity!
+To help alleviate the learning curve I'm hosting a free webinar Wednesday September 3rd at 8:00 PM Eastern time with BTCJam's Flavio Rump. Attendees will get to have all their BTCJam questions answered directly by BTCJam. <del>Come join us</del> to learn about this great opportunity!
 
 ## Next Steps:
 
- 1. Join me and other Bulls for next Wednesday's **free** 8:00 PM webinar. [Click here to learn more and sign up](/making-your-bitcoin-work/).
+ 1. Join me and other Bulls for next Wednesday's **free** 8:00 PM webinar. <del>Click here to learn more and sign up</del>
  2. Sign up for BTCJam and explore the platform. Try it out with $5 or so and let me know what you think in the comments [Click here to register](https://btcjam.com/?r=37cad203-f110-4bcb-bd1e-bd31035bf238&utm_source=referral_url&utm_campaign=user_referral)
