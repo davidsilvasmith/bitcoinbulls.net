@@ -27,6 +27,7 @@ Those community members receive additional info such as:
 * Insider information - such as my North America Bitcoin Conference insider info
 * Altcoin analysis - such as my Ethereum and Storj analyses
 * Analysis on the market outlook such as What I'm doing in this Down Market
-* The Bitcoin Bulls platform is provided by Marketfy and they are the ones who process the credit card transactions.
+
+The Bitcoin Bulls platform is provided by Benzinga and that platform processes the credit card transactions.
 
 
