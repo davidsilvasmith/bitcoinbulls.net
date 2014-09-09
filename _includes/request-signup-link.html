@@ -1,0 +1,5 @@
+<a data-toggle="modal" data-target="#myModal" >{{ include.param }}</a>
+{% capture includeGuts %}
+{% include signup-guts.html %} 
+{% endcapture %}
+{{ includeGuts | replace: '    ', ''}}

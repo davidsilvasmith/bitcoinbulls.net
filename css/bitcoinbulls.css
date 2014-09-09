@@ -6105,8 +6105,12 @@ from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have
 .navbar-collapse + .navbar-collapse > ul > li {
   margin-left: 1em;
 }
-.bb-left-bar :not(img) {
+.bb-left-bar * {
   max-width: 609px;
+}
+.bb-left-bar img,
+.bb-left-bar .modal {
+  max-width: none;
 }
 body {
   font-size: 18px;
