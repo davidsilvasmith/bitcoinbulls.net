@@ -1,7 +1,14 @@
 {% capture result %}
+{% assign workingContent = nil %}
+{% if include.param == nil %}
+  {% assign workingContent = page.content %}
+  {% else %}
+  {% assign workingContent = include.param %}
+{% endif %}
 {% assign htmlAgain= 'empty' %}
 {% assign foundImageAgain = 0 %}
-      {% assign imagesAgain = page.content | split:"![" %}
+  {% if workingContent contains '![' %}
+      {% assign imagesAgain = workingContent | split:"![" %}
       {% for imageAgain in imagesAgain %}
         {% if imageAgain contains '](' %}
           {% if foundImageAgain == 0 %}
@@ -12,4 +19,19 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+  {% endif %}
+    {% if foundImageAgain ==0 %}
+    {% assign imagesAgain = workingContent | split:"<img" %}
+      {% for imageAgain in imagesAgain %}
+        {% if imageAgain contains 'src="' %}
+          {% if foundImageAgain == 0 %}
+            {% assign htmlAgain = imageAgain | split:'src="' %}
+            {% assign htmlAgain = htmlAgain[1] %}
+            {% assign htmlAgain = htmlAgain | split:'"' | first %}
+            {% assign foundImageAgain = 1 %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 {%endcapture%}{{site.url}}{{htmlAgain|strip}}
+

@@ -1,16 +1,23 @@
-
+{% assign workingPost = nil %}
+{% for p in site.posts %}
+  {% if p.title == 'We Convert All Dollars To Bitcoin' %}
+    {% assign workingPost = p %}
+    {% if page.url == p.url %}
+      {% assign workingPost = p.previous %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
     <div class="panel panel-default">
       <div class="panel-heading text-center">
         <h3 class="panel-title">Popular</h3>
       </div>
+
       <div class="panel-body">
-          <a href="/can-btc-jam-grow-your-bitcoins.html">
-      			<img src="/images/can-btcjam-grow-your-bitcoins.jpg" alt="Growing Bitcoins">
-      <p>
-		      BTCJam is a peer-to-peer lending service similar to Prosper and Lending Club. Investing bitcoins is a way to magnify returns and hedge against the risk of a decline in price. This article is about my experience with BTCJam.
-		      </p>
-		      <p class="btn btn-md btn-success" role="button">READ POST
-		      </p>
+          <a href="{{workingPost.url}}">
+            {% assign workingPostContent = workingPost.content %}
+      			<img src="{% include first-post-image-src.html param=workingPostContent %}" alt="{{workingPost.title}}">
+          <p>{{workingPost.excerpt}}</p>
+		      <p class="btn btn-md btn-success" role="button">READ POST</p>
 		      <br>
 		      <br>
 		  </a>
