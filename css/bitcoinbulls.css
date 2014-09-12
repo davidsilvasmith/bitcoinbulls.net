@@ -6110,7 +6110,7 @@ from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have
 }
 .bb-left-bar img,
 .bb-left-bar .modal {
-  max-width: none;
+  max-width: 100%;
 }
 body {
   font-size: 18px;
