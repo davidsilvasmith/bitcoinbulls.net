@@ -18,6 +18,7 @@ I will be explaining why bitcoin makes sense as part of a diversified portfolio 
 * [David Johnston](http://www.linkedin.com/in/davidajohnston) - managing director of Decentralized Applications Fund
 * [Harry Yeh](https://www.linkedin.com/in/harryyeh) - managing  partner of cryptocurrency trading firm, Binary Financial
 * [Brian Santos](https://www.linkedin.com/pub/brian-santos/52/491/502) - founder of eSpend
+* [Charles Allen](http://investors.btcs.com/#team), CEO of [BitcoinShop](http://www.bitcoinshop.us/) (NASDAQ: BTCS), the only publicly traded US company focused on Bitcoin
 * 35 more!
 
 CoinAgenda kicks off with a Tuesday night party in the famed two-story suite originally designed for Hugh Hefner with an indoor/outdoor swimming pool overlooking the Las Vegas Strip high atop the Palms Fantasy Tower.
