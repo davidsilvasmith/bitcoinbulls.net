@@ -39,7 +39,7 @@ David can help
 ---
 
 #### About David Silva Smith
-David has been interviewed for CBS MoneyWatch, NBC Chicago, and USA Today spreading the word about bitcoin. David's [bitcoin articles](http://www.benzinga.com/author/david-smith) have been featured on Yahoo Finance, MSN Money, and Nasdaq. Mr. Smith has created an arbitrage bot, [gogivecoin.com](http://www.gogivecoin.com), and is currently working on a peer2peer trading system. Prior to becoming engrossed in bitcoin, Smith built mobile apps for financial services companies. In his free time he enjoys playing frisbee and basketball with his five year old son.
+David has been interviewed for CBS MoneyWatch, NBC Chicago, USA Today, Money and Tech, spreading the word about bitcoin. David's [bitcoin articles](http://www.benzinga.com/author/david-smith) have been featured on Yahoo Finance, MSN Money, and Nasdaq. Mr. Smith has created an arbitrage bot, [gogivecoin.com](http://www.gogivecoin.com), and is currently working on a peer2peer trading system. Prior to becoming engrossed in bitcoin, Smith built mobile apps for financial services companies. In his free time he enjoys playing frisbee and basketball with his five year old son.
 
 ---
 
