@@ -2,13 +2,13 @@
 excerpt: 37Coins has technology enabling everyone who can text message to use bitcoin. Their presentation at the Michigan Bitcoiners Detroit meetup was outstanding!
 ---
 
-![Jonothan Zobro shows off the 37 Coins platform in Detroit.](/images/michigan-bitcoiners-37coins.jpg)
+![Jonathan Zobro shows off the 37 Coins platform in Detroit.](/images/michigan-bitcoiners-37coins.jpg)
 
 Bulls!
 
 Thursday I had the pleasure of attending the [Michigan Bitcoiners](http://www.michiganbitcoiners.org/) meetup.
 
-[Jonothan Zobro](), 37Coins co-founder, gave a great talk explaining why 37Coins exists, how 37Coins is secure, and how all transactions are performed on the block chain making the platform completely transparent.
+[Jonathan Zobro](https://twitter.com/jonathan_zobro), 37Coins co-founder, gave a great talk explaining why 37Coins exists, how 37Coins is secure, and how all transactions are performed on the block chain making the platform completely transparent.
 
 ## Why 37Coins?
 
