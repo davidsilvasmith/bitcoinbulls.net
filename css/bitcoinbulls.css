@@ -6116,3 +6116,16 @@ body {
   font-size: 18px;
   line-height: 1.625;
 }
+.blg-post-item {
+  list-style-type: none;
+}
+.blg-post-item .btn {
+  float: right;
+}
+.blg-post-item a {
+  color: #000;
+}
+.blg-post-byline {
+  color: #6a6a6a;
+  font-size: .75em;
+}
