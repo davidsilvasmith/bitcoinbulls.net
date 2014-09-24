@@ -25,10 +25,10 @@ CoinAgenda kicks off with a Tuesday night party in the famed two-story suite ori
 
 ![Coin Agenda kicks off in a suite designed for Hugh Heffner.](/images/Coin-agenda-2014-heffner-suite.jpg)
  
-BitAngels will hold a [concurrent event](www.coinagenda.com/bitangels) focusing on startups and early-stage investments, as well as social events for the 500-person global network. CoinAgenda attendees will have full access to all BitAngels sessions and events. CoinAgenda was created by Michael Terpin, chairman/co-founder of BitAngels. Terpin is also a popular speaker on Bitcoins at conferences globally and an established thought leader in the bitcoin investing sector.
+BitAngels will hold a [concurrent event](http://coinagenda.com/register.html) focusing on startups and early-stage investments, as well as social events for the 500-person global network. CoinAgenda attendees will have full access to all BitAngels sessions and events. CoinAgenda was created by Michael Terpin, chairman/co-founder of BitAngels. Terpin is also a popular speaker on Bitcoins at conferences globally and an established thought leader in the bitcoin investing sector.
  
 The main CoinAgenda conference features two days of keynotes and specialized sessions across two tracks (cryptocurrency investment, including bitcoins, altcoins and mining; and company investment, including presentations by 20 companies, as well as tracks on Bitcoin ATMs and Bitcoin 2.0).
 
-I'm excited about CoinAgenda and hope you will [join me](http://coinagenda.com/attendee-pricing/) for this educational and entertaining event!
+I'm excited about CoinAgenda and hope you will [join me](http://coinagenda.com/register.html) for this educational and entertaining event!
 
 ![join us!](/images/Coin-agenda-2014-join-us.jpg)
