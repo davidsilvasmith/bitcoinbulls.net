@@ -10,15 +10,19 @@ Email: <dave@davidsilvasmith.com>
 
 Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 
-## Deep Knowledge 
+## Bitcoin: The Most Empowering Force Since the Internet
 
-David Silva Smith has a deep knowledge of the bitcoin industry, bitcoin technology, and news events. An experienced business executive, speaker, and consultant, Mr. Smith is able to explain to investors and business owners how they can benefit from the bitcoin industry explosion.
+Bitcoin is the most empowering force since the Internet. No other payment mechanism gives people the control, flexibility, choices, and efficiency that bitcoin provides. Sound familiar? No other communication tool gives the control, flexibility, choice, and efficiency that the Internet provides. In the next ten years bitcoin will impact every modern business just like the Internet impacted businesses over the past ten.
+
+## Harness the Empowerment
+
+David Silva Smith has a deep knowledge of the bitcoin industry, bitcoin technology, and news events. An experienced business executive, speaker, and consultant, Mr. Smith is able to help investors and businesses leverage the empowering features of bitcoin to get ahead of their peers in the coming tsunami of change.
 
 David can help
 
-* **Business Leaders** understand how bitcoin can benefit their company.
-* **Institutional Investors / Accredited Investors** understand how bitcoin is a sensible component of a diversified portfolio.
-* **Entrepreneurs** quickly understand the bitcoin industry, competitive landscape, and how their venture fits in.
+* **Business Leaders** understand how bitcoin can benefit their company by empowering customers, employees, and suppliers.
+* **Institutional Investors / Accredited Investors** understand how bitcoin empowers portfolios as a component of a diversified portfolio.
+* **Entrepreneurs** quickly understand the bitcoin industry, competitive landscape, and how their venture can be empowered by taking advantage of bitcoin.
 
 ## Bitcoin Speaking Experience
 
@@ -38,8 +42,8 @@ David can help
 
 ---
 
-#### About David Silva Smith
-David has been interviewed for CBS MoneyWatch, NBC Chicago, USA Today, Money and Tech, spreading the word about bitcoin. David's [bitcoin articles](http://www.benzinga.com/author/david-smith) have been featured on Yahoo Finance, MSN Money, and Nasdaq. Mr. Smith has created an arbitrage bot, [gogivecoin.com](http://www.gogivecoin.com), and is currently working on a peer2peer trading system. Prior to becoming engrossed in bitcoin, Smith built mobile apps for financial services companies. In his free time he enjoys playing frisbee and basketball with his five year old son.
+#### About CEO David Silva Smith
+David believes everyone deserves to be empowered. David believes bitcoin is the most empowering technology since the Internet. David has been interviewed for CBS MoneyWatch, NBC Chicago, USA Today, Money and Tech, spreading the word about bitcoin. David's [bitcoin articles](http://www.benzinga.com/author/david-smith) have been featured on Yahoo Finance, MSN Money, and Nasdaq. Mr. Smith has created an arbitrage bot, [gogivecoin.com](http://www.gogivecoin.com), and is currently working on a person-to-person trading system. Prior to becoming engrossed in bitcoin, Smith built mobile apps for financial services companies. In his free time he enjoys playing frisbee and basketball with his seven year old son.
 
 ---
 
