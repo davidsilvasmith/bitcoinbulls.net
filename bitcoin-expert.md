@@ -6,7 +6,7 @@ layout: sidebar-container
 
 Phone: (517) 944-1872
 
-Email: <dave@davidsilvasmith.com>
+Email: <dave@bitcoinbulls.net>
 
 Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 
@@ -26,6 +26,7 @@ David can help
 
 ## Bitcoin Speaking Experience
 
+* 4/28/2015 **Bitcoin 101** (Inside Bitcoins) New York, NY
 * 11/20/2014 **GVF Selection Committee** (Global Venture Forum) Mountain View, CA
 * 10/8/14 **Include Bitcoin in a Balanced Portfolio** (CoinAgenda) Las Vegas, NV 
 * 10/6/14 **How to Explain Bitcoin in Plain English** (Inside Bitcoins Vegas) Las Vegas, NV 
