@@ -26,11 +26,15 @@ David can help
 
 ## Bitcoin Speaking Experience
 
-* 4/28/2015 **Bitcoin 101** (Inside Bitcoins) New York, NY
-* 11/20/2014 **GVF Selection Committee** (Global Venture Forum) Mountain View, CA
+* 4/28/15 **Bitcoin 101** (Inside Bitcoins) New York, NY
+* 11/20/14 **GVF Selection Committee** (Global Venture Forum) Mountain View, CA
+* 10/27/14 **Introduction to Bitcoin** (Detroit Bitcoin Expo), Detroit, MI
+* 10/18/14 **[David Smith Investor Bitcoin Bulls](http://cryptobizmagazine.com/david-smith-investor-bitcoin-bulls/)** (Crypto Biz Magazine) Las Vegas, NV
 * 10/8/14 **Include Bitcoin in a Balanced Portfolio** (CoinAgenda) Las Vegas, NV 
 * 10/6/14 **How to Explain Bitcoin in Plain English** (Inside Bitcoins Vegas) Las Vegas, NV 
+* 9/18/14 **[MidasMarni Interviews David Smith](http://midasmarni.com/event/midasmarni-interviews-david-smith-bitcoinbulls/)** (MidasMarni.com) Online
 * 8/29/14 **Educating Congressional Policy Makers** (Congressional Bitcoin Education Day) Washington, DC
+* 7/30/14 **[David Silva Smith @ Coin Congress](http://moneyandtech.com/david-silva-smith-of-so-whats-bitcoin-coin-congress/)** (Money & Tech) San Francisco, CA
 * 7/24/14 **Mass Adoption Panel** (Coin Congress USA) San Francisco, CA
 * 7/20/14 **What I'm Doing in Bitcoin** (The North American Bitcoin Conference Chicago) Chicago, IL
 * 7/20/14 **Bitcoin Beginners Workshop Session B** (The North American Bitcoin Conference Chicago) Chicago, IL
@@ -38,6 +42,7 @@ David can help
 * 7/18/14 **Bitcoin 101 for YPO / WPO** (Tally Capital's MiM Bitcoin Summit 2014) Chicago, IL
 * 5/22/14 **[How To Successfully Introduce Bitcoin to your Friends](https://www.youtube.com/watch?v=e-PXjJLF-bo)** (Inaugural Coin Congress Asia) Singapore
 * 4/30/14 **Coinvendor: The Safest Place to Trade Bitcoin** (The Hatching) Lansing, MI
+* 1/10/14 **[Bitcoin Interview](http://www.michiganbusinessnetwork.com/radio/2014/01/28/Bottom_Line_IT_S3_David_Smith)** (Bottom Line IT), Lansing, MI
 * 12/8/13 **Bitcoin: The Future of Money** (SouthEastern Michigan Computer Organization) Detroit, MI
 * 11/20/13 **GoGiveCoin: My First Bitcoin App** (Lansing .NET User Group) Lansing, MI
 
