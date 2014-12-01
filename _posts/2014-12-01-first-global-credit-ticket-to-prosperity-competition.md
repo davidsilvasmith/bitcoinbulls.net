@@ -1,6 +1,5 @@
 ---
 excerpt: First Global Credit's Ticket to Prosperity competition teaches how to use Bitcoins as margin capital to invest in stocks, stock markets, ETFs and commodities.
-permalink: /first-global-credit-ticket-to-prosperity/
 ---
 
 ![first global credit ticket to prosperity competition](/images/first-global-credit-ticket-to-prosperity-competition.jpg "first global credit ticket to prosperity competition")
