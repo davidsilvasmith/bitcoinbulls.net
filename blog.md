@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Bulls Blog for Bitcoin believers.
+title: Bitcoin Bulls Blog for Bitcoin investors seeking yield.
 permalink: /blog/
 layout: sidebar-container
 includeJoin: 1
