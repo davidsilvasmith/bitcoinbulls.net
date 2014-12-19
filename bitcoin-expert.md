@@ -26,7 +26,9 @@ David can help
 
 ## Bitcoin Speaking Experience
 
+
 * 4/28/15 **Bitcoin 101** (Inside Bitcoins) New York, NY
+* 12/18/14 **Why Nerds are Excited About Bitcoin** (DemoCamp Lansing) Lansing, MI
 * 11/20/14 **GVF Selection Committee** (Global Venture Forum) Mountain View, CA
 * 10/27/14 **Introduction to Bitcoin** (Detroit Bitcoin Expo), Detroit, MI
 * 10/18/14 **[David Smith Investor Bitcoin Bulls](http://cryptobizmagazine.com/david-smith-investor-bitcoin-bulls/)** (Crypto Biz Magazine) Las Vegas, NV
