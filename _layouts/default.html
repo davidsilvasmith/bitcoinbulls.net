@@ -57,6 +57,12 @@ navigation:
     <link href='http://fonts.googleapis.com/css?family=Muli' rel='stylesheet' type='text/css'>
     <link href="/css/bitcoinbulls.css" rel="stylesheet" media="screen">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+            #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+            /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+               We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -77,12 +83,12 @@ navigation:
                         <span class="icon-bar"></span>
                     </button>
                     
-                    <a class="visible-xs" href="/"><img src="/images/branding/bitcoin-bulls-52x50.png" alt="Bitcoin Bulls small logo"></a>
+                    <a class="visible-xs" href="/"><img src="/images/branding/bitcoin-bulls-52x50.png" alt="Bitcoin Bulls small logo" /></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     
                     <ul id="navList" class="nav nav-justified" >
-                        <li ><a class="hidden-xs" href="/"><img src="/images/branding/bitcoin-bulls-52x50.png" alt="Bitcoin Bulls small logo" ></a></li>
+                        <li ><a class="hidden-xs" href="/"><img src="/images/branding/bitcoin-bulls-52x50.png" alt="Bitcoin Bulls small logo" /></a></li>
                         {% assign url = page.url|remove:'index.html' %}
                         
                         {% for link in page.navigation %}
@@ -102,6 +108,7 @@ navigation:
             Join the Community! <a href="http://twitter.com/@DavidSilvaSmith"><i class="fa fa-twitter"></i> Twitter</a> and <a href="https://www.facebook.com/BTCBulls"><i class="fa fa-facebook-square"></i> Facebook</a>
         </div>
         <hr />
+    </div>
         <span>© {{ site.time | date: "%Y" }} Cash on Cryptos LLC</span>
     <script src="/scripts/jquery-1.8.2.min.js"></script>
     <script src="/scripts/bootstrap.min.js"></script>
