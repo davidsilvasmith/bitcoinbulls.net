@@ -1,12 +1,16 @@
 @import "./bootstrap_css/bootstrap.less";
 @import "./custom_css/variables.less";
 
+
+@font_color: #111;
+@font_size: 18px;
+
 img {
 	max-width: 100%;
 }
 
 .container {
-	background:rgba(255,255,255,0.90);
+	background: #fff;
 }
 
 /* thanks to http://stackoverflow.com/questions/796087/make-a-div-into-a-link */
@@ -92,9 +96,24 @@ body {
 	 color:#000;
 	}
 }
+@justBorder: 								1px solid lighten(@navbar-default-color, 10%);
+@jumbotron-border-color:         @font_color;
+
+@background-base:    	#D2BAA1; 		//pinkish color
+@background-darker:		#C3AE97;		//pinkish color
+@brand-color: 			 	#5A2D0E; 		//dark brown- like bull
+@panel-header-color: 	#241A13; 		//almost black
 
 .blg-post-byline {
 	color: #6a6a6a;
 	font-size: .75em;
 }
+
+body {
+    color: @font_color;
+    font_size: @font_size;
+}
+
+
+
  
