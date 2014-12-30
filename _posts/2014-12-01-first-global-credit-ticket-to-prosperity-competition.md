@@ -8,7 +8,7 @@ excerpt: First Global Credit's Ticket to Prosperity competition teaches how to u
 
 [Enter the competition](http://www.firstglobalcredit.com/Competition/How-to-enter).
 
-Bitcoin doesn't have a lot of practical use cases yet. However bitcoin is the fastest and safest way to move investment capital around today. I am excited to add First Global Credit to investment options like [BTCJam](/can-btc-jam-grow-your-bitcoins/).
+Bitcoin doesn't have a lot of practical use cases yet. However bitcoin is the fastest and safest way to move investment capital around today. I am excited to add First Global Credit to investment options like [BTCJam](/can-btc-jam-grow-your-bitcoins.html).
 
 The competition is live! I logged in and saw the 100 synthetic bitcoins available for to me for the competition. I don't expect to win, but who knows and I'll get a chance to better understand how the platform works.
 

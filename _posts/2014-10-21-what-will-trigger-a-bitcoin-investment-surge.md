@@ -30,7 +30,7 @@ It was great meeting new people like:
 * [Frank Grant](https://angel.co/frank-grant) - Senior counsel at Perkins Coie, nice, and helpful guy.
 * [Phil Maher](https://twitter.com/COdomainnames) - Phil is a miner and expert online marketer.
  ![Phil Maher, Michael Lambert, and Michael Cao mining panel.](/images/phil-maher-michael-lambert-michael-cao-mining-panel.jpg "Phil Maher, Michael Lambert, and Michael Cao mining panel.")
-* [Michael Lambert](www.linkedin.com/in/mikelambertchicago) - Mike is another mining expert, father, and fun guy!
+* [Michael Lambert](http://www.linkedin.com/in/mikelambertchicago) - Mike is another mining expert, father, and fun guy!
 * [Micah Winkelspecht](https://twitter.com/winkelspecht) - Micah, CEO & Founder of Gem is a security expert. His company Gem, enables developers to rapidly build bitcoin apps without being experts in cryptography and security.
  ![Micah Winkelspecht and Will O'Brien security panel.](/images/micah-winkelspecht-will-obrien-security-panel.jpg "Micah Winkelspecht and Will O'Brien security panel.")
 * [Elyse Petersen](https://twitter.com/peaceelyse) - Tea extraordinaire using bitcoin to reduce supply chain costs 10%.
