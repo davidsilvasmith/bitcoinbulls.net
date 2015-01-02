@@ -1,5 +1,5 @@
 ---
-title: My Digital Portfolio.
+title: My Bitcoin Investments
 permalink: /portfolio/
 layout: sidebar-container
 includeJoin: 1
@@ -7,12 +7,12 @@ includeJoin: 1
 
 Unfortunately at the moment I'm not excited about any of the available investment options. I feel the risks are too high and the returns are too low. In the future I plan on putting a higher percentage of my portfolio to work as I discover more attractive investments.
 
-### My portfolio holdings as of 11/7/2014.
+### My portfolio holdings as of 1/2/2015.
 
 | Service       | Annual APR    | Bitcoins |
 | ------------- |-------------: | -----:   |
-| BTC Delta     |            5% |     8    |
-| BTC Jam       |           30% |    1.5   |
+| BTC Delta     |            5% |   8.2    |
+| BTC Jam       |           37% |   1.7    |
 | Total         |            NA |   250    |
 
 ### Other holdings:
