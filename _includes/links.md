@@ -7,3 +7,5 @@
 [BitPay]: https://bitpay.com?oid=860830
 
 [BitcoinTaxes]: https://bitcoin.tax/
+
+[Bitfinex]: http://www.bitfinex.com/
