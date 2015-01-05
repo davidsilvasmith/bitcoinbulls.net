@@ -6,6 +6,8 @@ excerpt: Bitfinex seemed like an exciting opportunity to earn bitcoin interest. 
 {%include links.md %}
 ![Bitfinex Pays Bitcoin Interest](/images/bitfinex-pays-bitcoin-interest.jpg "Bitfinex Pays Bitcoin Interest")
 
+***Update 01/05/2015:** Why Stu Lustman [lends on Bitfinex](http://p2plendingexpert.com/why-i-lend-on-bitfinex)*
+
 #How I Earned Bitcoin Last Year
 
 One of the keys to my 18x bitcoin investment performance last year was earning bitcoins through additional investment. Unfortunately those opportunities no longer exist or the risk became too high. This year I've been keeping an eye out for opportunities to earn bitcoin interest and dividends.

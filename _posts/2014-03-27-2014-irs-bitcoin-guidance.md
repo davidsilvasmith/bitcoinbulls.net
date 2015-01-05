@@ -11,6 +11,8 @@ excerpt: Removing fear and uncertainty the IRS released tax guidance for bitcoin
 
 ***Update 10/14/2014:** I used [BitcoinTaxes] to prepare my taxes. It quickly imported my [Coinbase] and CampBX transactions no problemo. It enables quick switching between FIFO, LIFO, and other accounting methods to quickly see which is best.*
 
+***Update 1/5/2015:** [Understanding how to track loans for tax purposes](http://p2plendingexpert.com/the-guide-to-tracking-bitcoin-p2p-loans-for-us-citizens/)*
+
 #Fears Removed
 
 You may have heard bitcoin is illegal. You may be scared of ambiguities in reporting bitcoin taxes.

@@ -7,6 +7,15 @@ excerpt: BTCJam is a peer-to-peer lending service similar to Prosper and Lending
 
 ![Growing Bitcoins](/images/can-btcjam-grow-your-bitcoins.jpg)
 
+***Update 1/5/2015:** Resource - [Btcjamtop](http://btcjamtop.com/) helps filter loans and provide stats about BTCJam.*
+
+***Update 1/5/2015** [10 Rules to Profit from Bitcoin Lending](http://btctoast.com/article/how-profit-bitcoin-p2p-lending) (see the attachment) has great investing tips from a professional credit and finance advisor.*
+
+***Update 1/5/2015:** [BTCJam provides more info but still falls short](http://p2plendingexpert.com/btcjam-providing-more-info-but-still-falling-short/) An article on BTCJam's transparency.*
+
+***Update 1/5/2015** [Backstory on BTCJam](http://peersociallending.com/investing/btcjam-review-worlds-first-largest-bitcoin-lending-network/) this article explains why BTCJam rates are able to seem high to U.S. investors.*
+
+
 ## Back Story
 Last year I got a **%1,900%** 4-month return on my bitcoin investment. Key to that unbelievable return was a strategy of investing bitcoins. This increased my gains and decreased the risk of a loss due to a decline in bitcoin's price. It also exposed me to the risk of losing the bitcoins I was investing.
 
