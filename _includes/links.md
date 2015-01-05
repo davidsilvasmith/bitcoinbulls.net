@@ -9,3 +9,9 @@
 [BitcoinTaxes]: https://bitcoin.tax/
 
 [Bitfinex]: http://www.bitfinex.com/
+
+[Delta Financial]: https://deltafinancial.com/
+
+[btcjam-internal]: /can-btc-jam-grow-your-bitcoins.html
+
+[btcdelta-internal]: /delta-financial-pays-bitcoin-interest.html
