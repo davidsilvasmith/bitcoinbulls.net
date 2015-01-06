@@ -1,6 +1,6 @@
 ---
 layout: landingPage
-title: Webinar making your bitcoin work for you. Getting a good return in a flat market.
+title: Webinar making your bitcoin work for you. Earning a good return in a flat market.
 permalink: /making-your-bitcoin-work/thanks/
 ---
 <div class="row" style="padding:2em;">
