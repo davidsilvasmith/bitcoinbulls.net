@@ -7,6 +7,10 @@ excerpt: Delta Financial offers 5% interest on bitcoin deposits.
 
 ![Delta Financial Pays Bitcoin Interest](/images/delta-financial-pays-bitcoin-interest.jpg "Delta Financial Pays Bitcoin Interest")
 
+
+***Update 01/10/2015:** Delta Financial no longer accepts deposits.*
+
+
 #How I Earned Bitcoin in 2013
 
 One of the keys to my 18x 2013 bitcoin investment performance was earning bitcoins through bitcoin investments. Unfortunately in 2014 investment returns were lower and the risks were higher because my portfolio value was higher. In 2015 I'll be keeping an eye out for good opportunities to earn bitcoin interest and dividends.
