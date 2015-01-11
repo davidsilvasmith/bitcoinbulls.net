@@ -15,3 +15,5 @@
 [btcjam-internal]: /can-btc-jam-grow-your-bitcoins.html
 
 [btcdelta-internal]: /delta-financial-pays-bitcoin-interest.html
+
+[circle-internal]: /circle-is-amazing.html

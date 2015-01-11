@@ -117,4 +117,46 @@ body {
 
 
 
+figure {
+	  position:relative;
+	  clear:none;
+	  display:inline-block;
+	  overflow:hidden;
+	  margin-left:auto;
+	  margin-right:auto;
+	  text-align: center;
+}
+
+	figure img {
+	  position:relative;
+}
+
+figure>blockquote, figure>figcaption {
+	background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    border-left-width: 0px;
+  	color: #fff;
+	left:0em;
+	position:absolute;
+	width:100%;
+	z-index:2;
+}
+
+figure>blockquote {
+	top:0px;
+	text-align:center;
+    display:block;
+    p {
+		font-size:1em;
+    }
+}
+	
+figure>figcaption {
+	 bottom: 0em;
+     font-size: .75em;
+
+     p {
+     	margin-left:1em;
+     }
+}
  
