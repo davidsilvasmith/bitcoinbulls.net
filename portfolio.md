@@ -9,16 +9,23 @@ includeJoin: 1
 
 Unfortunately at the moment none of the existing investment options are ideal. I feel the risks are too high or the returns are too low. In the future I plan on putting a higher percentage of my bitcoin portfolio to work as I discover more attractive investments.
 
-### My portfolio holdings as of 1/2/2015.
+### My portfolio holdings as of 1/11/2015.
 
 | Service                               | Annual APY    | Bitcoins |
 | -----------------------------------   |-------------: | -----:   |
-| [Delta Financial][btcdelta-internal]  |            5% |   8.2    |
 | [BTCJam][btcjam-internal]             |           37% |   1.7    |
 | Total                                 |            NA |   250    |
 
-### Other holdings:
 
+
+### Exited Positions:
+
+| Date      | Service                               | Annual APY    | Bitcoins |
+| :--       | -----------------------------------   |-------------: | -----:   |
+| 1/11/2015 | [Delta Financial][btcdelta-internal]  |            5% |   8.2    |
+
+
+### Other holdings:
 * Ethereum
 
 ### Investments I plan on Exploring:
