@@ -74,6 +74,8 @@ navigation:
 
 <body>
 
+<!-- hack to put this at the right level in the DOM -->
+{% include request-signup-link.html param="" %} 
 <section class="site-nav">
     <header>
         <nav id="navigation">
@@ -131,7 +133,7 @@ navigation:
     </div>
 </footer>
     <script src="/scripts/jquery-1.8.2.min.js"></script>
-    <script src="/scripts/bootstrap.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"></script>
     <script src="/scripts/custom.js"></script>
 </body>
 </html>
