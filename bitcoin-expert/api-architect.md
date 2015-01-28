@@ -1,5 +1,5 @@
 ---
-title: Bring Bitcoin Bull David Smith's design expertise to your project.
+title: David Smith's API design can help build your platform.
 permalink: /bitcoin-expert/api-architect/
 ---
 

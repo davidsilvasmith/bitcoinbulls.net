@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Bull David Smith is an experienced bitcoin educator
+title: David Smith is an experienced bitcoin educator.
 permalink: /bitcoin-expert/educator/
 layout: sidebar-container
 ---

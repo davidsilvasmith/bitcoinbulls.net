@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Bull David Smith is a Bitcoin Expert
+title: Hire bitcoin expert David Smith.
 permalink: /bitcoin-expert/
 layout: sidebar-container
 ---

@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Bull David Smith is a Bitcoin Expert
+title: David Smith is an expert bitcoin consultant.
 permalink: /bitcoin-expert/consultant/
 layout: sidebar-container
 ---
