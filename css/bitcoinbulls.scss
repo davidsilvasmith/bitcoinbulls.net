@@ -148,4 +148,37 @@ figure>figcaption {
      	margin-left:1em;
      }
 }
- 
+
+
+article blockquote p {
+     font-size:18px;
+     display: inline;
+}
+
+article blockquote { 
+	padding:0px 12px 12px 12px;
+	width: 90%; 
+}
+
+article section figure {
+	p  {
+		margin:0px;
+			img {
+			margin:0px;
+			}
+	}
+
+	blockquote {
+		padding:0px;
+		width: 100%;
+		margin:0px;
+
+		p{
+		color: #fff
+		}
+	}
+}
+
+article section figure figcaption p {
+	color: #fff;
+}
