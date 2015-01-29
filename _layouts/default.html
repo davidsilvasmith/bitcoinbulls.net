@@ -42,7 +42,7 @@ navigation:
     <meta name="application-name" content="Bitcoin Bulls">
     <meta name="apple-mobile-web-app-title" content="Bitcoin Bulls">
     <link rel="image_src" href="/images/bitcoin-bulls.png" />
-    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:title" content="{{page.title}} {{page.subtitle}}" />
     <meta property="og:url" content="{{site.url}}{{page.url}}" />
     {% if page.is_post %}
         <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Atom" href="{{ site.url }}/blog/feed.atom" />
@@ -54,7 +54,7 @@ navigation:
         <meta property="og:description" content="Community for those who believe in and are invested in bitcoin's future." />
 {% endif %}
     {{page.meta}}
-    <title>{{ page.title }}</title>
+    <title>{{page.title}} {{page.subtitle}}</title>
     <link href='//fonts.googleapis.com/css?family=Montserrat%7CMuli' rel='stylesheet' type='text/css'>
     <link href="/css/main.css" rel="stylesheet" media="screen">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">

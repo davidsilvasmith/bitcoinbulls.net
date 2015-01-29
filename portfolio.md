@@ -1,13 +1,22 @@
 ---
-title: How I'm Earning Bitcoins
+title: My Portfolio
+subtitle: How I'm Earning Bitcoins
 permalink: /portfolio/
 layout: sidebar-container
 includeJoin: 1
+image: /images/branding/bitcoin-bulls-375x358.png
+
 ---
 
 {%include links.md %}
 
+
+# I'm looking for you!
 Unfortunately at the moment none of the existing investment options are ideal. I feel the risks are too high or the returns are too low. In the future I plan on putting a higher percentage of my bitcoin portfolio to work as I discover more attractive investments.
+
+Signup below and I'll let you know when there are attractive investment options.
+
+{% include request-signup-link.html param="Yes please let me know." %}
 
 ### My portfolio holdings as of 1/11/2015.
 

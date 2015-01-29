@@ -1,29 +1,16 @@
 ---
 layout: sidebar-container
-title: Bitcoin Bulls - Helping casual investors understand how to earn bitcoins.
+title: Bitcoin Bulls
+subtitle: Helping investors earn bitcoin.
 permalink: /
 contentFirst: 1
 postsAfterContent: 5
 includeJoin: 1
+includeCoverNav: 1
 image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
-<div class="blog-cover" style="background-image:url({{ page.image }});">
-    
-    <section>
-        <div class="container">
-            <h1>{{ site.inc.title }}</h1>
-            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
-
-            <a href="/bitcoin-expert/" title="I can grow your business."><i class="fa fa-rocket"></i></a>
-            <a href="/portfolio/" title="My portfolio"><i class="fa fa-line-chart"></i></a>
-            {% include request-signup-link.html param='<i class="fa fa-envelope"></i>' %} 
-            <a href="/bitcoin-empowers/" title="I believe..."><i class="fa fa-book"></i></a>
-        </div>
-    </section>
-</div>
-
-<article class="container">
+<main class="container">
 
 <div>
 	<p>We believe everyone deserves to be empowered. We believe Bitcoin is the most empowering force since the Internt. Bitcoin Bulls support bitcoin by investing our time and money into building the most empowering industry since the internet.</p>
@@ -72,4 +59,4 @@ There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and 
 ---
 {: .span12}
 </div>
-</article>
+</main>
