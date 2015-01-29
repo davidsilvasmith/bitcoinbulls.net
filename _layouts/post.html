@@ -1,13 +1,35 @@
 ---
 layout: sidebar-container
+author: 
+  name: David Smith
+  link: /bitcoin-expert/
+  twitter: DavidSilvaSmith
+  image: http://www.gravatar.com/avatar/7bbd083ea04a3c791e878da24c08b987.png
+  bio: David is the CEO of bitcoin bulls.
 ---
-
 <article class="container">
-    <h1>{{page.title}}</h1>      
+    <header>
+        <div class="meta">
+            By <address><a rel="author" href="{{ page.author.link }}" title="{{ page.author.name }}" target="_blank">{{ page.author.name }}</a></address> &mdash;
+            <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        </div>
+        <h1 class="title">{{ page.title }}</h1>
+        {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+    </header>
 
-    <div style="color:#666;">by David Smith on {{page.date | date: "%B %d, %Y"  }}</div>
+    <section>
+        {{ content }}
+    </section>
 
-    {{ content }}
+    <footer>
+        <address>
+           {% if page.author.image %}<img src="{{ page.author.image }}">{% endif %}
+            <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.link }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a> <a href="https://twitter.com/{{ page.author.twitter }}" title="Follow {{ page.author_name }} on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></strong><br>
+            <span class="muted">{{ page.author.bio }}</span>
+            </p>
+        </address>
+
+    </footer>
     <br />
     <br />
     <br />
