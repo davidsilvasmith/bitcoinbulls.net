@@ -1,7 +1,8 @@
 ---
-title: David Smith is an expert bitcoin consultant.
+title: New to bitcoin?
+subtitle: Let me help.
 permalink: /bitcoin-expert/consultant/
-layout: sidebar-container
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 {% include years-experience.md %}

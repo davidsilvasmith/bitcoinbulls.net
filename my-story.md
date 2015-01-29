@@ -1,8 +1,10 @@
 ---
 layout: sidebar-container
 title: My Story
+subtitle: How I became a Bitcoin Bull
 includeJoin: 1
 permalink: /my-story/
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 #Why I'm a Bitcoin Bull

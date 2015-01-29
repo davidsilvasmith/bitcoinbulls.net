@@ -1,11 +1,11 @@
 ---
 layout: sidebar-container
-title: What is Bitcoin?
+title: Huh? What's a bitcoin?
+subtitle: The most empowering force since the Internet.
 permalink: /what-is-bitcoin/
 includeJoin: 1
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
-
-#Huh? What's a bitcoin?
 
 Everyone deserves to be empowered.
 

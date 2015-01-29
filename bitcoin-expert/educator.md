@@ -1,7 +1,8 @@
 ---
-title: David Smith is an experienced bitcoin educator.
+title: Experienced bitcoin educator
+subtitle: Making the complex simple
 permalink: /bitcoin-expert/educator/
-layout: sidebar-container
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 {% include years-experience.md %}

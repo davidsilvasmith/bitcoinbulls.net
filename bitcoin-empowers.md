@@ -1,8 +1,10 @@
 ---
+title: Everyone deserves to be empowered.
+subtitle: Bitcoin is the most empowering force since the Internet.
 layout: sidebar-container
-title: Bitcoin Empowers People
 includeJoin: 1
 permalink: /bitcoin-empowers/
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 # I believe everyone deserves to be empowered.

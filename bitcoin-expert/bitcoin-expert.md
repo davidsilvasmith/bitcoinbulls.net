@@ -1,10 +1,9 @@
 ---
-title: Hire bitcoin expert David Smith.
+title: Hire bitcoin expertise.
+subtitle: I have 2 years experience in the 6-year-old bitcoin industry.
 permalink: /bitcoin-expert/
-layout: sidebar-container
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
-
-{% include years-experience.md %}
 
 This is a nascent rapidly changing industry. What you read last month may be out-of-date. Speed-to-market, correctness, and risk-mitigation are important to capture the opportunities created by bitcoin. Not only can I tell you where the industry is today, I have a better idea than most as to where it is going. 
 
