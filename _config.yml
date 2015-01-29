@@ -1,8 +1,8 @@
 inc:
   # Blog Information
   title:        "Bitcoin Bulls"
-  subtitle:     "Helping bitcoin investors earn bitcoins."
-  cover_image:  /branding/bitcoin-bulls-375x358.png
+  subtitle:     "Helping investors earn bitcoin."
+  cover_image:  /images/branding/bitcoin-bulls-375x358.png
   logo:         /branding/bitcoin-bulls-52x50.png
   
   # Company information
@@ -15,7 +15,7 @@ inc:
   
   # Product Information
   product_link: /bitcoin-expert/
-  tagline:      "I help CEOs"
+  tagline:      "I help CEOs too"
   
   # Comments
   disqus:

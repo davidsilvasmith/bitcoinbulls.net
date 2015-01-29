@@ -5,14 +5,25 @@ permalink: /
 contentFirst: 1
 postsAfterContent: 5
 includeJoin: 1
+image: /images/branding/bitcoin-bulls-375x358.png
 ---
-<div class="jumbotron">
-    <a href="/portfolio/"><span class="link_fill"> </span></a>
-    <h1>Want to earn bitcoins?</h1>
-    <p class="lead">Banks, CDs, and bonds don't pay meaningful interest today. Brand new financial products are being created in the emerging digital currency industry. I risk my bitcoins in bleeding edge financial products so you don't have to. I analyze the bitcoin investment opportunities and report back to you. </p>
-    <a href="/portfolio/" class="btn btn-lg btn-success" role="button"><i class="fa fa-info-circle"></i> See my portfolio.</a>
 
+<div class="blog-cover" style="background-image:url({{ page.image }});">
+    
+    <section>
+        <div class="container">
+            <h1>{{ site.inc.title }}</h1>
+            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
+
+            <a href="/bitcoin-expert/" title="I can grow your business."><i class="fa fa-rocket"></i></a>
+            <a href="/portfolio/" title="My portfolio"><i class="fa fa-line-chart"></i></a>
+            {% include request-signup-link.html param='<i class="fa fa-envelope"></i>' %} 
+            <a href="/bitcoin-empowers/" title="I believe..."><i class="fa fa-book"></i></a>
+        </div>
+    </section>
 </div>
+
+<article class="container">
 
 <div>
 	<p>We believe everyone deserves to be empowered. We believe Bitcoin is the most empowering force since the Internt. Bitcoin Bulls support bitcoin by investing our time and money into building the most empowering industry since the internet.</p>
@@ -61,3 +72,4 @@ There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and 
 ---
 {: .span12}
 </div>
+</article>
