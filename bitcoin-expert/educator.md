@@ -2,7 +2,6 @@
 title: Experienced bitcoin educator
 subtitle: Making the complex simple
 permalink: /bitcoin-expert/educator/
-image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 {% include years-experience.md %}

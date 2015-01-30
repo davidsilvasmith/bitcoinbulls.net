@@ -19,6 +19,11 @@ bitcoinbulls.net
 * Gimp
 * Inkscape
 * Favicons generated with http://realfavicongenerator.net/
+* pngs shrunk with 
+	* ImageAlpha http://pngmini.com/
+	* ImageOptim
+	* https://tinypng.com/
+
 
 Facebook Debugger is useful for open graph debugging
 

@@ -2,7 +2,6 @@
 title: API Design
 subtitle: Can help build your platform.
 permalink: /bitcoin-expert/api-architect/
-image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 {% include years-experience.md %}

@@ -2,7 +2,6 @@
 title: New to bitcoin?
 subtitle: Let me help.
 permalink: /bitcoin-expert/consultant/
-image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 {% include years-experience.md %}

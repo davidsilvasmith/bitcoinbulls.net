@@ -7,7 +7,6 @@ contentFirst: 1
 postsAfterContent: 5
 includeJoin: 1
 includeCoverNav: 1
-image: /images/branding/bitcoin-bulls-375x358.png
 ---
 
 <main class="container">

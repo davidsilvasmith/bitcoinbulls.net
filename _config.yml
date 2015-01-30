@@ -68,6 +68,7 @@ defaults:
       path: "" # empty string for all files
     values:
       layout: "default"
+      image: /images/branding/bitcoin-bull-sunset-1440x320-minified.png
   -
     scope:
       path: "" # empty string for all files

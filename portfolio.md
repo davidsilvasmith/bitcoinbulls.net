@@ -4,7 +4,6 @@ subtitle: How I'm Earning Bitcoins
 permalink: /portfolio/
 layout: sidebar-container
 includeJoin: 1
-image: /images/branding/bitcoin-bulls-375x358.png
 
 ---
 
