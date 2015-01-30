@@ -108,10 +108,10 @@ navigation:
             <h1>{{ page.title }}</h1>
             {% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
             {% if page.includeCoverNav %}
-              <a href="/bitcoin-expert/" title="I can grow your business."><i class="fa fa-rocket"></i></a>
-              <a href="/portfolio/" title="My portfolio"><i class="fa fa-line-chart"></i></a>
-              {% include request-signup-link.html param='<i class="fa fa-envelope"></i>' %} 
-              <a href="/bitcoin-empowers/" title="I believe..."><i class="fa fa-book"></i></a>
+              <a href="/bitcoin-expert/" title="I can grow your business."><i class="fa fa-rocket fa-lg"></i></a>
+              <a href="/portfolio/" title="My portfolio"><i class="fa fa-line-chart fa-lg"></i></a>
+              {% include request-signup-link.html param='<i class="fa fa-envelope fa-lg"></i>' %} 
+              <a href="/bitcoin-empowers/" title="I believe..."><i class="fa fa-book fa-lg"></i></a>
             {% endif %}
         </div>
     </section>
@@ -139,16 +139,16 @@ navigation:
         
         <nav class="social">
             {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
+            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
             {% endif %}
             {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
+            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
             {% endif %}
             
-            {% include request-signup-link.html param='<i class="fa fa-envelope" black></i>' %} 
+            {% include request-signup-link.html param='<i class="fa fa-envelope fa-lg" ></i>' %} 
             
             <a href="/blog/feed.atom" title="RSS Feed">
-                <i class="icon icon-rss black"></i>
+                <i class="fa fa-rss fa-lg"></i>
             </a>
         </nav>
     </div>
