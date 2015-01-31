@@ -30,10 +30,6 @@ img {
 	border: 1px solid $font_color;	
 }
 
-a:hover {
-	text-decoration: none;
-}
-
 h1, h4 {
 	text-align: center;
 }
@@ -160,6 +156,15 @@ article blockquote {
 	width: 90%; 
 }
 
+main p {
+	margin-bottom: 30px;
+	font-size: 22px;
+}
+
+main h1,h2,h3,h4,h5,h6 {
+	margin-bottom: 8px;
+}
+
 article section figure {
 	p  {
 		margin:0px;
@@ -181,4 +186,14 @@ article section figure {
 
 article section figure figcaption p {
 	color: #fff;
+}
+
+main a {
+	color: $text;
+	text-decoration: underline;
+	:hover {
+		font-size: 1.33em;
+		text-decoration: underline;
+		 outline: thin solid;
+	}
 }

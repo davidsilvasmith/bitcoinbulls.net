@@ -11,10 +11,9 @@ includeCoverNav: 1
 
 <main class="container">
 
-<div>
-	<p>We believe everyone deserves to be empowered. We believe Bitcoin is the most empowering force since the Internt. Bitcoin Bulls support bitcoin by investing our time and money into building the most empowering industry since the internet.</p>
-	Not convinced Bitcoin is the most empowering force since the Internet? I've been using bitcoin since July 2013. Here are <a href="/bitcoin-empowers/">some of the reasons</a> I see bitcoin as so empowering.
-</div>
+	<p>We believe everyone deserves to be empowered. We believe Bitcoin is the most empowering force since the Internet. Bitcoin Bulls support bitcoin by investing our time and money into building the most empowering industry since the internet.</p>
+
+	<p>Not convinced Bitcoin is the most empowering force since the Internet? I've been using bitcoin since July 2013. Here are <a href="/bitcoin-empowers/">some of the reasons</a> I see bitcoin as so empowering.</p>
 
 <div class='row' markdown="1">
 ---
