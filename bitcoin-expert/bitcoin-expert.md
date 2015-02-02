@@ -4,6 +4,37 @@ subtitle: I have 2 years experience in the 6-year-old bitcoin industry.
 permalink: /bitcoin-expert/
 ---
 
+<div class="row">
+<div class="col-lg-4 fillable" markdown="1">
+[<span class="link_fill"> </span>](/bitcoin-expert/api-architect)
+
+##<i class="fa fa-file-code-o"></i> API Architect
+Platforms increase software usage and switching costs. I can help design and test your bitcoin software API.
+
+[Learn more >>](/bitcoin-expert/api-architect){: class="btn btn-primary" role="button"}
+</div>
+
+<div class="col-lg-4 fillable" markdown="1">
+[<span class="link_fill"> </span>](/bitcoin-expert/consultant/)
+
+##<i class="fa fa-fighter-jet"></i> Consultant
+
+New to bitcoin with a great idea? Let me help you get to market faster and more effectively.
+
+[Learn more >>](/bitcoin-expert/consultant/){: class="btn btn-primary" role="button"}
+</div>
+
+<div class="col-lg-4 fillable" markdown="1">
+[<span class="link_fill"> </span>](/bitcoin-expert/educator/)
+
+##<i class="fa fa-user-plus"></i> Educator
+
+Don't have time to attend conferences? Have your presentations failed to convert? I can help deliver your message.
+
+[Learn more >>](/bitcoin-expert/educator/){: class="btn btn-primary" role="button"}
+</div>
+</div>
+
 This is a nascent rapidly changing industry. What you read last month may be out-of-date. Speed-to-market, correctness, and risk-mitigation are important to capture the opportunities created by bitcoin. Not only can I tell you where the industry is today, I have a better idea than most as to where it is going. 
 
 For example I predicted PayPal would use bitcoin instead of competing with it half a year before their announcement ([proof](http://www.benzinga.com/news/14/03/4409527/paypal-should-use-bitcoin-not-compete)). Six months may not seem like a long time but bitcoin changes so fast. For comparison forecasting six months out in the bitcoin industry is like forecasting 5 years out in the mobile industry.
