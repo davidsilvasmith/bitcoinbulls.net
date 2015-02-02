@@ -1,6 +1,6 @@
 ---
 title: API Architect
-subtitle: Can help build your platform.
+subtitle: I can help build your platform.
 permalink: /bitcoin-expert/api-architect/
 ---
 

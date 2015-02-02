@@ -1,6 +1,6 @@
 ---
-title: New to bitcoin?
-subtitle: Let me help.
+title: Bitcoin Consultant
+subtitle: I can speed you up
 permalink: /bitcoin-expert/consultant/
 ---
 

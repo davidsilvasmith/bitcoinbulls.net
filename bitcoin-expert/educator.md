@@ -1,5 +1,5 @@
 ---
-title: Experienced bitcoin educator
+title: Experienced Educator
 subtitle: Making the complex simple
 permalink: /bitcoin-expert/educator/
 ---
