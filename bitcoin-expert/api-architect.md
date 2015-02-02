@@ -1,5 +1,5 @@
 ---
-title: API Design
+title: API Architect
 subtitle: Can help build your platform.
 permalink: /bitcoin-expert/api-architect/
 ---
