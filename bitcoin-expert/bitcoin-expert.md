@@ -27,7 +27,7 @@ New to bitcoin with a great idea? Let me help you get to market faster and more 
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/bitcoin-expert/educator/)
 
-##<i class="fa fa-user-plus"></i> Educator
+##<i class="fa fa-microphone"></i> Educator
 
 Don't have time to attend conferences? Have your presentations failed to convert? I can help deliver your message.
 
