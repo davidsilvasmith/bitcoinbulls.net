@@ -69,6 +69,7 @@ defaults:
     values:
       layout: "default"
       image: /images/branding/bitcoin-bull-sunset-1440x320-minified.png
+      includeHeader: standard-image.html
   -
     scope:
       path: "" # empty string for all files

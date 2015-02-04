@@ -100,21 +100,8 @@ navigation:
     </header>
 </section>
 
-{% if page.image %}
-<div class="blog-cover" style="background-image:url({{ page.image }});">
-    <section> 
-        <div class="container">
-            <h1>{{ page.title }}</h1>
-            {% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
-            {% if page.includeCoverNav %}
-              <a href="/bitcoin-expert/" title="I can grow your business."><i class="fa fa-rocket"></i></a>
-              <a href="/portfolio/" title="My portfolio"><i class="fa fa-line-chart"></i></a>
-              {% include request-signup-link.html param='<i class="fa fa-envelope"></i>' %} 
-              <a href="/bitcoin-empowers/" title="I believe..."><i class="fa fa-book"></i></a>
-            {% endif %}
-        </div>
-    </section>
-</div>
+{% if page.includeHeader %}
+ {% include {{page.includeHeader}} %}
 {% endif %}
 
 {% if page.isSideBar %}
