@@ -19,7 +19,7 @@ Platforms increase software usage and switching costs. I can help design and tes
 
 ##<i class="fa fa-fighter-jet"></i> Consultant
 
-New to bitcoin with a great idea? Let me help you get to market faster and more effectively.
+Want to improve your bitcoin service? Let me help you reduce support costs and improve market share.
 
 [Learn more >>](/bitcoin-expert/consultant/){: class="btn btn-primary" role="button"}
 </div>
