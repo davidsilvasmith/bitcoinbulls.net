@@ -1,5 +1,5 @@
 {% if page.image %}
-<div class="blog-cover" style="background-image:url({{ page.image | replace:"'",'%27'}});">
+<div class="blog-cover" style="background-image:url({% include image-path.html %} );">
     <section> 
         <div class="container">
             <h1>{{ page.title }}</h1>

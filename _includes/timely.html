@@ -15,7 +15,7 @@
       <div class="panel-body">
           <a href="{{workingPost.url}}">
             {% assign workingPostContent = workingPost.content %}
-      			<img src="{% include first-post-image-src.html param=workingPostContent %}" alt="{{workingPost.title}}" />
+      			<img src="{{workingPost.image}}" alt="{{workingPost.title}}" />
           <p>{{workingPost.excerpt}}</p>
 		      <p class="btn btn-md btn-success" role="button">READ POST</p>
 		      <br>

@@ -47,7 +47,7 @@ navigation:
     <meta property="og:url" content="{{site.url}}{{page.url}}" />
     {% if page.is_post %}
         <link rel="alternate" type="application/atom+xml" title="{{ site.name }} — Atom" href="{{ site.url }}/blog/feed.atom" />
-        <meta property="og:image" content="{% include first-post-image-src.html %}" />
+        <meta property="og:image" content="{% include image-path.html %}" />
         <meta property="og:description" content="{{page.excerpt}}" />
         {% else %}
 
@@ -75,7 +75,7 @@ navigation:
 
 <body>
 <!-- hack to put this at the right level in the DOM -->
-{% include request-signup-link.html param="" %} 
+{% include request-signup-link.html param="" %}
 <section class="site-nav">
     <header>
         <nav id="navigation">
