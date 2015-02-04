@@ -1,9 +1,10 @@
 ---
 title: Bitcoin Beginners Workshop TNABC Chicago
 excerpt: Bitcoin is ready for mainstream use. This weekend proved bitcoin is ready for mainstream by proving that everyday people (read not tech nerds) can use bitcoin today with little training.
+image: /images/tnabc-bitcoin-is-ready-for-everyone.jpg
 ---
 
-![Andreas Antonopoulos encourages using the bitcoin ATM ](/images/tnabc-bitcoin-is-ready-for-everyone.jpg)
+![Andreas Antonopoulos encourages using the bitcoin ATM ](/images/tnabc-bitcoin-is-ready-for-everyone.jpg "Andreas Antonopoulos encourages using the bitcoin ATM")
 
 In Chicago this weekend [Will Pangman](https://twitter.com/Willwaukee), [Pamela Morgan](https://twitter.com/pamelawjd), [Andreas Antonopoulos](https://twitter.com/aantonop), and I conducted a Bitcoin for Beginners Workshop.
 

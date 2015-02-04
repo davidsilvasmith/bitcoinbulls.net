@@ -1,5 +1,6 @@
 ---
 excerpt: David Smith is excited to return to Inside Bitcoins Vegas. David will be speaking on "Explaining Bitcoin in Plain English."
+image: /images/inside-Bitcoins-Vegas-2014.jpg 
 ---
 
 ![Inside Bitcoins Vegas](/images/inside-Bitcoins-Vegas-2014.jpg "Inside Bitcoins Vegas")

@@ -1,9 +1,10 @@
 ---
 title: Bitcoin Donations Have Fed 100K Meals to Homeless People
 excerpt: Bitcoin is great for charities. Bitcoin is the most efficient digital form of payment and eliminates many sources of fraud. This means more money goes from donors to the causes they care about.
+image: /images/bitcoin-donations-have-fed-100k-meals-to-homeless-people.jpg
 ---
 
-![two week BTCJam Returns](/images/bitcoin-donations-have-fed-100k-meals-to-homeless-people.jpg)
+![Bitcoin donations have fed 100k meals to homelss people](/images/bitcoin-donations-have-fed-100k-meals-to-homeless-people.jpg "Bitcoin donations have fed 100k meals to homelss people")
 
 At Coin Congress San Francisco this week I heard Jason King talk about the homeless outreach he is doing in in Florida.
 

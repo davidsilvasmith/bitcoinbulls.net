@@ -1,6 +1,7 @@
 ---
 title: 2014 IRS Bitcoin Guidance
 excerpt: Removing fear and uncertainty the IRS released tax guidance for bitcoin investors, miners, and holders.
+image: /images/irs-bitcoin-tax-uncertainty-removed.jpg
 ---
 
 {%include links.md %}

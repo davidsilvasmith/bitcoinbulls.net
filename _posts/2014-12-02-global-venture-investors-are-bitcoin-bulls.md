@@ -1,5 +1,6 @@
 ---
 excerpt: Fintech investors are excited about digital currencies. I was honored to participate in the 2014 Global Venture Forum. I was surprised to hear that financial tech investors are bullish on bitcoin and digital currency investments.
+image: /images/global-venture-investors-are-bitcoin-bulls.jpg 
 ---
 
 ![Global Venture Investors are bitcoin bulls!](/images/global-venture-investors-are-bitcoin-bulls.jpg "Global Venture Investors are bitcoin bulls!")

@@ -1,6 +1,7 @@
 ---
 title: Bitfinex Pays Bitcoin Interest
 excerpt: Bitfinex seemed like an exciting opportunity to earn bitcoin interest. Unfortunately I did not like the service.
+image: /images/bitfinex-pays-bitcoin-interest.jpg
 ---
 
 {%include links.md %}

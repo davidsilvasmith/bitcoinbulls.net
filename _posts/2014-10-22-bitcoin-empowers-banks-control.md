@@ -1,5 +1,6 @@
 ---
 excerpt: While in Vegas I ran into another situation where I realized how bitcoin empowers people while banks control people.
+image: /images/banks-control-bitcoin-empowers.jpg 
 ---
 
 ![Bitcoin empowers, banks control.](/images/banks-control-bitcoin-empowers.jpg "Bitcoin empowers banks control.")

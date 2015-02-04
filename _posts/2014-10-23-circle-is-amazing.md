@@ -1,5 +1,6 @@
 ---
 excerpt: Circle is more amazing than people realize.
+image: /images/circle-is-amazing.jpg 
 ---
 
 ![Circle is Amazing!](/images/circle-is-amazing.jpg "Circle is Amazing!")

@@ -1,8 +1,9 @@
 ---
 excerpt: David Smith will be speaking at Coin Agenda, a conference geared for individual and institutional investors. The conference will be educational and entertaining featuring networking parties such as a VIP dinner at Mike Tyson's former mansion.
+image: /images/Coin-Agenda-2014-Preview.jpg
 ---
 
-![Coin Agenda will be fun and educational.](/images/Coin-Agenda-2014-Preview.jpg)
+![Coin Agenda will be fun and educational.](/images/Coin-Agenda-2014-Preview.jpg "Coin Agenda will be fun and educational.")
 
 Bulls I'm excited to announce I'll be presenting at [CoinAgenda](http://www.coinagenda.com), the first bitcoin investor conference in Las Vegas October 7th through the 9th.
 

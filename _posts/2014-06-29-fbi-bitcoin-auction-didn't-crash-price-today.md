@@ -1,6 +1,7 @@
 ---
 title: FBI Bitcoin Auction Didn't Crash Price Today
 excerpt: "Today's bitcoin auction by the FBI did not crash bitcoin's price."
+image: /images/fbi-bitcoin-auction-didn't-crash-price-today.jpg
 ---
 
 ![FBI bitcoin auction didn't crash price today](/images/fbi-bitcoin-auction-didn't-crash-price-today.jpg "FBI bitcoin auction didn't crash price today")

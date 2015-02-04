@@ -1,9 +1,10 @@
 ---
 title: Why AAA Would Benefit from Accepting Bitcoin
 excerpt: AAA's renewal process would be more convenient and efficient by using bitcoin. This post describes the current process and how a bitcoin process would be more convenient for customers.
+image: /images/why-aaa-would-benefit-from-bitcoin.jpg
 ---
 
-![my renewal papers](/images/why-aaa-would-benefit-from-bitcoin.jpg)
+![Why AAA would benefit from bitcoin](/images/why-aaa-would-benefit-from-bitcoin.jpg "Why AAA would benefit from bitcoin")
 
 Getting the mail today I stressed out thinking I'd forgotten to renew my car insurance. Nearly all my bills are paid automatically by ACH or credit cards on file. This is not the case with my AAA insurance. 
 

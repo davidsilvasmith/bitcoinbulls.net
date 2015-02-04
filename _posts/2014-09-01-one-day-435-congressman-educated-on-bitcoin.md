@@ -1,9 +1,10 @@
 ---
 title: "One Day: 435 Congressmen Educated on Bitcoin"
 excerpt: On Friday August 29th the Chamber of Digital Commerce educated all 435 congressional offices on bitcoin.
+image: /images/one-day-435-congressmen-educated-on-bitcoin.jpg
 ---
 
-![Perianne Boring and Representative Steve Stockman kick off Congressional Bitcoin Education Day](/images/one-day-435-congressmen-educated-on-bitcoin.jpg)
+![Perianne Boring and Representative Steve Stockman kick off Congressional Bitcoin Education Day](/images/one-day-435-congressmen-educated-on-bitcoin.jpg "Perianne Boring and Representative Steve Stockman kick off Congressional Bitcoin Education Day")
 
 I was honored to participate in the [Inaugural Congressional Bitcoin Education Day](http://www.digitalchamber.org/btc-education-day.html).
 

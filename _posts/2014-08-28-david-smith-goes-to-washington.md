@@ -1,8 +1,9 @@
 ---
 excerpt: David will be on Capitol Hill tomorrow educating congressional policy makers about the potential positive impact (think Internet) of bitcoin on our economy.
+image: /images/david-smith-goes-to-washington.jpg
 ---
 
-![David Smith in DC](/images/david-smith-goes-to-washington.jpg)
+![David Smith goes to washington](/images/david-smith-goes-to-washington.jpg "David Smith goes to washington")
 
 I'll be returning to DC for the first time in almost a decade. I have a lot of great memories visiting college friends and my cousin here.
 

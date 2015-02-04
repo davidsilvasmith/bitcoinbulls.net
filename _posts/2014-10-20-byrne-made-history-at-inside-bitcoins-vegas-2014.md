@@ -1,5 +1,6 @@
 ---
 excerpt: David Smith was excited to speak at Inside Bitcoins Vegas 2014 where Patryck Byrne made history announcing Medici.
+image: /images/patrick-byrne-discusses-medici.jpg  
 ---
 
 ![Patrick Byrne Discusses Medici.](/images/patrick-byrne-discusses-medici.jpg "Patrick Byrne Discusses Medici.")

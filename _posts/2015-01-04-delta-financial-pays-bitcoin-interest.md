@@ -1,6 +1,7 @@
 ---
 title: Delta Financial Pays Bitcoin Interest
 excerpt: Delta Financial offers 5% interest on bitcoin deposits.
+image: /images/delta-financial-pays-bitcoin-interest.jpg 
 ---
 
 {%include links.md %}

@@ -1,8 +1,9 @@
 ---
 excerpt: David Smith was on the mass adoption panel with Bobby Lee, Tom Longson, Will Wheeler, Kevin Salter, and Bradley Rotter. We talked about the challenges bitcoin faces in achieving quick mass adoption and how to overcome them.
+image: /images/coin-congress-usa-2014-1-billion-users.jpg
 ---
 
-![We discussed bitcoin mass adoption](/images/coin-congress-usa-2014-1-billion-users.jpg)
+![Coin Congress Bitcoin mass adoption 1 billion users](/images/coin-congress-usa-2014-1-billion-users.jpg "Coin Congress Bitcoin mass adoption 1 billion users")
 
 Bulls, I was excited to be on the mass adoption panel with such industry notables as:
 

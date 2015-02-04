@@ -1,6 +1,7 @@
 ---
 title: What Will Trigger a Bitcoin Investment Surge?
 excerpt: David Smith was excited to speak at CoinAgenda, the first bitcoin conference targeting investors.
+image: /images/what-will-trigger-an-investment-surge.jpg 
 ---
 
 ![What will trigger a bitcoin investment surge?](/images/what-will-trigger-an-investment-surge.jpg "What will trigger a bitcoin investment surge?")

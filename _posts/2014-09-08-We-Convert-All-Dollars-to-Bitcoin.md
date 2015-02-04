@@ -1,8 +1,9 @@
 ---
 excerpt: Bitcoin Bulls customers pay in USD but those dollars are all converted to bitcoin.
+image: /images/dollarsToBitcoins.jpg
 ---
 
-![Bitcoin Bulls converts dollars to bitcoins.](/images/dollarsToBitcoins.jpg)
+![Bitcoin Bulls converts dollars to bitcoins.](/images/dollarsToBitcoins.jpg "Bitcoin Bulls converts dollars to bitcoins.")
 
 Bulls, I'm excited to announce today that my platform provider, [Benzinga](http://www.benzinga.com), has begun paying me 100% in bitcoin!
 

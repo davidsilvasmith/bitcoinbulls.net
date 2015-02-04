@@ -1,8 +1,9 @@
 ---
 excerpt: Coinbase's Charlie Lee works to improve bitcoin security. His work increases bitcoins value.
+image: /images/charlie-lee's-work-increases-bitcoin's-value.jpg 
 ---
 
-![Charlie Lee and David Smith](/images/charlie-lee's-work-increases-bitcoin's-value.jpg)
+![Charlie Lee's work increases bitcoin's value](/images/charlie-lee's-work-increases-bitcoin's-value.jpg "Charlie Lee's work increases bitcoin's value")
 
 I had the pleasure of meeting  Litecoin creator Charlie Lee at the North American Bitcoin Conference Chicago.  Actually I met him last year he is a super nice and gave me this:
 

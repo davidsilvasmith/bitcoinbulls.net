@@ -1,8 +1,9 @@
 ---
 excerpt: 37Coins has technology enabling everyone who can text message to use bitcoin. Their presentation at the Michigan Bitcoiners Detroit meetup was outstanding!
+image: /images/michigan-bitcoiners-37coins.jpg
 ---
 
-![Jonathan Zobro shows off the 37 Coins platform in Detroit.](/images/michigan-bitcoiners-37coins.jpg)
+![Jonathan Zobro shows off the 37 Coins platform in Detroit.](/images/michigan-bitcoiners-37coins.jpg "Jonathan Zobro shows off the 37 Coins platform in Detroit.")
 
 Bulls!
 
