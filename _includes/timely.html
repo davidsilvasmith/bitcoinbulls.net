@@ -1,6 +1,6 @@
 {% assign workingPost = nil %}
 {% for p in site.posts %}
-  {% if p.title == 'Can BTCJam Grow Your Bitcoins?' %}
+  {% if p.title == site.data.settings.popularPostTitle %}
     {% assign workingPost = p %}
     {% if page.url == p.url %}
       {% assign workingPost = p.previous %}

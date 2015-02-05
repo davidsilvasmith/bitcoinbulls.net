@@ -1,6 +1,6 @@
 ---
 title: Bitcoin ETFs are Coming
-excerpt: There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and Barry Silbert's COIN ETF. Learn what an ETF is, when they are coming, how they will work, and what the impact may be when they are public. 
+excerpt: Two bitcoin ETFs are coming to market. The Winklevoss COIN ETF and Barry Silbert's COIN ETF. Learn what an ETF is, when they are coming, how they will work, and what the impact may be when they are public. 
 image: /images/bitcoin-etfs-are-coming.jpg
 ---
 
