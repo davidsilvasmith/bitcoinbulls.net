@@ -1,6 +1,6 @@
 ---
 title: How to Earn Bitcoin Through Arbitrage
-excerpt: Interested in automated bitcoin trading softare? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
+excerpt: Interested in automated bitcoin trading software? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
 image: /images/how-to-earn-bitcoin-through-arbitrage.jpg 
 ---
 

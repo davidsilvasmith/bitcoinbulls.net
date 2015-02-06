@@ -1,6 +1,6 @@
 {% assign workingPost = nil %}
 {% for p in site.posts %}
-  {% if p.title == site.data.settings.popularPostTitle %}
+  {% if p.title == page.popularPostTitle %}
     {% assign workingPost = p %}
     {% if page.url == p.url %}
       {% assign workingPost = p.previous %}
