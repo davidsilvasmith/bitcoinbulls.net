@@ -6,9 +6,11 @@ permalink: /bitcoin-expert/consultant/
 
 {% include years-experience.md %}
 
-## Lets level up your bitcoin platform
+## Let's level up your bitcoin platform
 
 I've been working in IT with customers for over 15 years. I know what kind of user experience people will put up with and what will drive them to use your product. Along with that experience I have a deep understanding of what is possible with bitcoin. Let me help take your user experience to the next level. It will reduce support costs and increase market share.
+
+{% include social-proof.html param=site.data.settings.socialProofs.tom %} 
 
 ## New to bitcoin? Let me help.
 

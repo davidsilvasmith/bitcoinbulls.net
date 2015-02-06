@@ -4,6 +4,7 @@ subtitle: I have 2 years experience in the 6-year-old bitcoin industry.
 permalink: /bitcoin-expert/
 ---
 
+
 <div class="row">
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/bitcoin-expert/api-architect)
@@ -35,6 +36,8 @@ Don't have time to attend conferences? Have your presentations failed to convert
 </div>
 </div>
 
+{% include social-proof.html param=site.data.settings.socialProofs.stanley %} 
+
 This is a nascent rapidly changing industry. What you read last month may be out-of-date. Speed-to-market, correctness, and risk-mitigation are important to capture the opportunities created by bitcoin. Not only can I tell you where the industry is today, I have a better idea than most as to where it is going. 
 
 For example I predicted PayPal would use bitcoin instead of competing with it half a year before their announcement ([proof](http://www.benzinga.com/news/14/03/4409527/paypal-should-use-bitcoin-not-compete)). Six months may not seem like a long time but bitcoin changes so fast. For comparison forecasting six months out in the bitcoin industry is like forecasting 5 years out in the mobile industry.
@@ -47,6 +50,7 @@ I help by:
 * [Market research and competitive analysis for bitcoin ventures.](/bitcoin-expert/consultant/)
 * [Explain bitcoin in plain English to executives, investors, general audiences, or software developers.](/bitcoin-expert/educator/)
 
+{% include social-proof.html param=site.data.settings.socialProofs.gabe %} 
 
 Phone: (517) 944-1872
 

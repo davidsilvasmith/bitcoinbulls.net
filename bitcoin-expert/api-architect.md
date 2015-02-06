@@ -10,6 +10,8 @@ permalink: /bitcoin-expert/api-architect/
 
 I have used over 100 APIs. Some were a pleasure; some were a nightmare. One weather API took three days of coding to use and still didn't work well. We decided to switch to an 'unofficial' API. It took 4 hours to make the switch, improved the reliability, and improved the usability! Don't make developers hate your platform. Spend time crafting an enjoyable, upgradeable, fast platform. 
 
+{% include social-proof.html param=site.data.settings.socialProofs.jim %} 
+
 ## I've created over a dozen APIs.
 
 I have created dozens of APIs. From image processing to customer relationship management, to financial applications, I have a wide-range of API experience. I craft APIs that make it easy to fall into the pit of success. I believe API consumers should have full control. Doing the right thing should be easy. Potential pitfalls should be clearly labeled so developers don't fall into the pit of failure.
