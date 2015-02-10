@@ -74,8 +74,6 @@ navigation:
 </head>
 
 <body>
-<!-- hack to put this at the right level in the DOM -->
-{% include request-signup-link.html param="" %}
 <section class="site-nav">
     <header>
         <nav id="navigation">
@@ -111,6 +109,8 @@ navigation:
     {{content}}
   </main>
 {% endif %}
+
+{% include signup-guts.html %}
 
 <footer class="site-footer">
     <div class="container">

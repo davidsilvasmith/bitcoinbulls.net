@@ -1,5 +1,1 @@
     <p><a class="btn btn-lg btn-success" data-toggle="modal" data-target="#myModal" role="button">{{ include.param }}</a></p>
-{% capture includeGuts %}
-{% include signup-guts.html %} 
-{% endcapture %}
-{{ includeGuts | replace: '    ', ''}}
