@@ -23,3 +23,5 @@
 [blockchain]: http://www.blockchain.info
 
 [diggit.io]: https://diggit.io/
+
+[diggit-internal]: /earn-bitcoins-through-the-house-edge.html

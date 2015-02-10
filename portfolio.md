@@ -17,13 +17,13 @@ Signup below and I'll let you know when there are attractive investment options.
 
 {% include request-signup-link.html param="Yes please let me know." %}
 
-### My portfolio holdings as of 1/11/2015.
+### My portfolio holdings as of 2/09/2015.
 
 | Service                               | Annual APY    | Bitcoins |
 | -----------------------------------   |-------------: | -----:   |
 | [BTCJam][btcjam-internal]             |           37% |   1.7    |
+| [Diggit.io][diggit-internal]          |           24% |   .102   |
 | Total                                 |            NA |   250    |
-
 
 
 ### Exited Positions:
