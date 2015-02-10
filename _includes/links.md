@@ -17,3 +17,9 @@
 [btcdelta-internal]: /delta-financial-pays-bitcoin-interest.html
 
 [circle-internal]: /circle-is-amazing.html
+
+[circle]: /circle-is-amazing.html
+
+[blockchain]: http://www.blockchain.info
+
+[diggit.io]: https://diggit.io/
