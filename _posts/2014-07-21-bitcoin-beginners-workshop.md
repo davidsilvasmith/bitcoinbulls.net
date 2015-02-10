@@ -4,6 +4,8 @@ excerpt: Bitcoin is ready for mainstream use. This weekend proved bitcoin is rea
 image: /images/tnabc-bitcoin-is-ready-for-everyone.jpg
 ---
 
+{% include links.md %}
+
 ![Andreas Antonopoulos encourages using the bitcoin ATM ](/images/tnabc-bitcoin-is-ready-for-everyone.jpg "Andreas Antonopoulos encourages using the bitcoin ATM")
 
 In Chicago this weekend [Will Pangman](https://twitter.com/Willwaukee), [Pamela Morgan](https://twitter.com/pamelawjd), [Andreas Antonopoulos](https://twitter.com/aantonop), and I conducted a Bitcoin for Beginners Workshop.
@@ -22,7 +24,7 @@ Bitcoin usage has been the domain of tech savvy individuals. Just like the inter
 
 Bitcoin uptake has been plagued by myths and difficulty understanding it. Today even many people who have heard about bitcoin don't understand what it is or have many misconceptions about the complex topic.
 
-Tackling these myths, the workshop equipped attendees with a bitcoin wallet from [Coinbase](http://www.coinbase.com) containing $10 worth of bitcoins. After receiving their wallet, attendees learned how to make purchases from online retailers such as [Overstock](http://www.overstock.com) and traditional retailers like [REEDS Jewelers](http://www.reeds.com/). Attendees also learned how to donate bitcoins to charities and how to exchange bitcoins for U.S. dollars.
+Tackling these myths, the workshop equipped attendees with a bitcoin wallet from [Coinbase] containing $10 worth of bitcoins. After receiving their wallet, attendees learned how to make purchases from online retailers such as [Overstock](http://www.overstock.com) and traditional retailers like [REEDS Jewelers](http://www.reeds.com/). Attendees also learned how to donate bitcoins to charities and how to exchange bitcoins for U.S. dollars.
 
 ![non-technical people learning about bitcoin](/images/tnabc-audience.jpg)
 

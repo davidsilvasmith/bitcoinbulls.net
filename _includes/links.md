@@ -1,4 +1,4 @@
-[ChangeTip]: http://www.changetip.com
+[ChangeTip]: https://www.changetip.com
 
 [getybitcoin]: https://playbigdesign.wufoo.com/forms/m7p5a3/
 
@@ -20,8 +20,11 @@
 
 [circle]: /circle-is-amazing.html
 
-[blockchain]: http://www.blockchain.info
+[blockchain]: https://www.blockchain.info
 
 [diggit.io]: https://diggit.io/
 
 [diggit-internal]: /earn-bitcoins-through-the-house-edge.html
+
+
+[Namecheap]: https://www.namecheap.com/?aff=66553

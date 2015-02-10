@@ -16,7 +16,7 @@ I will be explaining why bitcoin makes sense as part of a diversified portfolio 
 * [George Gilder](http://en.wikipedia.org/wiki/George_Gilder) - economic futurist and author 
 * [Brock Pierce](http://en.wikipedia.org/wiki/Brock_Pierce) - one of the most active investors in the bitcoin industry
 * [Matt Roszak](https://www.linkedin.com/in/matthewroszak) - managing director of Tally Capital
-* [David Johnston](http://www.linkedin.com/in/davidajohnston) - managing director of Decentralized Applications Fund
+* [David Johnston](https://www.linkedin.com/in/davidajohnston) - managing director of Decentralized Applications Fund
 * [Harry Yeh](https://www.linkedin.com/in/harryyeh) - managing  partner of cryptocurrency trading firm, Binary Financial
 * [Brian Santos](https://www.linkedin.com/pub/brian-santos/52/491/502) - founder of eSpend
 * [Charles Allen](http://investors.btcs.com/#team), CEO of [BitcoinShop](http://www.bitcoinshop.us/) (NASDAQ: BTCS), the only publicly traded US company focused on Bitcoin

@@ -25,6 +25,6 @@ I'm excited to be presenting alongside notable speakers like:
  * [Andrew Filip Filipowski](https://twitter.com/SilkRoadFlip) - Co-founder, Chairman, CEO SilkRoad Equity
  * [Bobby Lee](https://twitter.com/bobbyclee) - CEO of BTC China, the first, largest, and most trusted bitcoin exchange in China.
  * [Charles Allen](http://investors.btcs.com/#team), CEO of [BitcoinShop](http://www.bitcoinshop.us/) (NASDAQ: BTCS), the only publicly traded US company focused on Bitcoin
- * 59 [other speakers](http://insidebitcoins.com/las-vegas/)!
+ * 59 [other speakers](http://insidebitcoins.com/las-vegas)!
 
- Interested in learning more about the business of cryptocurrency? [Register for Inside Bitcoins](http://insidebitcoins.com/las-vegas/2014/register/), taking place in Las Vegas on October 5-7. I'll be joining the event as a speaker. #BitcoinConf
+ Interested in learning more about the business of cryptocurrency? [Register for Inside Bitcoins](http://insidebitcoins.com/las-vegas/2014/register), taking place in Las Vegas on October 5-7. I'll be joining the event as a speaker. #BitcoinConf

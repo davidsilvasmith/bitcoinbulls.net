@@ -7,12 +7,12 @@ permalink: /bitcoin-expert/
 
 <div class="row">
 <div class="col-lg-4 fillable" markdown="1">
-[<span class="link_fill"> </span>](/bitcoin-expert/api-architect)
+[<span class="link_fill"> </span>](/bitcoin-expert/api-architect/)
 
 ##<i class="fa fa-file-code-o"></i> API Architect
 Platforms increase software usage and switching costs. I can help design and test your bitcoin software API.
 
-[Learn more >>](/bitcoin-expert/api-architect){: class="btn btn-primary" role="button"}
+[Learn more >>](/bitcoin-expert/api-architect/){: class="btn btn-primary" role="button"}
 </div>
 
 <div class="col-lg-4 fillable" markdown="1">

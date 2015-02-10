@@ -7,7 +7,7 @@ image: /images/bitfinex-pays-bitcoin-interest.jpg
 {%include links.md %}
 ![Bitfinex Pays Bitcoin Interest](/images/bitfinex-pays-bitcoin-interest.jpg "Bitfinex Pays Bitcoin Interest")
 
-***Update 01/05/2015:** Why Stu Lustman [lends on Bitfinex](http://p2plendingexpert.com/why-i-lend-on-bitfinex)*
+***Update 01/05/2015:** Why Stu Lustman [lends on Bitfinex](http://p2plendingexpert.com/why-i-lend-on-bitfinex/)*
 
 #How I Earned Bitcoin Last Year
 

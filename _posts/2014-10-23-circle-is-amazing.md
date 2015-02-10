@@ -3,9 +3,11 @@ excerpt: Circle is more amazing than people realize.
 image: /images/circle-is-amazing.jpg 
 ---
 
+{%include links.md %}
+
 ![Circle is Amazing!](/images/circle-is-amazing.jpg "Circle is Amazing!")
 
-# [Circle](http://www.circle.com) is Amazing
+# [Circle](https://www.circle.com) is Amazing
 
 Circle let's customers use dollars for bitcoin purchases. 
 
@@ -17,7 +19,7 @@ Take my dad for example. He has no interest on holding or using bitcoins. With a
 
 Last year I spent my bitcoins to support the ecosystem and merchants. However I would buy back my bitcoins to maintain the same amount of bitcoins. Not only was this inconvenient but it reset the purchase date on some of my bitcoin purchases for calculating capital gains. 
 
-So I stopped spending bitcoins. Although I still supported merchants like [Overstock](http://www.overstock.com) and [Namecheap](http://www.namecheap.com/?aff=66553) with my business. I use a credit card because it was (prior to Circle) more convenient.
+So I stopped spending bitcoins. Although I still supported merchants like [Overstock](http://www.overstock.com) and [Namecheap] with my business. I use a credit card because it was (prior to Circle) more convenient.
 
 Circle changes that. Now when I want to spend bitcoins I go to circle click buy then send the bitcoins to the address. It takes about as long as a PayPal checkout. Very smooth. 
 
@@ -31,4 +33,4 @@ The experience will improve. Circle will figure out the instant buy issue I ran 
 
 Circle's product is a critical piece of infrastructure that makes me think the coming bitcoin explosion is closer than we think.
 
-If you haven't used [Circle](http://www.circle.com) check it out. Already have a bitcoin wallet? Check it out anyways. The experience is a preview of where the industry is heading.
+If you haven't used [Circle](https://www.circle.com) check it out. Already have a bitcoin wallet? Check it out anyways. The experience is a preview of where the industry is heading.

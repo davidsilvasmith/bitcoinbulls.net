@@ -27,11 +27,11 @@ It was great meeting new people like:
 * [Will O’Brien](https://twitter.com/willobrien) - Will is the CEO at BitGo, one of the companies pioneering multi-sig technologies.
 * [William Quigley](https://twitter.com/quigleyreport) - Early investor in PayPal, digital currency investor, and has a wide range of financial services industry experience.
  ![William Quigley explains the bitcoin startup ecosystem.](/images/william-quigley-the-bitcoin-startup-ecosystem.jpg "William Quigley explains the bitcoin startup ecosystem.")
-* [Carl Hilsz](http://www.linkedin.com/in/carlhilsz) - With legal, telecom, mortgage experience, Mr. Hilsz is now focused on digital currencies at eSpend.
+* [Carl Hilsz](https://www.linkedin.com/in/carlhilsz) - With legal, telecom, mortgage experience, Mr. Hilsz is now focused on digital currencies at eSpend.
 * [Frank Grant](https://angel.co/frank-grant) - Senior counsel at Perkins Coie, nice, and helpful guy.
 * [Phil Maher](https://twitter.com/COdomainnames) - Phil is a miner and expert online marketer.
  ![Phil Maher, Michael Lambert, and Michael Cao mining panel.](/images/phil-maher-michael-lambert-michael-cao-mining-panel.jpg "Phil Maher, Michael Lambert, and Michael Cao mining panel.")
-* [Michael Lambert](http://www.linkedin.com/in/mikelambertchicago) - Mike is another mining expert, father, and fun guy!
+* [Michael Lambert](https://www.linkedin.com/in/mikelambertchicago) - Mike is another mining expert, father, and fun guy!
 * [Micah Winkelspecht](https://twitter.com/winkelspecht) - Micah, CEO & Founder of Gem is a security expert. His company Gem, enables developers to rapidly build bitcoin apps without being experts in cryptography and security.
  ![Micah Winkelspecht and Will O'Brien security panel.](/images/micah-winkelspecht-will-obrien-security-panel.jpg "Micah Winkelspecht and Will O'Brien security panel.")
 * [Elyse Petersen](https://twitter.com/peaceelyse) - Tea extraordinaire using bitcoin to reduce supply chain costs 10%.
