@@ -8,6 +8,8 @@ permalink: /bitcoin-expert/educator/
 
 In 2014 I gave 18 presentations and authored over 100 bitcoin articles. My articles were syndicated to sites like [Yahoo finance](https://www.google.com/search?safe=off&q=site%3Afinance.yahoo.com%20%22david%20smith%22%20bitcoin&rct=j) and read an estimated 500,000 times.
 
+{% include social-proof.html param=site.data.settings.socialProofs.matt %} 
+
 ## Engagement Starts with Preparation
 
 I prepare for each presentation. I do not want to waste attendee's time. I want to know who they are to tailor the message to fit their objectives. I have a call with the conference organizer to discuss what they are seeking from the talk. After identifying objectives I craft a story around the key message and supporting points. Lastly I create a Prezi to visually show the story. This makes one memorable picture the audience can use to visualize the key message. Prezi's technology assists the story telling process by taking the audience through the story.
