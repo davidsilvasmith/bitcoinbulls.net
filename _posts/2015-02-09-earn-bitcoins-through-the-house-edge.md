@@ -1,6 +1,6 @@
 ---
 title: Earn Bitcoins Through The House Edge
-subtitel: at Diggit.io
+subtitle: at Diggit.io
 excerpt: There is one winning gambling gambling; be the house. Diggit.IO is a well designed bitcoin gambling site that lets investors earn bitcoins by financing the site.
 image: /images/earn-bitcoins-through-the-house-edge.jpg
 ---
