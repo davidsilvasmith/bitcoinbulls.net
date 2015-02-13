@@ -37,9 +37,12 @@ Bruce did a great job of putting on a high end event.
 
 ![Satoshi roundtable welcome flowers.](/images/satoshi-roundtable-flowers.jpg "Satoshi roundtable welcome flowers.")
 
-It is awesome getting to hang out with smart, modest, interesting people.
+It is awesome getting to hang out with smart, modest, interesting people. The meeting was an off the record-meeting so I won't disclose any non-public information, but here are some of the people I met.
 
  * [Risto Pietilä][Risto] - [purchased an Estonian castle](http://cointelegraph.com/news/112411/finnish-investor-plans-to-turn-estonian-castle-into-a-bitcoin-center) with bitcoin.
+
+ ![David Silva Smith and Risto Pietilä.](/images/david-silva-smith-risto-pietila.jpg "David Silva Smith and Risto Pietilä.")
+
  * [Justin Newton], CEO at [Netki]  - helped build the Internet and is now laser focused on making bitcoin easy to use with his first product [focused on hiding wallet addresses][Netki] while retaining security and privacy.
  * [Dave Carlson], CEO [Mega Big Power](https://megabigpower.com/) - runs one of the largest single-operator mines in the world. Dave taught me a lot about the mining world (which I know almost nothing about)
  * [Nic Cary], CEO [Blockchain] - Don't like bank fees, limitations, and slow speed? Blockchain is building a viable alternative to the existing (legacy?) banking infrastructure.
