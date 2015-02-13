@@ -76,7 +76,7 @@
 [Shawn Wilkinson]: https://twitter.com/super3
 [Roger Ver]: https://twitter.com/rogerkver
 [Vadim Telyatnikov]: https://www.linkedin.com/in/vadimtelyatnikov
-
+[Justin Blincoe]: https://twitter.com/jpblincoe
 
 [GoCoin]: http://www.gocoin.com/
 [Ethereum]: https://www.ethereum.org/
