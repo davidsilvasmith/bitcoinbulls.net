@@ -19,6 +19,7 @@ layout: null
       <news:genres>Blog, UserGenerated</news:genres>
       <news:publication_date>{{ post.date | date_to_xmlschema  }}</news:publication_date>
       <news:title>{{post.title}}</news:title>
+       <news:keywords>technology, bitcoin, {%if post.keywords %}{{post.keywords}} {% endif %}</news:keywords>
     </news:news>
     <image:image>
 		<image:loc>{{site.url}}/{{post.image}}</image:loc>
