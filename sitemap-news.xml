@@ -1,9 +1,10 @@
 ---
 layout: null
+
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {% assign twoDaysAgo = 'now' | date: "%s" | minus : 172800 %}
 {% for post in site.posts %}
 {% assign postDate = post.date | date: "%s" | plus : 0 %}
@@ -15,11 +16,13 @@ layout: null
         <news:name>{{ site.name }}</news:name>
         <news:language>en</news:language>
       </news:publication>
-      <news:access>Subscription</news:access>
-      <news:genres>Blog</news:genres>
-      <news:publication_date>{{ post.date | date: "%Y-%m-%d" }}</news:publication_date>
+      <news:genres>Blog, UserGenerated</news:genres>
+      <news:publication_date>{{ post.date | date_to_xmlschema  }}</news:publication_date>
       <news:title>{{post.title}}</news:title>
     </news:news>
+    <image:image>
+		<image:loc>{{site.url}}/{{post.image}}</image:loc>
+	</image:image>
   </url>
 {% endif %}
 {% endfor %}
