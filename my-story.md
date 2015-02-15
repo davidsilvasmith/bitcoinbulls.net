@@ -4,6 +4,7 @@ title: My Story
 subtitle: How I became a Bitcoin Bull
 includeJoin: 1
 permalink: /my-story/
+image: /images/david-silva-smith-and-roger-ver-sky.jpg
 ---
 
 #Why I'm a Bitcoin Bull
