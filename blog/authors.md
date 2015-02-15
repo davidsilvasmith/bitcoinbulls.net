@@ -1,5 +1,6 @@
 ---
 title: Bitcoin Bull Authors
+subtitle: Powering the run
 layout: sidebar-container
 includeJoin: 1
 permalink: /blog/authors/
