@@ -71,6 +71,7 @@ defaults:
       image: /images/branding/bitcoin-bull-sunset-1440x320-minified.png
       includeHeader: standard-image.html
       popularPostTitle: Bitcoin ETFs are Coming
+      changeFreq: WEEKLY
   -
     scope:
       path: "" # empty string for all files

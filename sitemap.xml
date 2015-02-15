@@ -13,19 +13,16 @@ layout: null
     <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
     {% endif %}
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <priority>.5</priority>
   </url>
   {% endfor %}
   {% for page in site.pages %}
   {% if page.layout != nil and page.layout != empty and page.excludeSitemap != true %}
-
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-    {% comment %} 
-    <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-    <priority>{{ page.sitemap.priority }}</priority>
-    {% endcomment %}
+    <changefreq>{{ page.changeFreq }}</changefreq>
+    <priority>.5</priority>
   </url>
   {% endif %}
   {% endfor %}
