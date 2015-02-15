@@ -72,6 +72,7 @@ defaults:
       includeHeader: standard-image.html
       popularPostTitle: Bitcoin ETFs are Coming
       changeFreq: WEEKLY
+      excerpt: Bitcoin Bulls is a community for bitcoin investors seeking yield on their holdings.
   -
     scope:
       path: "" # empty string for all files
