@@ -1,0 +1,14 @@
+dave:
+    id: dave
+    name: David Smith
+    link: /bitcoin-expert/
+    twitter: DavidSilvaSmith
+    image: http://www.gravatar.com/avatar/7bbd083ea04a3c791e878da24c08b987.png
+    bio: David is the CEO of bitcoin bulls.
+    streetAddress: 614 Theo Ave
+    addressLocality: Lansing
+    addressRegion: MI
+    postalCode: 48917
+    addressCountry: USA
+    telephone: (517) 944-1872
+    email: dave@bitcoinbulls.net
