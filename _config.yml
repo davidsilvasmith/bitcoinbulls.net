@@ -1,56 +1,10 @@
-inc:
-  # Blog Information
-  title:        "Bitcoin Bulls"
-  subtitle:     "Helping investors earn bitcoin."
-  cover_image:  /images/branding/bitcoin-bulls-375x358.png
-  logo:         /branding/bitcoin-bulls-52x50.png
-  
-  # Company information
-  company:      Bitcoin Bulls
-  url:          http://www.bitcoinbulls.net/
-  facebook:     BTCBulls
-  twitter:      DavidSilvaSmith
-  gplus:        '109243945202894778112'
-  about_link:   /my-story/
-  
-  # Product Information
-  product_link: /bitcoin-expert/
-  tagline:      "I help CEOs too"
-  
-  # Comments
-  disqus:
-    # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
-  
-  # Sharing settings
-  sharing:
-    twitter:    true
-    facebook:   true
-    gplus:      true
-    hn:         false
-    
-  
- # Analytics     
-  analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
-      
-      
-  # Google Fonts
-  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Droid+Sans:400,700'
-  
-  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
-
-name: Bitcoin Bulls
 markdown: kramdown
 timezone: America/Detroit
 highlighter: pygments
-author: David Smith
 safe: true
 lsi: false
 permalink: none
 
-url: http://www.bitcoinbulls.net
 exclude:  [CNAME, Gemfile, Gemfile.lock, '*.less', gruntfile.js, custom_css, node_modules, README.md, '*.svg', '*.docx']
 include: [glyphicons-halflings-regular.svg]
 
@@ -73,6 +27,7 @@ defaults:
       popularPostTitle: Bitcoin ETFs are Coming
       changeFreq: WEEKLY
       excerpt: Bitcoin Bulls is a community for bitcoin investors seeking yield on their holdings.
+      author: dave
   -
     scope:
       path: "" # empty string for all files

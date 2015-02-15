@@ -10,10 +10,10 @@ layout: null
 {% assign postDate = post.date | date: "%s" | plus : 0 %}
 {% if postDate  > twoDaysAgo %}
   <url>
-    <loc>{{ site.url }}{{ post.url | replace:"'",'%27'}}</loc>
+    <loc>{{ site.data.information.url }}{{ post.url | replace:"'",'%27'}}</loc>
     <news:news>
       <news:publication>
-        <news:name>{{ site.name }}</news:name>
+        <news:name>{{ site.data.information.name }}</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:genres>Blog, UserGenerated</news:genres>
@@ -22,7 +22,7 @@ layout: null
        <news:keywords>technology, bitcoin, {%if post.keywords %}{{post.keywords}} {% endif %}</news:keywords>
     </news:news>
     <image:image>
-		<image:loc>{{site.url}}/{{post.image}}</image:loc>
+		<image:loc>{{site.data.information.url}}{{post.image}}</image:loc>
 	</image:image>
   </url>
 {% endif %}

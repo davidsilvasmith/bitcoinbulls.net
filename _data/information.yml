@@ -39,4 +39,5 @@ analytics:
 google_font: 'Droid+Sans:400,700'
   
 companyContact: dave
+primaryAuthor: dave
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss

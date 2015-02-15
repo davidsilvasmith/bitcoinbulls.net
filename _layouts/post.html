@@ -4,7 +4,6 @@ includeHeader: blog-image.html
 ---
 {% assign author = site.data.people.[page.author] %}
 
-
 <article class="container">
     <header>
         <h1 class="title">{{ page.title }}</h1>
@@ -33,15 +32,15 @@ includeHeader: blog-image.html
     <br />
 
     <p>
-    		<a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}"
+    		<a href="https://www.facebook.com/sharer.php?u={{site.data.information.url}}{{page.url}}"
     	      <span class="btn btn-md btn-success" style="background-color: #3b5998; border-style:none;"  role="button"><i class="fa fa-facebook"></i> Share on Facebook
           </span></a> 
 
-          	<a href="http://twitter.com/home?status={{page.title | uri_escape | truncate:110}} {{site.url}}{{page.url}} via @davidsilvasmith">
+          	<a href="http://twitter.com/home?status={{page.title | uri_escape | truncate:110}} {{site.data.information.url}}{{page.url}} via @davidsilvasmith">
     <span class="btn btn-md btn-success" style="background-color: #55acee; border-style:none;" role="button"><i class="fa fa-twitter"></i> Share on Twitter
           </span>
       		</a>
-      		<a href="https://plus.google.com/share?url={{site.url}}{{page.url}}">
+      		<a href="https://plus.google.com/share?url={{site.data.information.url}}{{page.url}}">
           <span class="btn btn-md btn-success" style="background-color: #dd4b39; border-style:none;" role="button"><i class="fa fa-google-plus"></i> Share on Google
     	  </span> 
     	</a>
@@ -49,7 +48,7 @@ includeHeader: blog-image.html
 
     I found this article on Bitcoin Bulls, and thought you would like it:
 
-    {{site.url}}{{page.url}}
+    {{site.data.information.url}}{{page.url}}
 
     Enjoy!
 
@@ -85,7 +84,7 @@ includeHeader: blog-image.html
 
     <p>Other articles you may enjoy:
     	{% for post in site.related_posts limit:5 %}
-        <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="{{ site.data.information.url }}{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </p>
 
