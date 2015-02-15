@@ -4,7 +4,8 @@ dave:
     twitter: DavidSilvaSmith
     gplus: 109297602506769723640
     image: http://www.gravatar.com/avatar/7bbd083ea04a3c791e878da24c08b987.png
-    bio: David is the CEO of bitcoin bulls.
+    description: David is the CEO of bitcoin bulls.
+    jobtitle: CEO
     streetAddress: 614 Theo Ave
     addressLocality: Lansing
     addressRegion: MI
