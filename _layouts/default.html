@@ -48,7 +48,7 @@ navigation:
     <meta property="og:url" content="{{site.data.information.url}}{{page.url}}" />
     {% if page.is_post %}
         <link rel="alternate" type="application/atom+xml" title="{{ site.data.information.name }} — Atom" href="{{ site.data.information.url }}/blog/feed.atom" />
-        <meta property="og:image" content="{% include image-path.html %}" />
+        <meta property="og:image" content="{{site.data.information.url}}{{ page.image }}" />
         <meta property="og:description" content="{{page.excerpt}}" />
         {% else %}
 
