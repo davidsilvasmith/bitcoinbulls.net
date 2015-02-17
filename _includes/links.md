@@ -75,7 +75,7 @@
 [Micah Winkelspecht]: https://twitter.com/winkelspecht
 [Shawn Wilkinson]: https://twitter.com/super3
 [Roger Ver]: https://twitter.com/rogerkver
-[Vadim Telyatnikov]: https://www.linkedin.com/in/vadimtelyatnikov
+[Vadim Telyatnikov]: https://twitter.com/vadimt
 [Justin Blincoe]: https://twitter.com/jpblincoe
 
 [GoCoin]: http://www.gocoin.com/
