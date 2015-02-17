@@ -35,8 +35,8 @@ isSideBar: true
       </div>
       <div class="panel-body">
         <ul>
-         {% for post in site.posts limit:5 %}
-           <li><a href="{{ site.data.information.url }}{{ post.url }}">{{ post.title }}</a></li>
+         {% for post in site.posts limit:5 %}{%if post.url != page.url%}
+           <li><a href="{{ site.data.information.url }}{{ post.url }}">{{ post.title }}</a></li>{%endif%}
          {% endfor %} 
         </ul> 
       </div>
