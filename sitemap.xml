@@ -6,7 +6,7 @@ layout: null
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for post in site.posts %}
   <url>
-    <loc>{{ site.url }}{{ post.url | replace:"'",'%27'}}</loc>
+    <loc>{{site.data.information.url}}{{ post.url | replace:"'",'%27'}}</loc>
     {% if post.lastmod == nil %}
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     {% else %}
