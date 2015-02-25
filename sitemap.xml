@@ -19,7 +19,7 @@ layout: null
   {% for page in site.pages %}
   {% if page.layout != nil and page.layout != empty and page.excludeSitemap != true %}
   <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
+    <loc>{{ site.data.information.url }}{{ page.url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>{{ page.changeFreq }}</changefreq>
     <priority>.5</priority>
