@@ -7,8 +7,11 @@ popularPostTitle: How to Earn Bitcoin Through Arbitrage
 
 {%include links.md %}
 
+
 ![Bitcoin ETFs are Coming](/images/bitcoin-etfs-are-coming.jpg "Bitcoin ETFs are Coming")
 There has been a lot of buzz about the upcoming Winklevoss bitcoin ETF. This article explains what an ETF is, provide details on the bitcoin ETFs (yes there are TWO coming!), and discusses the potential impact of these ETFs.
+
+***Edit 3/2/2015:** The BIT was [assigned an OTC ticker](http://www.wsj.com/articles/bitcoin-investment-trust-gets-finras-ok-to-become-public-bitcoin-fund-1425242094) yesterday.*
 
 # What is an ETF?
 
