@@ -6,6 +6,9 @@ permalink: /bitcoin-expert/educator/
 
 {% include years-experience.md %}
 
+<blockquote class="twitter-tweet" lang="en"><p>Thanks <a href="https://twitter.com/DavidSilvaSmith">@DavidSilvaSmith</a> for finally explaining <a href="https://twitter.com/hashtag/Bitcoin?src=hash">#Bitcoin</a> to me at <a href="https://twitter.com/hashtag/StartupGrind?src=hash">#StartupGrind</a> - Very interesting business concept as well. Keep conquering!</p>&mdash; Rich Langdale (@RichLangdale) <a href="https://twitter.com/RichLangdale/status/568173715709677568">February 18, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 In 2014 I gave 18 presentations and authored over 100 bitcoin articles. My articles were syndicated to sites like [Yahoo finance](https://www.google.com/search?safe=off&q=site%3Afinance.yahoo.com%20%22david%20smith%22%20bitcoin&rct=j) and read an estimated 500,000 times.
 
 {% include social-proof.html param=site.data.settings.socialProofs.matt %} 
