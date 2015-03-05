@@ -25,6 +25,7 @@
 [diggit.io]: https://diggit.io/
 
 [diggit-internal]: /earn-bitcoins-through-the-house-edge.html
+[37coins]: /37coins-in-detroit.html
 
 
 [Namecheap]: https://www.namecheap.com/?aff=66553
