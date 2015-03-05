@@ -16,14 +16,16 @@ Unfortunately at the moment none of the existing investment options are ideal. I
 Signup below and I'll let you know when there are attractive investment options.
 
 {% include request-signup-link.html param="Yes please let me know." %}
+{% assign diggit = 0.10257980 %}
+{% assign jam = 16.237737 %}
 
-### My portfolio holdings as of 2/09/2015.
+### My portfolio holdings as of 3/05/2015.
 
 | Service                               | Annual APY    | Bitcoins |
 | -----------------------------------   |-------------: | -----:   |
-| [BTCJam][btcjam-internal]             |           37% |   1.7    |
-| [Diggit.io][diggit-internal]          |           24% |   .102   |
-| Total                                 |            NA |   250    |
+| [BTCJam][btcjam-internal]             |           37% |   {{jam}}  |
+| [Diggit.io][diggit-internal]          |           24% |   {{diggit}}   |
+| Total                                 |            NA |   {{jam | plus : diggit}}    |
 
 
 ### Exited Positions:
