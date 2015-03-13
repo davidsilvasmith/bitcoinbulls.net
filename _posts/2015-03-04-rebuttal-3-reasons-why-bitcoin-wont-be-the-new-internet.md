@@ -121,7 +121,7 @@ I'm not sure where he is getting this data. I don't think the [100K merchants](h
 #### If online gambling became legal there would be no use for bitcoin. 
 Being able to take customer payments from all over the world in minutes without fear of fraud not useful? Sidney should write Overstock, Microsoft, Dell, Dish, Time, Newegg, Expedia, etc. and tell them to stop accepting bitcoins. Apparently eliminating fraud, reducing payment processing fees, and being able to service new markets are not good reasons for merchants to accept bitcoin.
 
- #### Blockchain technology is useful just not bitcoin 
+#### Blockchain technology is useful just not bitcoin 
 
 Also known as: CPUs are useful, just not computers.
 
