@@ -13,3 +13,10 @@ dave:
     addressCountry: USA
     telephone: (517) 944-1872
     email: dave@bitcoinbulls.net
+
+rupert:
+    name: Rupert Hackett
+    link: https://buyabitcoin.com.au/
+    image: https://media.licdn.com/media/p/7/005/0aa/358/2294096.jpg
+    description: Rupert Hackett works for Global Internet Ventures, an Australian based investment and consultancy group developing multiple Bitcoin companies. Rupert is studying the world’s first Masters in Digital Currencies and regularly blogs for BuyaBitcoin.com.au.
+    jobtitle: Blogger

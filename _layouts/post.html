@@ -21,7 +21,7 @@ includeHeader: blog-image.html
     <footer>
         <address>
            {% if author.image %}<img src="{{ author.image }}">{% endif %}
-            <p>Written by <strong><a rel="author" href="{{ author.link }}" title="{{ author_name }}" target="_blank">{{ author.name }}</a> <a href="https://twitter.com/{{ author.twitter }}" title="Follow {{ author_name }} on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></strong><br>
+            <p>Written by <strong><a rel="author" href="{{ author.link }}" title="{{ author_name }}" target="_blank">{{ author.name }}</a> {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" title="Follow {{ author_name }} on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></strong>{% endif %}<br>
             <span class="muted">{{ author.description }}</span>
             </p>
         </address>
