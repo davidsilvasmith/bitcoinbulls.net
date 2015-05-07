@@ -17,6 +17,8 @@ dave:
 rupert:
     name: Rupert Hackett
     link: https://buyabitcoin.com.au/
+    twitter: ruperth
     image: https://media.licdn.com/media/p/7/005/0aa/358/2294096.jpg
-    description: Rupert Hackett works for Global Internet Ventures, an Australian based investment and consultancy group developing multiple Bitcoin companies. Rupert is studying the world’s first Masters in Digital Currencies and regularly blogs for BuyaBitcoin.com.au.
+    description: >
+        Rupert Hackett works for Global Internet Ventures, an Australian based investment and consultancy group developing multiple Bitcoin companies. Rupert is studying the world’s first Masters in Digital Currencies and regularly blogs for <a href="https://buyabitcoin.com.au/">Buyabitcoin.com.au</a>.
     jobtitle: Blogger
