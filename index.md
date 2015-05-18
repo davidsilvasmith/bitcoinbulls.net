@@ -1,7 +1,7 @@
 ---
 layout: sidebar-container
 title: Bitcoin Bulls
-subtitle: Helping investors earn bitcoin.
+subtitle: Can I retire on bitcoin investment income?
 permalink: /
 contentFirst: 1
 postsAfterContent: 5
