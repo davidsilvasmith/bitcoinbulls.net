@@ -8,7 +8,7 @@ permalink: none
 exclude:  [CNAME, Gemfile, Gemfile.lock, '*.less', gruntfile.js, custom_css, node_modules, README.md, '*.svg', '*.docx']
 include: [glyphicons-halflings-regular.svg]
 
-lsi: true
+lsi: false
 
 sass:
     sass_dir: css
