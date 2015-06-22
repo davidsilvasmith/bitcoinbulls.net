@@ -7,7 +7,7 @@ permalink: /my-story/
 image: /images/david-silva-smith-and-roger-ver-sky.jpg
 ---
 
-#Why Should I be able to retire at 34?
+#Should I be able to retire at age 34?
 
 ## I want Freedom
 Freedom is great right? Wouldn't it be great to be free to work from anywhere? To have complete location freedom? What if you also had time freedom? What if you didn't have to work to earn money?
