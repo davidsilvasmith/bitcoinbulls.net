@@ -1,7 +1,7 @@
 ---
 layout: sidebar-container
 title: I Look Forward to Helping You!
-permalink: /thanks/newsletter
+permalink: /thanks/newsletter/
 ---
 Awesome to have you aboard!
 
