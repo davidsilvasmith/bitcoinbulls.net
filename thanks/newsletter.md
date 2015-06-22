@@ -2,6 +2,7 @@
 layout: sidebar-container
 title: I Look Forward to Helping You!
 permalink: /thanks/newsletter/
+excludeSitemap: true
 ---
 Awesome to have you aboard!
 
