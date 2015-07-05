@@ -1,7 +1,7 @@
 ---
-layout: sidebar-container
-title: Bitcoin Bulls
-subtitle: Can I retire on bitcoin investment income?
+layout: default
+title: Can I Retire on Bitcoin Income in Two Years?
+subtitle: I evaluate one bitcoin investment opportunity per month.
 permalink: /
 contentFirst: 1
 postsAfterContent: 5
@@ -9,11 +9,11 @@ includeJoin: 1
 includeCoverNav: 1
 ---
 
-<main class="container">
+##Win or Lose I give you the details about my bitcoin investments.
 
-	<p>We believe everyone deserves to be empowered. We believe Bitcoin is the most empowering force since the Internet. Bitcoin Bulls support bitcoin by investing our time and money into building the most empowering industry since the internet.</p>
+Bitcoin is a brand new asset class. Like all assets there are great opportunities to get a return on invested assets. Like all assets there are also scams and investment risks.
 
-	<p>Not convinced Bitcoin is the most empowering force since the Internet? I've been using bitcoin since July 2013. Here are <a href="/bitcoin-empowers/">some of the reasons</a> I see bitcoin as so empowering.</p>
+Here are three of the investments readers like you have found the most interesting [Arbitrage](/how-to-earn-bitcoins-through-arbitrage.html), [peer to peer lending](/can-btc-jam-grow-your-bitcoins.html), and [Bitcoin ETFs](/bitcoin-etfs-are-coming.html).
 
 <div class='row' markdown="1">
 ---
@@ -26,7 +26,7 @@ includeCoverNav: 1
 
 ##<i class="fa fa-signal"></i> Arbitrage
 
-Interested in automated bitcoin trading softare? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
+Interested in automated bitcoin trading software? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
 
 [Learn more >>](/how-to-earn-bitcoins-through-arbitrage.html){: class="btn btn-primary" role="button"}
 </div>
@@ -57,4 +57,5 @@ There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and 
 ---
 {: .span12}
 </div>
-</main>
+
+{% include join-the-herd.html %}

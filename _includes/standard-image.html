@@ -1,12 +1,13 @@
 {% if page.image %}
-<div class="blog-cover" style="background-image:url({{ page.image }});">
+<div class="blog-cover" style="background-image:url({{ page.image }});{% if page.includeCoverNav %}height:320px;{% endif %}">
     <section> 
         <div class="container">
             <h1>{{ page.title }}</h1>
             {% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% endif %}
             {% if page.includeCoverNav %}
-              <a href="/portfolio/" title="My portfolio"><i class="fa fa-line-chart"></i></a>
-              {% include request-signup-link.html param='<i class="fa fa-envelope"></i>' %} 
+             <a class="btn btn-gray" role="button" href="/portfolio/">See My Investments</a>
+	        <a href="/my-story/" class="btn btn-orange" role="button">Read Why</a>
+
             {% endif %}
         </div>
     </section>
