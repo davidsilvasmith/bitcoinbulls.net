@@ -3,6 +3,7 @@
 title: Can BTCJam Grow Your Bitcoins?
 excerpt: BTCJam is a peer-to-peer lending service similar to Prosper and Lending Club. Investing bitcoins is a way to magnify returns and hedge against the risk of a decline in price. This article is about my experience with BTCJam.
 image: /images/can-btcjam-grow-your-bitcoins.jpg
+popularPostTitle: How to Use BTCJam AutoInvest
 ---
 
 ![Growing Bitcoins](/images/can-btcjam-grow-your-bitcoins.jpg)
