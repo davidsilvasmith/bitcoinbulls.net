@@ -14,6 +14,8 @@
 
 [btcjam-internal]: /can-btc-jam-grow-your-bitcoins.html
 
+[btcjam]: https://btcjam.com/?r=37cad203-f110-4bcb-bd1e-bd31035bf238&utm_source=referral_url&utm_campaign=user_referral
+
 [btcdelta-internal]: /delta-financial-pays-bitcoin-interest.html
 
 [circle-internal]: /circle-is-amazing.html

@@ -8,8 +8,8 @@ popularPostTitle: Can BTCJam Grow Your Bitcoins?
 
 #BTCJam AutoInvest
 
-BTCJam is the bitcoin investment I've been most excited about. They provide a high rate of return and have been promising AutoInvest since I [interviewed their Chief Marketing Officer Flavio Rump](https://www.youtube.com/watch?v=p9fvxhVH1pc) last year. 
-
+[BTCJam] is the bitcoin investment I've been most excited about. They provide a high rate of return and have been promising AutoInvest since I [interviewed their Chief Marketing Officer Flavio Rump](https://www.youtube.com/watch?v=p9fvxhVH1pc) last year. 
+ 
 ## About BTCJam
 For those who don't know BTCJam is a peer-to-peer lending market place. BTCJam is like Uber it connects lenders with borrowers but does not lend it's own funds.
 
@@ -75,3 +75,5 @@ No AutoInvest is not perfect. There are two risks I still see: default rates and
 
 ## Your Thoughts?
 What do you think? Are you excited about AutoInvest? Is it safe enough? Are the returns high enough? Let me know in the comments! 
+
+{%include links.md%}
