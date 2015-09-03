@@ -26,9 +26,10 @@ defaults:
       layout: "default"
       image: /images/branding/bitcoin-bull-sunset-1440x320-minified.png
       includeHeader: standard-image.html
-      popularPostTitle: Bitcoin ETFs are Coming
+      popularPostTitle: How to Earn Bitcoin Through Arbitrage
       changeFreq: WEEKLY
       excerpt: Bitcoin Bulls is a community for bitcoin investors seeking yield on their holdings.
+      includes: links.md
       author: dave
   -
     scope:
