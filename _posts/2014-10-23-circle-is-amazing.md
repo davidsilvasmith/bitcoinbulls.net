@@ -9,7 +9,12 @@ image: /images/circle-is-amazing.jpg
 
 # [Circle](https://www.circle.com) is Amazing
 
-Circle let's customers use dollars for bitcoin purchases. 
+Here are four BIG reasons why:
+
+ 1. Circle let's customers use dollars for bitcoin purchases. (so customers can get discounts at places like [Purse.io] and [Starbucks (through Fold).](https://foldapp.com/)
+ 2. Circle charges NO fees to purchase or sell bitcoin (although there is a spread).
+ 3. Circle insures customer deposits (no worries about scam).
+ 4. Circle charges no fees to send or receive bitcoin.
 
 This is a game changer. It means someone with no desire to hold bitcoins can participate in the bitcoin economy using dollars.
 
