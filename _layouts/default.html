@@ -56,7 +56,11 @@ navigation:
         <meta property="og:description" content="Community for those who believe in and are invested in bitcoin's future." />
 {% endif %}
     {{page.meta}}
-    <title>{{page.title}} {{page.subtitle}}</title>
+    {% assign overwriteTitle = page.title %}
+    {% if paginator %}
+      {% assign overwriteTitle = page.title | append: ' Page ' | append: paginator.page %}
+    {% endif %}
+    <title>{{overwriteTitle}} {{page.subtitle}} </title>
     <link href='//fonts.googleapis.com/css?family=Montserrat%7CMuli' rel='stylesheet' type='text/css'>
     <link href="/css/main.css" rel="stylesheet" media="screen">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -79,7 +83,7 @@ navigation:
     <header>
         <nav id="navigation">
             <a class="brand" href="/">
-                <img src="{{ site.data.information.logo }}" alt="{{site.data.iformation.title}}">
+                <img src="{{ site.data.information.logo }}" alt="{{site.data.information.title}}">
             </a>
              {% assign url = page.url|remove:'index.html' %}
                         
