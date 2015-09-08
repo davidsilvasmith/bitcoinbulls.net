@@ -14,10 +14,9 @@ includeCoverNav: 1
     <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/)
 
-
 ##<i class="fa fa-signal"></i> Arbitrage
 
-Interested in automated bitcoin trading software? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
+Interested in making money from selling gold bought at a discount? I'll share the 4 steps to buying gold coins at a 30% discount selling them at a 9% profit.
 
 [Learn more >>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/){: class="btn btn-primary" role="button"}
 </div>
