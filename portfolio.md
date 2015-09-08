@@ -18,14 +18,20 @@ Signup below and I'll let you know when there are attractive investment options.
 {% include request-signup-link.html param="Yes please let me know." %}
 {% assign diggit = 0.10257980 %}
 {% assign jam = 16.237737 %}
+{% assign jamAuto = 4.836586 %}
+{% assign purseArb = 2.5 %}
+{% assign magnr = 1 %}
 
-### My portfolio holdings as of 3/05/2015.
+### My portfolio holdings as of 9/08/2015.
 
 | Service                               | Annual APY    | Bitcoins |
 | -----------------------------------   |-------------: | -----:   |
-| [BTCJam][btcjam-internal]             |           37% |   {{jam}}  |
+| [BTCJam Autoinvest](/how-to-use-btcjam-autoinvest.html)  |           13% |   {{jamAuto}}  |
+| [PurseArb](/how-to-make-money-arbitraging-bitcoin-amazon-gold/) |    46% |   {{purseArb}}  |
+| Magnr (coming soon)                   |           2.18% |   {{magnr}}   |
 | [Diggit.io][diggit-internal]          |           24% |   {{diggit}}   |
-| Total                                 |            NA |   {{jam | plus : diggit}}    |
+| [BTCJam][btcjam-internal]             |           -37% |   {{jam}}  |
+| **Total**                             |            NA |   24.6769028   |
 
 
 ### Exited Positions:
@@ -33,6 +39,7 @@ Signup below and I'll let you know when there are attractive investment options.
 | Date      | Service                               | Annual APY    | Bitcoins |
 | :--       | -----------------------------------   |-------------: | -----:   |
 | 1/11/2015 | [Delta Financial][btcdelta-internal]  |            5% |   8.2    |
+
 
 
 ### Other holdings:
