@@ -36,7 +36,7 @@ includeHeader: blog-image.html
     	      <span class="btn btn-md btn-success" style="background-color: #3b5998; border-style:none;"  role="button"><i class="fa fa-facebook"></i> Share on Facebook
           </span></a> 
 
-          	<a href="http://twitter.com/home?status={{page.title | uri_escape | truncate:110}} {{site.data.information.url}}{{page.url}} via @davidsilvasmith">
+          	<a href="http://twitter.com/home?status={{page.title | replace: '&', 'and'| uri_escape | truncate:110}} {{site.data.information.url}}{{page.url}} via @davidsilvasmith">
     <span class="btn btn-md btn-success" style="background-color: #55acee; border-style:none;" role="button"><i class="fa fa-twitter"></i> Share on Twitter
           </span>
       		</a>
