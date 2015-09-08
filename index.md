@@ -6,23 +6,14 @@ permalink: /
 contentFirst: 1
 postsAfterContent: 5
 includeJoin: 1
-includeCoverNav: 1
+includeCoverNav: 1 
 ---
 
-##Win or Lose I give you the details about my bitcoin investments.
-
-Bitcoin is a brand new asset class. Like all assets there are great opportunities to get a return on invested assets. Like all assets there are also scams and investment risks.
-
-Here are three of the investments readers like you have found the most interesting [Arbitrage](/how-to-earn-bitcoins-through-arbitrage.html), [peer to peer lending](/can-btc-jam-grow-your-bitcoins.html), and [Bitcoin ETFs](/bitcoin-etfs-are-coming.html).
-
-<div class='row' markdown="1">
----
-{: .span12}
-</div>
 
 <div class="row">
     <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/)
+
 
 ##<i class="fa fa-signal"></i> Arbitrage
 
@@ -57,5 +48,11 @@ There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and 
 ---
 {: .span12}
 </div>
+
+##Win or Lose I give you the details about my bitcoin investments.
+
+Bitcoin is a brand new asset class. Like all assets there are great opportunities to get a return on invested assets. Like all assets there are also scams and investment risks.
+
+Here are three of the investments readers like you have found the most interesting [Arbitrage](how-to-make-money-arbitraging-bitcoin-amazon-gold/), [peer to peer lending](/how-to-use-btcjam-autoinvest.html), and [Bitcoin ETFs](/bitcoin-etfs-are-coming.html). 
 
 {% include join-the-herd.html %}
