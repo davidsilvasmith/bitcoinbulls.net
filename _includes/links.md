@@ -31,6 +31,8 @@
 
 [purse.io]: https://purse.io/?_r=exsgIJ
 
+[purse]: https://purse.io/?_r=exsgIJ
+
 [Namecheap]: https://www.namecheap.com/?aff=66553
 
 [Brock Pierce]: http://en.wikipedia.org/wiki/Brock_Pierce
