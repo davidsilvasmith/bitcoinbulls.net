@@ -71,7 +71,7 @@ From there I narrowed it to US mint coins.
 	 
 And finally I now only buy the <a target="_blank" href="http://www.amazon.com/gp/search?ie=UTF8&camp=1789&creative=9325&index=aps&keywords=gold%20eagle%201%2F4%20oz&linkCode=ur2&tag=davsilsmi-20&linkId=F2MMZ45ZW5I55CIM">'gold eagle 1/4 oz'</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=davsilsmi-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
  
-I only buy the American Gold Eagle Coin 1/4 Oz [[Tweet This]](http://ctt.ec/eaJcY") because I was unable to get larger dollar sized orders filled through purse.
+I only buy the American Gold Eagle Coin 1/4 Oz [[Tweet This]](http://ctt.ec/eaJcY) because I was unable to get larger dollar sized orders filled through purse.
  
 Lowering the dollar amount gets my orders filled. To get the discount someone else is buying the coins for me in exchange for bitcoin. On the downside the spread is higher when selling the smaller coins. That is important to know because if you do this you'll need to strike a balance between getting a high discount to sell it profitably and a low discount to get the order filled.
  
