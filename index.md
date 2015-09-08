@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Can I Retire on Bitcoin Income in Two Years?
-subtitle: I evaluate one bitcoin investment opportunity per month.
+subtitle: I share the results of one new bitcoin investment each month.
 permalink: /
 contentFirst: 1
 postsAfterContent: 5
@@ -22,24 +22,24 @@ Here are three of the investments readers like you have found the most interesti
 
 <div class="row">
     <div class="col-lg-4 fillable" markdown="1">
-[<span class="link_fill"> </span>](/how-to-earn-bitcoins-through-arbitrage.html)
+[<span class="link_fill"> </span>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/)
 
 ##<i class="fa fa-signal"></i> Arbitrage
 
 Interested in automated bitcoin trading software? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
 
-[Learn more >>](/how-to-earn-bitcoins-through-arbitrage.html){: class="btn btn-primary" role="button"}
+[Learn more >>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/){: class="btn btn-primary" role="button"}
 </div>
 
 <div class="col-lg-4 fillable" markdown="1">
-[<span class="link_fill"> </span>](/can-btc-jam-grow-your-bitcoins.html)
+[<span class="link_fill"> </span>](/how-to-use-btcjam-autoinvest.html)
 
 ##<i class="fa fa-users"></i> Peer-to-peer Lending
 
 
 BTCJam is a peer-to-peer lending service similar to Prosper and Lending Club. Investing bitcoins is a way to magnify returns and hedge against the risk of a decline in price. This article is about my experience with BTCJam.
 
-[Learn more >>](/can-btc-jam-grow-your-bitcoins.html){: class="btn btn-primary" role="button"}
+[Learn more >>](/how-to-use-btcjam-autoinvest.html){: class="btn btn-primary" role="button"}
 </div>
 
 <div class="col-lg-4 fillable" markdown="1">
