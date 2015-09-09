@@ -39,7 +39,9 @@ What I'm about share took me many hours to learn over the past 5 months. I'm goi
 
 1. Bitcoin is the most empowering force since the Internet. The sooner it gains traction the better for everyone in the world.
 	
-	>[“Purse.io creates new financial incentives for people all over the world to start using Bitcoin” - Roger Ver [Tweet This]](http://ctt.ec/U97H3)
+	>[Purse.io creates new financial incentives for people all over the world to start using Bitcoin - Roger Ver [Tweet This]](http://ctt.ec/U97H3)
+
+	>[Purse is currently the best valuation proposition for US-based bitcoin customers (excluding speculation). Applying this same model to other asset classes such as gold should accelerate usage of the Purse platform. - Brock Pierce [Tweet This]](http://ctt.ec/j3Y8i)
 	
 2. This purseArb technique has a lot of room for improvement. Maybe you can figure out a way to make serious money using purseArb and let me know in the comments. I will take a look and try it out for you if it makes sense.
 
