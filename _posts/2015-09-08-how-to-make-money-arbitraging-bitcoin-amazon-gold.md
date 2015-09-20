@@ -173,6 +173,8 @@ Here are the steps:
 	
 1. Wait patiently for the buy to be filled :)
 
+{% include cta-box.html %}
+
 ## The Backstory - How did I get this idea?
 
 February at the [Satoshi Roundtable](/satoshi-roundtable-scheme-exposed.html) Jason King and Roger Ver put the idea into my head while we were walking together.
