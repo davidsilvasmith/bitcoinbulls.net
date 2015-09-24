@@ -38,4 +38,8 @@ defaults:
     values:
       layout: "post"
       is_post: true
-
+  -
+    scope:
+      path: "bitcoin-expert" # empty string for all files
+    values:
+      image: "/images/config/expert-cover.jpg"
