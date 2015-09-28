@@ -1,6 +1,6 @@
 ---
 title: Hire bitcoin expertise.
-subtitle: I have 2 years experience in the 6-year-old bitcoin industry.
+subtitle: I have 3 years experience in the 7-year-old bitcoin industry.
 permalink: /bitcoin-expert/
 ---
 
