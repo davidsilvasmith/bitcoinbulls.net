@@ -33,7 +33,7 @@ Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 ## Bitcoin Speaking Experience
 
 
-* 4/28/15 **Bitcoin 101** (Inside Bitcoins) New York, NY
+* 9/28/15 **Bitcoin & Blockchain Technology: Why Lawyers Should Care** (Michigan State College of Law) East Lansing, MI
 * 12/18/14 **Why Nerds are Excited About Bitcoin** (DemoCamp Lansing) Lansing, MI
 * 11/20/14 **GVF Selection Committee** (Global Venture Forum) Mountain View, CA
 * 10/27/14 **Introduction to Bitcoin** (Detroit Bitcoin Expo), Detroit, MI
