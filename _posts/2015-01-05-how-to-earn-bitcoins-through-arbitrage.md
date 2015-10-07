@@ -1,14 +1,18 @@
 ---
-title: How to Earn Bitcoin Through Arbitrage
+title: How to Earn Bitcoin Through Arbitrage Software (aka bot)
+permalink: /how-to-earn-bitcoins-through-arbitrage-software-aka-bot/
 excerpt: Interested in automated bitcoin trading software? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
 image: /images/how-to-earn-bitcoin-through-arbitrage.jpg 
 popularPostTitle: "How to Make Money Arbitraging: Bitcoin, Amazon, & Gold"
+redirect_from: /how-to-earn-bitcoins-through-arbitrage.html
 ---
 
 ![How To Earn Bitcoin Through Arbitrage](/images/how-to-earn-bitcoin-through-arbitrage.jpg "How To Earn Bitcoin Through Arbitrage")
-I've never been into day trading or forex trading. It's actually surprising I've done option trading (selling) and that I'm investing in bitcoin. I used to be exclusively in index funds and mutual funds. For those who don't know index and mutual funds are some of the safest way to invest in stocks and they provide correspondingly low rates of return.
+I've never been in to day trading or forex trading. It's actually surprising I've done option trading (selling) and that I'm investing in bitcoin. I used to invest exclusively in index funds and mutual funds. For those who don't know index and mutual funds are some of the safest way to invest in stocks and they provide correspondingly low rates of return.
 
-However in 2013 I was a bitcoin day trader. I used a strategy called arbitrage and wrote a bot to do it. It was a relatively low risk way to earn a relatively high return.
+However in 2013 I was a bitcoin day trader. I used a strategy called arbitrage and wrote a bot to do it. 
+
+It was a relatively low risk way to earn a relatively high return.
 
 **Arbitrage is my favorite way to earn bitcoins.** Unfortunately I am not currently involved in arbitrage. 
 
