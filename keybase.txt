@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/davidsilvasmith
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.bitcoinbulls.net
+  * I am davidsilvasmith (https://keybase.io/davidsilvasmith) on keybase.
+  * I have a public key with fingerprint 8E05 E64C F67C 8D35 AA63  4DD6 9396 27D3 A56D C29D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013643a57739fe0ccfa3951c520822a03b5232b6e6e96d412373ce159430be73230a",
+            "fingerprint": "8e05e64cf67c8d35aa634dd6939627d3a56dc29d",
+            "host": "keybase.io",
+            "key_id": "939627d3a56dc29d",
+            "kid": "01013643a57739fe0ccfa3951c520822a03b5232b6e6e96d412373ce159430be73230a",
+            "uid": "696aa2256398fc6f07ef04df6ca92d19",
+            "username": "davidsilvasmith"
+        },
+        "service": {
+            "hostname": "www.bitcoinbulls.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1444221039,
+    "expire_in": 157680000,
+    "prev": "ec837f8e5560301b69ceac9c8beeb34461b0dbb6096283dacb8aec3f8811176a",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMI5AnicrZJZSBVRGMevZWVWZns9SDgtQpnNzJk5M3NtMbDoISMiozK4nW304HXm
+dmfuNZEyfLKFiBYiaCG1ekkrLBNssQUrWgyTNmmFKCICKWiRojNSbz12Xg7nnP/3
++/7nz3dj1OBQesrIlVlpOe/eL0+5c/V4IrR6QqZbLWGXVknhaqmcDWwsSpnnR8o5
+lcKSrMgKgBpAumEAy2YyITYClq4QXZVNVUUywLoKVAwZZBakmqICAxCm6JYGZMwM
+oAIZSbmSzZ1SFo/FueMLrMlknUGN2NAgJgU6QhBolEILWFA1qGgHKVEtKgrLXC+o
+EOYw8lged8WdOEQG7P1D/599JwZw0IIIqaoOgWXaBNqywWxZozYkyFKpYgVCj8Ud
+VMGEmqIkpx6PJpFXwf0yaXOuJB6TnLAg3+BDf4SVlZV5mPvE5Q5ORKNensN8gYrF
+Xd8lblQoynw/Fg4AflVsoILhyB9WBHOHilRFQZLFPe46UlgRSuLzAK5omqaqigys
+XIltivE4i/BAoRvQlMUK2rCkQDJiAsM2ma5DGcgKhhZhiFjExIxhoGlQwTLFGMoi
+ahNQRLCJGAG2aSqKYsAgJI9tdFwprAubqFQgPV7qID8RZ9Lmax3rU0Mp6aGhQwYF
+0xZKH575dwb3fxn2c2Lzd7vo4JG7exPrtmTf6eqbPqOzqm2ZUX/iV3LIxM6xHdnS
+6Bf92VnJefM7C2/3JJb2TLk0puhnWlfW1O6SReW14TNb+0cVbhg6bvrJRfVn+q6/
+3L5v4auM+aklgO46HMovHFvbUrPtydeakuYfp/m3xfEFM7vP2b1N5+tO1fSvadl1
+peR+1+O6m7eKxvWd/tAY6V18ZUNBY/v4gk0PZ+GRZyf3Wt2zV+U0rNjy5u2km+6n
+ourL9ZnHL6Q9z5/7dMmxB9ffjn5qziu4uHTH1LnFr42K16mHPjcZR6nbWLdmJ5pz
+IpLxcVX3p91tOyZnHJjWerXneeuznhHp7eYee0XDDe/LvUcda2Hxb8hYQ0Y=
+=LY71
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidsilvasmith
+
+==================================================================
