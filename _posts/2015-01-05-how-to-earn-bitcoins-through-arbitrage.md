@@ -1,5 +1,5 @@
 ---
-title: How to Earn Bitcoin Through Arbitrage Software (aka bot)
+title: How to Earn Bitcoin Through Arbitrage Software (AKA a bot)
 permalink: /how-to-earn-bitcoins-through-arbitrage-software-aka-bot/
 excerpt: Interested in automated bitcoin trading software? In 2013 I developed an arbitrage bot to automatically earn bitcoins in a low-risk way.
 image: /images/how-to-earn-bitcoin-through-arbitrage.jpg 
