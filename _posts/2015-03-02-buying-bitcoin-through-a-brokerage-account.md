@@ -20,13 +20,17 @@ Investors have had a number of poor options like:
  * through [SecondMarket's BIT](https://bitcoin-investment-trust.secondmarket.com/signup)(Accredited, 25K minimum)
  * buy through overseas exchanges
 
-Beginning today, bitcoin can be purchased through an online brokerage! I'm going to tell you how to buy bitcoin with a brokerage account. Yes you will be able to buy through online brokers like Charles Schwab, Fidelity, E*Trade or TD Ameritrade. 
+Beginning today, bitcoin can be purchased through an online brokerage! I'm going to show you how to buy bitcoin with a brokerage account. Yes you will be able to buy through online brokers like Charles Schwab, Fidelity, E*Trade or TD Ameritrade. 
 
  1. Login to your online brokerage
  2. Search for ticker GBTC
  3. Trade or buy.
 
-Yes this will work through your IRA, Roth IRA, and other self-managed accounts.
+Here is a video showing how to buy GBTC for a ROTH IRA.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OKBc7wDeUdY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Yes this will work through your IRA, Roth IRA, 401K, and other self-managed accounts.
 
 Here is what that process looks like through Fidelity.
 
