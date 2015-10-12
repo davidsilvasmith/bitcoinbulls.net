@@ -4,6 +4,7 @@ title: Huh? What's a bitcoin?
 subtitle: The most empowering force since the Internet.
 permalink: /what-is-bitcoin/
 includeJoin: 1
+excerpt:  Bitcoin is digital cash. Just like people have complete control of the cash in their wallet, bitcoiners have complete control of their bitcoins.
 ---
 
 Everyone deserves to be empowered.

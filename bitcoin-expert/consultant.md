@@ -1,7 +1,9 @@
 ---
-title: Bitcoin Consultant
+title: Experienced Bitcoin Consultant
 subtitle: I can speed you up
-permalink: /bitcoin-expert/consultant/
+permalink: /bitcoin-expert/experienced-bitcoin-consultant/
+excerpt: "Let’s level up your bitcoin platform. Let me help take your user experience to the next level. It will reduce support costs and increase market share."
+redirect_from: /bitcoin-expert/bitcoin-consultant/
 ---
 
 {% include years-experience.md %}
@@ -33,6 +35,7 @@ Bitcoin is the most empowering force since the Internet. No other payment mechan
 ## Harness the Empowerment
 
 David Silva Smith has a deep knowledge of the bitcoin industry, bitcoin technology, and news events. An experienced business executive, speaker, and consultant, Mr. Smith is able to help investors and businesses leverage the empowering features of bitcoin to get ahead of their peers in the coming tsunami of change.
+
 
 ---
 

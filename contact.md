@@ -4,6 +4,7 @@ title: Contact
 subtitle: Get in Touch 
 includeJoin: 1
 permalink: /contact/
+excerpt: "I love bitcoin and am happy to talk with you. Feel free to reach me at any of the methods below: Tel:(517) 944-1872, dave@bitcoinbulls.net "
 ---
 {% assign companyContact = site.data.people[site.data.information.companyContact] %}
 

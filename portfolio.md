@@ -1,9 +1,11 @@
 ---
 title: My Portfolio
 subtitle: How I'm Earning Bitcoins
-permalink: /portfolio/
+permalink: /bitcoin-investment-portfolio/
 layout: sidebar-container
 includeJoin: 1
+excerpt: My current bitcoin investments and their performance.
+redirect_from: /portfolio/
 
 ---
 
@@ -47,9 +49,11 @@ Signup below and I'll let you know when there are attractive investment options.
 
 ### Investments I plan on Exploring:
 
-* [First Global Credit](http://firstglobalcredit.com/) - Allows customers to get exposure to stock equities using bitcoin as collateral.
-* Buying BitcoinShop stock (ticker [BTCS](https://www.google.com/finance?q=btcs)) through [OptionsHouse](http://oh.tellapal.com/a/clk/22Dppg)
-* More [Arbitrage](/how-to-earn-bitcoins-through-arbitrage.html) - I'd love to put my arbitrage bot back to work.
+ - [Bit Bond](https://www.bitbond.com/) - Like BTCJam - P2P bitcoin lending service.
+ - [Loanbase](https://loanbase.com/) - Like BTCJam - P2P bitcoin lending service.
+ - [First Global Credit](http://firstglobalcredit.com/) - Allows customers to get exposure to stock equities using bitcoin as collateral.
+ - Buying BitcoinShop stock (ticker [BTCS](https://www.google.com/finance?q=btcs)) through [OptionsHouse](http://oh.tellapal.com/a/clk/22Dppg)
+ - More [Arbitrage](/how-to-earn-bitcoins-through-arbitrage.html) - I'd love to put my arbitrage bot back to work.
 
 ### Investments I'm Avoiding:
 

@@ -2,6 +2,7 @@
 title: Hire bitcoin expertise.
 subtitle: I have 3 years experience in the 7-year-old bitcoin industry.
 permalink: /bitcoin-expert/
+excerpt: Speed-to-market, correctness, and risk-mitigation are important to capture the opportunities created by bitcoin. Not only can I tell you where the industry is today, I have a better idea than most as to where it is going.
 ---
 
 
@@ -16,13 +17,13 @@ Platforms increase software usage and switching costs. I can help design and tes
 </div>
 
 <div class="col-lg-4 fillable" markdown="1">
-[<span class="link_fill"> </span>](/bitcoin-expert/consultant/)
+[<span class="link_fill"> </span>](/bitcoin-expert/experienced-bitcoin-consultant/)
 
 ##<i class="fa fa-fighter-jet"></i> Consultant
 
 Want to improve your bitcoin service? Let me help you reduce support costs and improve market share.
 
-[Learn more >>](/bitcoin-expert/consultant/){: class="btn btn-primary" role="button"}
+[Learn more >>](/bitcoin-expert/experienced-bitcoin-consultant/){: class="btn btn-primary" role="button"}
 </div>
 
 <div class="col-lg-4 fillable" markdown="1">
@@ -43,12 +44,12 @@ This is a nascent rapidly changing industry. What you read last month may be out
 
 For example I predicted PayPal would use bitcoin instead of competing with it half a year before their announcement ([proof](http://www.benzinga.com/news/14/03/4409527/paypal-should-use-bitcoin-not-compete)). Six months may not seem like a long time but bitcoin changes so fast. For comparison forecasting six months out in the bitcoin industry is like forecasting 5 years out in the mobile industry.
 
-My experience can help bitcoin businesses [build platforms](/bitcoin-expert/api-architect/), [get to market quickly](/bitcoin-expert/consultant/), and [increase market share](/bitcoin-expert/educator/).
+My experience can help bitcoin businesses [build platforms](/bitcoin-expert/api-architect/), [get to market quickly](/bitcoin-expert/experienced-bitcoin-consultant/), and [increase market share](/bitcoin-expert/educator/).
 
 I help by:
 
 * [Designing and testing bitcoin service API's.](/bitcoin-expert/api-architect/)
-* [Market research and competitive analysis for bitcoin ventures.](/bitcoin-expert/consultant/)
+* [Market research and competitive analysis for bitcoin ventures.](/bitcoin-expert/experienced-bitcoin-consultant/)
 * [Explain bitcoin in plain English to executives, investors, general audiences, or software developers.](/bitcoin-expert/educator/)
 
 {% include social-proof.html param=site.data.settings.socialProofs.gabe %} 

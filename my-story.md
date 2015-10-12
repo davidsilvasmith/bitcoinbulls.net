@@ -5,6 +5,7 @@ subtitle: Why Should I be able to retire at 34?
 includeJoin: 1
 permalink: /my-story/
 image: /images/david-silva-smith-and-roger-ver-sky.jpg
+excerpt: "I've dreamed of earning passive investment income since the 7th grade. Now my dream is to ear passive bitcoin income."
 ---
 
 #Should I be able to retire at age 34?
@@ -12,7 +13,7 @@ image: /images/david-silva-smith-and-roger-ver-sky.jpg
 ## I want Freedom
 Freedom is great right? Wouldn't it be great to be free to work from anywhere? To have complete location freedom? What if you also had time freedom? What if you didn't have to work to earn money?
 
-That has been my dream since I heard about interest income when I was at a Chicago pizza restaurant in the 4th grade. I have no idea what the name of the restaurant was, but the conversation stuck with me forever.
+That has been my dream since I heard about interest income when I was at a Chicago pizza restaurant in the 7th grade. I have no idea what the name of the restaurant was, but the conversation stuck with me forever.
 
 ##TLDR
 
