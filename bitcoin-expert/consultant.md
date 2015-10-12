@@ -3,7 +3,8 @@ title: Experienced Bitcoin Consultant
 subtitle: I can speed you up
 permalink: /bitcoin-expert/experienced-bitcoin-consultant/
 excerpt: "Let’s level up your bitcoin platform. Let me help take your user experience to the next level. It will reduce support costs and increase market share."
-redirect_from: /bitcoin-expert/bitcoin-consultant/
+redirect_from: /bitcoin-expert/consultant/
+
 ---
 
 {% include years-experience.md %}
