@@ -4,7 +4,7 @@ excerpt: How I save 30% buying gold and the 4 steps to selling the gold to earn 
 permalink: /how-to-make-money-arbitraging-bitcoin-amazon-gold/
 image: /images/posts/2015-09-08-how-to-make-money-arbitraging-bitcoin-amazon-gold/pursearb-process.jpg
 coverImage: /images/posts/2015-09-08-how-to-make-money-arbitraging-bitcoin-amazon-gold/pursarb-header.jpg
-popularPostTitle: How to Earn Bitcoin Through Arbitrage
+popularPostTitle: How to Earn Bitcoin Through Arbitrage Software (AKA a bot)
 ---
 
 {% include links.md %}
