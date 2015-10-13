@@ -8,6 +8,8 @@
 
 [BitcoinTaxes]: https://bitcoin.tax/
 
+[bitwage-referral]: https://www.bitwage.co/referral/QMT91I9ALB11
+
 [Bitfinex]: http://www.bitfinex.com/
 
 [Delta Financial]: https://deltafinancial.com/
@@ -27,6 +29,7 @@
 [diggit.io]: https://diggit.io/
 
 [diggit-internal]: /earn-bitcoins-through-the-house-edge.html
+
 [37coins]: /37coins-in-detroit.html
 
 [purse.io]: https://purse.io/?_r=exsgIJ
