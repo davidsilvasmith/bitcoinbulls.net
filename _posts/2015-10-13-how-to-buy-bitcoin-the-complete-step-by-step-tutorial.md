@@ -75,6 +75,7 @@ I'll cover:
  - [LocalBitcoins](#buy-bitcoin-with-localbitcoins) - if you NEED bitcoins today.
  - [Buying bitcoin with a brokerage account](#buying-bitcoin-with-your-brokerage-account) (IRA, 401K, etc.)
  - [BitWage](#buying-bitcoin-with-your-paycheck) - how to get a portion - or all - of your salary in bitcoin.
+ - [Exchanges](#how-to-buy-bitcoin-on-an-exchange) - for bitcoin traders and experienced investors.
  - [Why Bitcoin Mining is a bad way to get bitcoins.](#why-bitcoin-mining-is-a-bad-way-to-get-bitcoins)
 
 ## Buy Bitcoin with Coinbase
@@ -90,10 +91,14 @@ This is the way I acquire most of my bitcoin. I have purchased hundreds of bitco
 There are a couple of reasons not to use Coinbase.
 
  1. Coinbase won't allow people who don't have a bank account to purchase bitcoin.
- For users without bank accounts I recommend LocalBitcoins (covered below).
- 2. For a small number of you who have stock investment experience you might prefer using your brokerage to purchase bitcoin. I’ll be covering that scenario later as well.
 
-The reason I recommend most people use Coinbase is because it is fast, safe, and convenient.
+    For users without bank accounts I recommend LocalBitcoins (covered below).
+ 2. For a small number of you who have stock investment experience you might prefer using your brokerage or an exchange to purchase bitcoin. I’ll cover those scenarios as well.
+ 3. Coinbase maintains control of your bitcoin. They can freeze / suspend / confiscate your funds. They are subject to Anti Money Laundering Laws and Know Your Customer regulations. 
+ 
+     I've read about accounts being suspended with no warning given. Personally I've received an email letting me know about my violations of their policy including the corrective actions. I expect this won't concern many people (my warning was for using localbitcoins).
+
+    The reason I recommend most people use Coinbase is because it is fast, safe, and convenient.
 
 ###Coinbase is fast.
 
@@ -227,6 +232,27 @@ These reimbursements work just like a salary payment from an employer who does d
 ![Bitwage deposit information screen](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-bitwage-deposit-information.gif "Bitwage deposit information screen")
  1.  Use the outputs button to set the bitcoin address where you want your bitcoin salary payments to go.
  [![Bitwage - set bitcoin address screen.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-set-bitcoin-address.gif "Bitwage - set bitcoin address screen")]((https://blockchain.info/address/1BNBmmomQ5AauuzQMF7E4PBAwop4Z9RibV))
+
+## How to Buy Bitcoin on an Exchange
+![How to buy bitcoin on an exchange.](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/how-to-buy-bitcoin-on-an-exchange.jpg "How to buy bitcoin on an exchange.")
+
+*For those unfamiliar with buying traditional stocks, an exchange is probably overkill. Companies like Coinbase are designed for bitcoin users or infrequent purchasers. Exchanges are designed for investors, day traders, application builders, etc. On the plus side if you want to learn a bit, exchanges typically have the lowest fees.*
+
+U.S. Bitcoin traders don't have a lot of great options.
+
+Bitcoin's price swings create a lot of volatility, risk, and opportunity. Unless traders are [arbitraging between exchanges](/how-to-earn-bitcoins-through-arbitrage-software-aka-bot/).
+
+Unfortunately it has been hard for U.S. based investors to trade because the big volume exchanges have been overseas.
+
+However that is changing starting this year. U.S. based exchanges like [Gemini](https://gemini.com/) and [Coinbase](https://exchange.coinbase.com/) have come online and will soon be available in all 50 states.
+
+I expect a U.S. exchange will dominate trading volume within the next 3 years.
+
+## How can you get started today?
+
+This video shows you step-by-step how to register for the Gemini exchange.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oQwmTRg6o9s?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 ##Why Bitcoin Mining is a bad way to get bitcoins

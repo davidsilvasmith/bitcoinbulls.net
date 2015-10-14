@@ -12,6 +12,8 @@
 
 [Bitfinex]: http://www.bitfinex.com/
 
+[Gemini]: https://gemini.com/
+
 [Delta Financial]: https://deltafinancial.com/
 
 [btcjam-internal]: /can-btc-jam-grow-your-bitcoins.html
