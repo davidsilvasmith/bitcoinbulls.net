@@ -94,11 +94,8 @@ There are a couple of reasons not to use Coinbase.
 
     For users without bank accounts I recommend LocalBitcoins (covered below).
  2. For a small number of you who have stock investment experience you might prefer using your brokerage or an exchange to purchase bitcoin. I’ll cover those scenarios as well.
- 3. Coinbase maintains control of your bitcoin. They can freeze / suspend / confiscate your funds. They are subject to Anti Money Laundering Laws and Know Your Customer regulations. 
- 
-     I've read about accounts being suspended with no warning given. Personally I've received an email letting me know about my violations of their policy including the corrective actions. I expect this won't concern many people (my warning was for using localbitcoins).
 
-    The reason I recommend most people use Coinbase is because it is fast, safe, and convenient.
+The reason I recommend most people use Coinbase is because it is fast, safe, and convenient.
 
 ###Coinbase is fast.
 
@@ -136,6 +133,18 @@ Here is their [registration status](http://www.fincen.gov/financial_institutions
 ###Coinbase is Convenient
 
 I can buy bitcoin 24/7/365 through Coinbase. I can be laying on my bed in my pajamas and get bitcoin, or I can be out on a beach in the Dominican Republic and get bitcoins from my iPhone.
+
+### The Downside of Convenience
+
+Coinbase makes bitcoin easy for non-technical people, just like gmail makes email easy for people.
+
+This comes at a cost. To do this they must maintain control of your bitcoin. 
+
+They can freeze / suspend / confiscate your funds. They are subject to Anti Money Laundering Laws and Know Your Customer regulations. 
+ 
+I've read about accounts being suspended with no warning given. Personally I've received an email letting me know about my violations of their policy including the corrective actions. I expect this won't concern many people (my warning was for using localbitcoins).
+
+To maintain full control of your bitcoins after purchase you can use a service like [Blockchain.info](https://blockchain.info/) to maintain most of the conveniences and maintain all of the control. In fact I show how to download and install the Blockchain.info wallet in the section on localbitcoins.
 
 ### How to do it
 
