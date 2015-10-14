@@ -97,7 +97,7 @@ The reason I recommend most people use Coinbase is because it is fast, safe, and
 
 ###Coinbase is fast.
 
-After a 24-hour straightforward setup process, bitcoins are credited to your account instantly.
+After a 24 hour straightforward setup process, bitcoins are credited to your account instantly.
 
 <figure class="image" markdown="1">
 ![Fred Wilson says Coinbase is fast.](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/fred-wilson.jpg "Fred Wilson at Techcrunch Disrupt")
@@ -106,7 +106,7 @@ After a 24-hour straightforward setup process, bitcoins are credited to your acc
 Photo Credit: [TechCrunch Disrupt NY 2013 Day Two](https://flic.kr/p/efvYEf) by Techcrunch is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 </figcaption>
 
->“I just bought some bitcoin on my phone with the coinbase app. It took me about two seconds. It’s an awesome experience “ [Tweet this](http://ctt.ec/Z5hCT)
+>“I just bought some bitcoin on my phone with the coinbase app. It took me about two seconds. It’s an awesome experience “
 > – Fred Wilson, American businessman, venture capitalist, and blogger
 
 </figure>
@@ -134,7 +134,7 @@ I can buy bitcoin 24/7/365 through Coinbase. I can be laying on my bed in my paj
 
 ### How to do it
 
-Instead of walking you through the steps I'm going to do one better and show you the steps in this 3-minute video.
+Instead of walking you through the steps I'm going to do one better and show you the steps in this 4 minute video.
 
 Be prepared to follow along and if you find this article useful, I'd appreciate you using this referral link: [Coinbase] when you make your first purchase.
 
@@ -182,25 +182,20 @@ Just like Craigslist there are unscrupulous people out there who are trying to c
 
 Investors with a brokerage account will find it more convenient to get access to bitcoin as an asset class without owning bitcoin directly.
 
-Beginning in May this year, investors have that option through Grayscale’s [$GBTC](http://www.otcmarkets.com/stock/GBTC/chart).
+Beginning in May this year, investors have that option through [Grayscale's](http://grayscale.co/) Bitcoin Investment Trust [$GBTC](http://www.otcmarkets.com/stock/GBTC/chart).
 
->Investing in bitcoin can be a complex experience for investors. Oftentimes, investors aren’t sure who to trust as a counterparty to purchase bitcoin from, what price they should pay, and finally, how they can safely and securely store their bitcoin. In contrast, investing in bitcoin through purchasing shares of the Bitcoin Investment Trust offers investors the ability to get exposed to bitcoin without the aforementioned challenges.<br><br>
-> Since the Bitcoin Investment Trust is a titled security, it is eligible to passed on to beneficiaries under estate laws, is eligible to be held in tax-advantaged accounts (IRAs, 401Ks, etc.) as well as investment/brokerage accounts, and is a familiar structure that not only investors can understand, but as can their lawyers, accountants, and financial advisors. <br><br>
-> By purchasing shares of the Bitcoin Investment Trust, investors have transparency around pricing, know that the Trust is offered through a SEC and FINRA-regulated broker-dealer, and that the Trust’s assets are safeguarded by a robust third-party custodian. 
-><br><br>
+>Investing in bitcoin can be a complex experience for investors. Oftentimes, investors aren’t sure who to trust as a counterparty to purchase bitcoin from, what price they should pay, and finally, how they can safely and securely store their bitcoin. In contrast, investing in bitcoin through purchasing shares of the Bitcoin Investment Trust offers investors the ability to get exposed to bitcoin without the aforementioned challenges. Since the Bitcoin Investment Trust is a titled security, it is eligible to passed on to beneficiaries under estate laws, is eligible to be held in tax-advantaged accounts (IRAs, 401Ks, etc.) as well as investment/brokerage accounts, and is a familiar structure that not only investors can understand, but as can their lawyers, accountants, and financial advisors. By purchasing shares of the Bitcoin Investment Trust, investors have transparency around pricing, know that the Trust is offered through a SEC and FINRA-regulated broker-dealer, and that the Trust’s assets are safeguarded by a robust third-party custodian. 
+>
 >– Michael Sonnenshein Director Sales & Business Development, Grayscale
 
 GTBC is like an ETF for bitcoin. It trades on the OTC markets.
+
 
 When looking at the price of GBTC (currently $29.50) and the price of bitcoin ($233) one might wonder why the big price difference?
 
 Again I’ll let Michael explain:
 
->Shares of the Bitcoin Investment Trust are offered to eligible accredited investors on a daily basis at the NAV price, however, these shares are restricted. <br><br>
->Following a one year hold period, investors’ shares become unencumbered and eligible for resale on the public markets under the symbol: GBTC. So, the quantity of shares available to be traded in GBTC is dependent on existing investors who have passed their one year mark electing to sell. <br><br>
->As a result, GBTC carries some scarcity value. Additionally, it is likely that shares of GBTC carry a premium pricing in the public markets (versus their NAV) since the Bitcoin Investment Trust is the first publicly traded bitcoin investment vehicle and there are those investors who are excited by the novelty of the vehicle and bitcoin and have been waiting to for vehicles like GBTC to debut to get involved. <br><br>
->Finally, there are also investors who would like to put tax-advantaged money to work in bitcoin and to the best of my knowledge, bitcoin cannot be purchased with IRA, Roth IRA, or 401K funds, whereas GBTC is eligible to be held in those types of accounts. 
-><br><br>
+>Shares of the Bitcoin Investment Trust are offered to eligible accredited investors on a daily basis at the NAV price, however, these shares are restricted. Following a one year hold period, investors’ shares become unencumbered and eligible for resale on the public markets under the symbol: GBTC. So, the quantity of shares available to be traded in GBTC is dependent on existing investors who have passed their one year mark electing to sell. As a result, GBTC carries some scarcity value. Additionally, it is likely that shares of GBTC carry a premium pricing in the public markets (versus their NAV) since the Bitcoin Investment Trust is the first publicly traded bitcoin investment vehicle and there are those investors who are excited by the novelty of the vehicle and bitcoin and have been waiting to for vehicles like GBTC to debut to get involved. Finally, there are also investors who would like to put tax-advantaged money to work in bitcoin and to the best of my knowledge, bitcoin cannot be purchased with IRA, Roth IRA, or 401K funds, whereas GBTC is eligible to be held in those types of accounts. 
 – Michael Sonnenshein Director Sales & Business Development, Grayscale
 
 ### How to do it
@@ -218,20 +213,20 @@ Bitcoin is volatile. It goes up and it goes down.
 
 One way to hedge against the volatility is to [dollar cost average](http://www.investopedia.com/terms/d/dollarcostaveraging.asp) bitcoin buys.
 
-BitWage is a service that allows people to buy bitcoins every time they receive a paycheck. This helps people dollar cost average since it happens automatically.
+BItwage is a service that allows people to buy bitcoins every time they receive a paycheck. This helps people dollar cost average since it happens automatically.
 
-I have been using BitWage without issue since March 2015 to receive my Startup Grind Lansing reimbursements.
+I have been using Bitwage since March 2015 to receive my Startup Grind Lansing reimbursements.
 
 These reimbursements work just like a salary payment from an employer who does direct deposit / ACH function.
 
 ### How to do it:
 
  1. Sign up for [BItWage][bitwage-referral]
- 1. Get the payroll information from BitWage for your employer (you'll need to go through your HR process to change your direct deposits)
-![BitWage-get deposit information.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-get-deposit-information.gif "BitWage-get deposit information.")
-![BitWage deposit information screen](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-bitwage-deposit-information.gif "BitWage deposit information screen")
+ 1. Get the payroll information from Bitwage for your employer (you'll need to go through your HR process to change your direct deposits)
+![Bitwage-get deposit information.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-get-deposit-information.gif "Bitwage-get deposit information.")
+![Bitwage deposit information screen](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-bitwage-deposit-information.gif "Bitwage deposit information screen")
  1.  Use the outputs button to set the bitcoin address where you want your bitcoin salary payments to go.
- [![BitWage - set bitcoin address screen.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-set-bitcoin-address.gif "BitWage - set bitcoin address screen")]((https://blockchain.info/address/1BNBmmomQ5AauuzQMF7E4PBAwop4Z9RibV))
+ [![Bitwage - set bitcoin address screen.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-set-bitcoin-address.gif "Bitwage - set bitcoin address screen")]((https://blockchain.info/address/1BNBmmomQ5AauuzQMF7E4PBAwop4Z9RibV))
 
 
 ##Why Bitcoin Mining is a bad way to get bitcoins
