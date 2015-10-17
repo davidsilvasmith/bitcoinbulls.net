@@ -9,7 +9,7 @@ image: /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tut
 
 Buying bitcoin has been one of the best decisions I've made in my life.
 
-Bitcoin has opened my mind up to new ideas, I've met tons of [cool people](satoshi-roundtable-scheme-exposed.html#lucky-me), and taken me to [amazing places](http://www.bitcoinbulls.net/bitcoin-expert/educator/#bitcoin-speaking-experience).
+Bitcoin has opened my mind up to new ideas, I've met tons of [cool people](/satoshi-roundtable-scheme-exposed.html#lucky-me), and taken me to [amazing places](http://www.bitcoinbulls.net/bitcoin-expert/educator/#bitcoin-speaking-experience).
 
 I'm not saying it is going to change your life, but buying bitcoin changed mine forever. 
 
@@ -240,7 +240,7 @@ These reimbursements work just like a salary payment from an employer who does d
 ![Bitwage-get deposit information.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-get-deposit-information.gif "Bitwage-get deposit information.")
 ![Bitwage deposit information screen](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-bitwage-deposit-information.gif "Bitwage deposit information screen")
  1.  Use the outputs button to set the bitcoin address where you want your bitcoin salary payments to go.
- [![Bitwage - set bitcoin address screen.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-set-bitcoin-address.gif "Bitwage - set bitcoin address screen")]((https://blockchain.info/address/1BNBmmomQ5AauuzQMF7E4PBAwop4Z9RibV))
+ [![Bitwage - set bitcoin address screen.]( /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitwage-set-bitcoin-address.gif "Bitwage - set bitcoin address screen")](https://blockchain.info/address/1BNBmmomQ5AauuzQMF7E4PBAwop4Z9RibV)
 
 ## How to Buy Bitcoin on an Exchange
 ![How to buy bitcoin on an exchange.](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/how-to-buy-bitcoin-on-an-exchange.jpg "How to buy bitcoin on an exchange.")
