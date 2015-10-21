@@ -13,6 +13,7 @@ includeHeader: blog-image.html
             <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
         </div>
         <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%dT%H:%M:00%Z'}}"/>
+        <link itemprop="image" href="{{site.data.information.url}}{{ page.image }}" alt="{{ page.title }}">
     </header>
 
     <section itemprop="articleBody">
