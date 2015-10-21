@@ -4,17 +4,18 @@ includeHeader: blog-image.html
 ---
 {% assign author = site.data.people.[page.author] %}
 
-<article class="container">
+<article class="container" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
-        <h1 class="title">{{ page.title }}</h1>
+        <h1 class="title" itemprop="headline">{{ page.title }}</h1>
         {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
         <div class="meta">
             By <address><a rel="author" href="{{ author.link }}" title="{{ author.name }}" target="_blank">{{ author.name }}</a></address> &mdash;
             <time pubdate datetime="{{ page.date | date: "%Y-%d-%B" }}" title="{{ page.date | date: "%B %d, %Y" }}">{{ page.date | date: "%B %d, %Y" }}</time>
         </div>
+        <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%dT%H:%M:00%Z'}}"/>
     </header>
 
-    <section>
+    <section itemprop="articleBody">
         {{ content }}
     </section>
 
