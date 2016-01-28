@@ -18,22 +18,20 @@ Unfortunately at the moment none of the existing investment options are ideal. I
 Signup below and I'll let you know when there are attractive investment options.
 
 {% include request-signup-link.html param="Yes please let me know." %}
-{% assign diggit = 0.10257980 %}
 {% assign jam = 16.237737 %}
-{% assign jamAuto = 4.836586 %}
-{% assign purseArb = 2.5 %}
-{% assign magnr = 1 %}
+{% assign jamAuto = 6.836586 %}
+{% assign magnr = 2.70941771 %}
 
 ### My portfolio holdings as of 9/08/2015.
 
 | Service                               | Annual APY    | Bitcoins |
 | -----------------------------------   |-------------: | -----:   |
-| [BTCJam Autoinvest](/how-to-use-btcjam-autoinvest.html)  |           13% |   {{jamAuto}}  |
-| [PurseArb](/how-to-make-money-arbitraging-bitcoin-amazon-gold/) |    46% |   {{purseArb}}  |
-| Magnr (coming soon)                   |           2.18% |   {{magnr}}   |
-| [Diggit.io][diggit-internal]          |           24% |   {{diggit}}   |
+| [BTCJam Autoinvest](/how-to-use-btcjam-autoinvest.html)  |           44% |   {{jamAuto}}  |
+| Magnr (coming soon)                   |           2.35% |   {{magnr}}   |
+| [Bit Bond](https://www.bitbond.com/)  |           NA%   |              0| 
 | [BTCJam][btcjam-internal]             |           -37% |   {{jam}}  |
-| **Total**                             |            NA |   24.6769028   |
+| **Total**                             |            NA |   25.78373471   |
+
 
 
 ### Exited Positions:
@@ -41,7 +39,8 @@ Signup below and I'll let you know when there are attractive investment options.
 | Date      | Service                               | Annual APY    | Bitcoins |
 | :--       | -----------------------------------   |-------------: | -----:   |
 | 1/11/2015 | [Delta Financial][btcdelta-internal]  |            5% |   8.2    |
-
+| 9/08/2015 | [PurseArb](/how-to-make-money-arbitraging-bitcoin-amazon-gold/) |    46% |   2.5  |
+| 10/1/2015 | [Diggit.io][diggit-internal]          |           24% |   0.10257980   |
 
 
 ### Other holdings:
@@ -52,7 +51,6 @@ Signup below and I'll let you know when there are attractive investment options.
  - [Bit Bond](https://www.bitbond.com/) - Like BTCJam - P2P bitcoin lending service.
  - [Loanbase](https://loanbase.com/) - Like BTCJam - P2P bitcoin lending service.
  - [First Global Credit](http://firstglobalcredit.com/) - Allows customers to get exposure to stock equities using bitcoin as collateral.
- - Buying BitcoinShop stock (ticker [BTCS](https://www.google.com/finance?q=btcs)) through [OptionsHouse](http://oh.tellapal.com/a/clk/22Dppg)
  - More [Arbitrage](/how-to-earn-bitcoins-through-arbitrage.html) - I'd love to put my arbitrage bot back to work.
 
 ### Investments I'm Avoiding:
