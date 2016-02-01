@@ -18,4 +18,6 @@ Shows what wealth distribution would look like if everyone wanted BTC.
 
 [See Conversion Rates](http://preev.com/) - quickly see conversion rates.
 
+[Bitcoin Clock](http://bitcoinclock.com/) - When is the next bitcoin halving?
+
 {% include links.md %}
