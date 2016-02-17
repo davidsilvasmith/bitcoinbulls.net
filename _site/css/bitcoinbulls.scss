@@ -1,0 +1,256 @@
+
+$font_color: #111;
+$font_size: 18px;
+
+img {
+	max-width: 100%;
+}
+
+/* thanks to http://stackoverflow.com/questions/796087/make-a-div-into-a-link */
+.link_fill {
+	position:		absolute; 
+	width:			100%;
+	height:			100%;
+	top:			0;
+	left: 			0;
+	/* edit: added z-index */
+	z-index: 		1;
+
+	/* edit: fixes overlap error in IE7/8, 
+     make sure you have an empty gif */
+	background-image: url('/images/empty.gif');
+  }
+
+.fillable, .fillable-with-border
+ {
+ 	position:relative;
+ }
+
+.fillable-with-border {
+	border: 1px solid $font_color;	
+}
+
+h1, h4 {
+	text-align: center;
+}
+
+dd, h4 + ol > li,
+h4 + ul > li {
+	margin-bottom: 1em;
+}
+
+h4 + ol,
+h4 + ul {
+	width: 90%;
+}
+
+/* looks crappy when it is this small, but in case needed for the future 
+from http://stackoverflow.com/questions/22118397/how-to-make-a-stacked-icon-have-the-same-width-as-a-fixed-width-non-stacked-one */
+.swb-fa-sm {
+    font-size:0.63em;
+}
+
+.navbar-collapse + .navbar-collapse > ul > li {
+	margin-left: 1em; 
+}
+
+.bb-left-bar {
+	img, .modal {
+		max-width: 100%;
+	}
+}
+
+body {
+	font-size: 18px;
+	line-height: 1.625;
+}
+
+.blog-post-container {
+	padding: 0;
+    list-style-type: none;
+}
+
+.blg-post-item {
+	list-style-type: none;
+	   padding: 0;
+		.btn {
+			float:right;
+	}
+
+	a {
+	 color:#000;
+	}
+}
+$justBorder: 								1px solid lighten($navbar-default-color, 10%);
+$jumbotron-border-color:         $font_color;
+
+$background-base:    	#D2BAA1; 		//pinkish color
+$background-darker:		#C3AE97;		//pinkish color
+$brand-color: 			 	#5A2D0E; 		//dark brown- like bull
+$panel-header-color: 	#241A13; 		//almost black
+
+.blg-post-byline {
+	color: #6a6a6a;
+	font-size: .75em;
+}
+
+body {
+    color: $font_color;
+    font_size: $font_size;
+}
+
+
+
+figure {
+	  position:relative;
+	  clear:none;
+	  display:inline-block;
+	  overflow:hidden;
+	  margin-left:auto;
+	  margin-right:auto;
+	  text-align: center;
+}
+
+	figure img {
+	  position:relative;
+}
+
+figure>blockquote, figure>figcaption {
+	background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    border-left-width: 0px;
+  	color: #fff;
+	left:0em;
+	position:absolute;
+	width:100%;
+	z-index:2;
+}
+
+figure figcaption p {
+	font-size: 13.5px;
+	a {
+		color: #2077b2;
+		&:hover {
+			color: #2077b2;
+		}
+	}
+}
+
+figure>blockquote {
+	top:0px;
+	border-right-width: 0px;
+    box-shadow: none;
+    display:block;
+    p {
+		font-size:1em;
+    }
+}
+	
+figure>figcaption {
+	 bottom: 0em;
+     p {
+     	margin-left:1em;
+     }
+}
+
+
+article blockquote p {
+     font-size:18px;
+     display: inline;
+}
+
+article blockquote { 
+	padding:0px 12px 12px 12px;
+	width: 90%; 
+}
+
+main p {
+	margin-bottom: 30px;
+	font-size: 22px;
+}
+
+main h1,h2,h3,h4,h5,h6 {
+	margin-bottom: 8px;
+}
+
+article section figure {
+	p  {
+		margin:0px;
+			img {
+			margin:0px;
+			}
+	}
+
+	blockquote {
+		padding:0px;
+		width: 100%;
+		margin:0px;
+
+		p{
+		color: #fff
+		}
+	}
+}
+
+article section figure figcaption p {
+	color: #fff;
+}
+
+main a {
+	color: $text;
+	text-decoration: underline;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+nav.tagline {
+	background-color:rgba(255,255,255,0.8);
+	border-style: solid;
+    border-width: 1px;
+    border-color: #fff;
+}
+
+li.blg-post-item>a {
+	text-decoration: none;
+}
+
+div.blog-cover>section>div.container>h4 {
+	color: #fff;
+	background-color: rgba(0,0,0,.5);
+	padding: 5px;
+}
+
+section.testimonial{
+	margin: 0px 0px 20px 0px ;
+    font-size:0.9em;
+    
+    p {
+        margin:0;
+        display:inline-block;
+    }
+
+    img {
+        border-radius: 54px;
+        width: 64px;
+        height: 64px;
+        margin: 0 20px 0 0;
+        display: inline-block;
+        margin-top: -28px;
+    }
+
+    blockquote {
+        border:0;
+        font-size:24px;
+        margin:1.2em -4em 1.2em 0;
+        padding: 0px 12px 12px 12px;
+		width: 90%;
+
+
+        p {
+            font-size:30px;
+            line-height:1.1;
+            font-weight:600;
+        }
+	}
+}
