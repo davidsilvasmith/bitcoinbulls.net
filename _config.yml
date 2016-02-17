@@ -10,6 +10,7 @@ include: [glyphicons-halflings-regular.svg]
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 lsi: false
 
