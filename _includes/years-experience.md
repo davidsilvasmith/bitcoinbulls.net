@@ -1,1 +1,0 @@
-I have {{ site.time | date: "%Y" | minus:2013 }} years experience in the {{ site.time | date: "%Y" | minus:2009 }}-year-old bitcoin industry. Let me help you.

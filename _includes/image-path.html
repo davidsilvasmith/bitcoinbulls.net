@@ -1,6 +1,0 @@
-{% if page.coverImage %}
- {% assign coverImage = page.coverImage %}
-{% else %}
- {% assign coverImage = page.image %}
-{% endif %}
-{{ coverImage | replace:"'",'%27'}}

@@ -1,9 +1,6 @@
----
-layout: null
----
 User-Agent: *
 Allow: /
-Sitemap: {{site.data.information.url}}/sitemap.xml
-Sitemap: {{site.data.information.url}}/sitemap-news.xml
+Sitemap: http://www.bitcoinbulls.net//sitemap.xml
+Sitemap: http://www.bitcoinbulls.net//sitemap-news.xml
 
 Disallow: /thanks/
