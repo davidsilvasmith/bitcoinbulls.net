@@ -1,17 +1,3 @@
----
-navigation:
- - text: Portfolio
-   url: /portfolio/
- - text: Blog
-   url: /blog/
- - text: My Story
-   url: /my-story/
- - text: Bitcoin Expert
-   url: /bitcoin-expert/
- - text: What is Bitcoin?
-   url: /what-is-bitcoin/
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head itemscope itemtype="http://schema.org/WebSite">
@@ -88,7 +74,7 @@ navigation:
             </a>
              {% assign url = page.url|remove:'index.html' %}
                         
-                        {% for link in page.navigation %}
+                        {% for link in site.data.navigation %}
                         {% assign urlSize = link.url|size %}
 
                         <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}} </a>
@@ -104,11 +90,13 @@ navigation:
     </header>
 </section>
 
-{% if page.includeHeader %}
+{% if layout.includeHeader %}
+ {% include {{layout.includeHeader}} %}
+{% elsif page.includeHeader %}
  {% include {{page.includeHeader}} %}
 {% endif %}
 
-{% if page.isSideBar %}
+{% if layout.isSideBar %}
 {{ content }}
 {% else %}
   <main class="container">

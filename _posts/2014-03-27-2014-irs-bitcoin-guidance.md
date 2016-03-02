@@ -33,4 +33,4 @@ The article's author, a tax lawyer, does a great job summarizing the IRS bitcoin
 5. The IRS notice applies to past tax years. Consider amending your return if you filed inconsistently with this guidance.
 
 #Want to earn bitcoins?
-Now that the tax rules are clear, come see [how I'm earning bitcoins](/portfolio/).
+Now that the tax rules are clear, come see [how I'm earning bitcoins](/bitcoin-investment-portfolio/).

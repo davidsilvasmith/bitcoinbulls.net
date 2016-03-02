@@ -10,6 +10,7 @@ include: [glyphicons-halflings-regular.svg]
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 lsi: false
 
@@ -20,6 +21,9 @@ sass:
 relative_permalinks: false
 paginate: 10
 paginate_path: "blog/page:num/"
+
+whitelist: 
+  - jekyll-redirect-from
 
 defaults:
   -
