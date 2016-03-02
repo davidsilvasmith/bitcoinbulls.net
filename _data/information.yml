@@ -1,0 +1,43 @@
+# Blog Information
+title:        "Bitcoin Bulls"
+subtitle:     "Can I retire on bitcoin investment income in two years?"
+cover_image:  /images/branding/bitcoin-bulls-375x358.png
+logo:         /images/branding/bitcoin-bulls-52x50.png
+
+# Company information
+company:      Bitcoin Bulls
+url:          http://www.bitcoinbulls.net/
+facebook:     BTCBulls
+twitter:      DavidSilvaSmith
+gplus:        '109243945202894778112'
+about_link:   /my-story/
+
+# Product Information
+product_link: /bitcoin-expert/
+tagline:      "I help CEOs"
+
+# Comments
+disqus:
+  # Eg. "exampleblog" Set to false to disable comments
+  shortname:  false
+
+# Sharing settings
+sharing:
+  twitter:    true
+  facebook:   true
+  gplus:      true
+  hn:         false
+  
+
+# Analytics     
+analytics:
+  google: false # Add tracking code in _includes/_google-analytics.html
+    
+    
+# Google Fonts
+# eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+google_font: 'Droid+Sans:400,700'
+  
+companyContact: dave
+primaryAuthor: dave
+  # Setup your fonts, colors etc at _assets/stylesheets/main.scss

@@ -1,0 +1,36 @@
+socialProofs:
+  tom:
+    name: Tom Denison
+    image: /images/testimonials/tom-denison.jpg
+    title: WooChat Co-founder
+    quote: Thanks so much for you feedback, invaluable.
+
+  gabe:
+    name: Gabe Mott
+    image: /images/testimonials/gabe-mott.jpg
+    title: Huedoku Founder
+    quote: Great feedback. Really spot on.
+
+  stanley:
+    name: Stanley Samuel
+    image: /images/testimonials/stanley-samuel.jpg
+    title: Director Operations Program Management, Truven Health Analytics
+    quote: He is very talented, efficient and excellent worker. He is an awesome team player. Many times during the project, I knew I could count on David to get the job done.
+
+  jim:
+    name: Jim Harmer
+    image: /images/testimonials/jim-harmer.jpg
+    title: Director of Systems Innovation Group, Jackson National Life
+    quote: I appreciate the work that you’ve done with us and the flexibility. Hopefully, we will have an opportunity to work together again in the future.
+
+  deb:
+    name: Deb Mosher
+    image: /images/testimonials/deb-mosher.jpg
+    title: Solutions Professional at Advocate Solutions (formerly GCR Ltd.)
+    quote: He produces results and is always willing to go the extra mile. I highly recommend David.
+
+  matt:
+    name: Matthew Roszak
+    image: /images/testimonials/matthew-roszak.jpg
+    title: Founding Partner, Tally Capital
+    quote: You did a phenomenal job at the YPO and TNABC sessions!
