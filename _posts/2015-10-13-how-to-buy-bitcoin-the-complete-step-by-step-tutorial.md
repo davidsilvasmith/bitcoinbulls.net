@@ -1,11 +1,14 @@
 ---
-title: "How to Buy Bitcoin: The Complete Step-By-Step Tutorial"
+title: "Buying Bitcoins: A Step-by-Step guide to Understanding Bitcoin Investing, Bit Coin Prices and Values."
 excerpt: In this complete tutorial, you’re going to learn, step-by-step, how to buy bitcoin.
-permalink: /how-to-buy-bitcoin-the-complete-step-by-step-tutorial/
+permalink: /instructional-guide-buying-bitcoins-bitcoin-investing-bit-coin-prices-values/
 coverImage: /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/how-to-buy-bitcoin-the-definitive-guide-cover.jpg
 image: /images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/how-to-buy-bitcoin-the-definitive-guide.jpg
+redirect_from: /how-to-buy-bitcoin-the-complete-step-by-step-tutorial/
+meta_title: Buying Bitcoins | Bitcoin Investing | Bit coin Prices | Values
+meta_description: Buying bitcoins and basic bitcoin investing can be complex. Bit coin prices and the value of bitcoins can also vary like the stock market. Here's tips to help you.
+keywords: Buying Bitcoins, Bitcoin Investing, Bit Coin Prices, Values 
 ---
-
 
 Buying bitcoin has been one of the best decisions I've made in my life.
 

@@ -4,8 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{page.excerpt}}">
-    {%if page.keywords %}<meta name="keywords" content ="{{page.keywords}}">{% endif %}
+    {%if page.meta_title %}<meta name="title" content="{{page.meta_title}}" >{% endif %}
+    {%if page.meta_description %}
+        <meta name="description" content="{{page.meta_description}}" >
+    {%else %}
+        <meta name="description" content="{{page.excerpt}}">
+    {% endif %}
+    
+    {%if page.keywords %}<meta name="keywords" content="{{page.keywords}}">{% endif %}
     <meta name="author" content="David Silva Smith">
     <link rel="shortcut icon" href="/images/favicons/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="/images/favicons/apple-touch-icon-57x57.png">
