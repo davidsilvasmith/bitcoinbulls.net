@@ -1,6 +1,6 @@
 markdown: kramdown
 timezone: America/Detroit
-highlighter: rougue
+highlighter: rouge
 safe: true
 lsi: false
 permalink: none
