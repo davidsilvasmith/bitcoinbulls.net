@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Can I Retire on Bitcoin Income in Two Years?
+title: How I'm Making Money with Bitcoin Investing.
 subtitle: I share the results of one new bitcoin investment each month.
 permalink: /
 contentFirst: 1
