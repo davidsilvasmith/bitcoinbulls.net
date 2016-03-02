@@ -85,6 +85,6 @@ Also there is no such thing as risk-free. I was aware either of the markets coul
 
 #What do you think?
 
-Do you see opportunities for arbitrage? Or do you think there are better ways to [earn bitcoins?](/portfolio/) 
+Do you see opportunities for arbitrage? Or do you think there are better ways to [earn bitcoins?](/bitcoin-investment-portfolio/) 
 
 Let me know in the comments!

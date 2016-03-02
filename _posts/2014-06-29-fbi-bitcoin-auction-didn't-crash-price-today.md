@@ -23,4 +23,4 @@ A high sales price could catalyze a price run-up while a below market price coul
 
 Most expect SecondMarket, a hedge fund, or venture capital firm to win the sealed bid. The U.S. Marshals will notify the winning bidder Monday. It is widely expected the winner will announce their winning bid.
 
-For bitcoin bulls like us this news doesn't impact bitcoin's long-term investment prospects. That's one reason [I'm a bull](/portfolio/) instead of playing the swings. It helps me sleep easier at night.
+For bitcoin bulls like us this news doesn't impact bitcoin's long-term investment prospects. That's one reason [I'm a bull](/bitcoin-investment-portfolio/) instead of playing the swings. It helps me sleep easier at night.

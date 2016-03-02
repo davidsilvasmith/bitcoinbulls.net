@@ -26,7 +26,7 @@ Oh you want to open that account during non-banking hours. Good luck with a trad
 
 ## Disclosures:
 
- * I have a [financial interest](/portfolio/) in bitcoin's success (this is posted on bitcoin bulls after all)
+ * I have a [financial interest](/bitcoin-investment-portfolio/) in bitcoin's success (this is posted on bitcoin bulls after all)
  * I'm not a blind bitcoin zealot. Yes I have concerns about bitcoin's success and I'll share them next week.
 
 ## Rebuttals

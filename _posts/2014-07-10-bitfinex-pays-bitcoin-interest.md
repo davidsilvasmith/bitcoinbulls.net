@@ -45,4 +45,4 @@ As you can see in the above screenshot those swaps are all earning .005%. Anothe
 I DO NOT recommend using Bitfinex! 
 
 #Where am I Earning Bitcoins?
-As you can tell from this post I'm not earning bitcoins at Bitfinex. Come learn where [I am earning bitcoins.](/portfolio/)
+As you can tell from this post I'm not earning bitcoins at Bitfinex. Come learn where [I am earning bitcoins.](/bitcoin-investment-portfolio/)
