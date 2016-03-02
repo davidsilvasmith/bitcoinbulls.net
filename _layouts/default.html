@@ -88,7 +88,7 @@ navigation:
             </a>
              {% assign url = page.url|remove:'index.html' %}
                         
-                        {% for link in page.navigation %}
+                        {% for link in site.data.navigation %}
                         {% assign urlSize = link.url|size %}
 
                         <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}} </a>
