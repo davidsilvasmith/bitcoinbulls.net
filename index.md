@@ -14,7 +14,7 @@ includeCoverNav: 1
     <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/)
 
-##<i class="fa fa-signal"></i> Arbitrage
+<h2><i class="fa fa-signal"></i> Arbitrage</h2>
 
 Interested in making money from selling gold bought at a discount? I'll share the 4 steps to buying gold coins at a 30% discount selling them at a 9% profit.
 
@@ -24,7 +24,7 @@ Interested in making money from selling gold bought at a discount? I'll share th
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/how-to-use-btcjam-autoinvest.html)
 
-##<i class="fa fa-users"></i> Peer-to-peer Lending
+<h2><i class="fa fa-users"></i> Peer-to-peer Lending</h2>
 
 
 BTCJam is a peer-to-peer lending service similar to Prosper and Lending Club. Investing bitcoins is a way to magnify returns and hedge against the risk of a decline in price. This article is about my experience with BTCJam.
@@ -35,7 +35,7 @@ BTCJam is a peer-to-peer lending service similar to Prosper and Lending Club. In
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/bitcoin-etfs-are-coming.html)
 
-##<i class="fa fa-clock-o"></i> Bitcoin ETFs are coming
+<h2><i class="fa fa-clock-o"></i> Bitcoin ETFs are coming</h2>
 
 There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and Barry Silbert's COIN ETF. Learn what an ETF is, when they are coming, how they will work, and what the impact may be when they are public.
 
@@ -48,7 +48,7 @@ There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and 
 {: .span12}
 </div>
 
-##Win or Lose I give you the details about my bitcoin investments.
+<h2>Win or Lose I give you the details about my bitcoin investments.</h2>
 
 Bitcoin is a brand new asset class. Like all assets there are great opportunities to get a return on invested assets. Like all assets there are also scams and investment risks.
 
