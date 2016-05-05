@@ -30,13 +30,15 @@ Email: <dave@bitcoinbulls.net>
 
 Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 
-## Bitcoin Speaking Experience
-
-
+## Bitcoin Speaking Experience & Notable Media
+* 5/27/16 **What is the block chain?** (Michigan Tech BBQ) Grand Ledge, MI
+* 5/3/16 **[Lansing proponent doubts Bitcoin creation claim](http://wkar.org/post/lansing-proponent-doubts-bitcoin-creation-claim)** (WKAR Current State) East Lansing, MI
+* 11/9/15 **[Bitcoin back in favor after price pop and drop](http://www.freep.com/story/money/business/2015/11/08/bitcoin-back-detroit-after-price-pop-and-drop/75224930/)** (Detroit Free Press) Detroit, MI
 * 9/28/15 **Bitcoin & Blockchain Technology: Why Lawyers Should Care** (Michigan State College of Law) East Lansing, MI
 * 12/18/14 **Why Nerds are Excited About Bitcoin** (DemoCamp Lansing) Lansing, MI
 * 11/20/14 **GVF Selection Committee** (Global Venture Forum) Mountain View, CA
 * 10/27/14 **Introduction to Bitcoin** (Detroit Bitcoin Expo), Detroit, MI
+* 10/19/14 **[David Smith Bitcoin Investor Bitcoin Bulls](https://www.youtube.com/watch?v=i_4aIKMoVb4)** (CryptoBiz Magazine) Las Vegas, NV
 * 10/18/14 **[David Smith Investor Bitcoin Bulls](http://cryptobizmagazine.com/david-smith-investor-bitcoin-bulls/)** (Crypto Biz Magazine) Las Vegas, NV
 * 10/8/14 **Include Bitcoin in a Balanced Portfolio** (CoinAgenda) Las Vegas, NV 
 * 10/6/14 **How to Explain Bitcoin in Plain English** (Inside Bitcoins Vegas) Las Vegas, NV 
@@ -51,6 +53,8 @@ Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 * 5/22/14 **[How To Successfully Introduce Bitcoin to your Friends](https://www.youtube.com/watch?v=e-PXjJLF-bo)** (Inaugural Coin Congress Asia) Singapore
 * 4/30/14 **Coinvendor: The Safest Place to Trade Bitcoin** (The Hatching) Lansing, MI
 * 1/10/14 **[Bitcoin Interview](http://www.michiganbusinessnetwork.com/radio/2014/01/28/Bottom_Line_IT_S3_David_Smith)** (Bottom Line IT), Lansing, MI
+* 12/18/13 **[Stocking-stuffer of the times: Bitcoin](http://www.cbsnews.com/news/stocking-stuffer-of-the-times-bitcoin/)** (CBS MoneyWatch)
+* 12/11/13 **[Bitcoin: Super currency or super fad?](http://www.usatoday.com/story/news/nation/2013/12/10/bitcoin-entrepreneurs-seek-mainstream-acceptance/3971121/)** (USA Today) Las Vegas, NV
 * 12/8/13 **Bitcoin: The Future of Money** (SouthEastern Michigan Computer Organization) Detroit, MI
 * 11/20/13 **GoGiveCoin: My First Bitcoin App** (Lansing .NET User Group) Lansing, MI
 
