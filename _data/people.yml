@@ -31,3 +31,7 @@ john:
     image: /images/john-wnuk-bio-pic.jpg
     description: >
     John is happily married, father of two, and grandfather of three. Has BS and MS in Engineering. BS was on a scholarship and MS on a fellowship. Has 40 years Telecom experience and 2 years Bitcoin experience. Currently enjoys educating others as CEO of SJWSmarTech Consulting LLC, and building websites that include: <a href="http://jmwnuk.wix.com/bitcoinforseniors">Bitcoin for Seniors</a> and <a href="http://sjwsmartech.wix.com/digitalmoney">Digital Money</a>.
+
+woodard:
+    name: John Woodard
+    description: John Woodard is a tech enthusiast who hopes to launch his own start-up. In the meantime he does freelance writing on any and all topics relating to the newest and most exciting technologies.
