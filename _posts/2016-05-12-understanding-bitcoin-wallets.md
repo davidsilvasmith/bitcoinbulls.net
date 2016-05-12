@@ -3,6 +3,7 @@ title: "Understanding Bitcoin Wallets"
 excerpt: "Huh? I thought bitcoins were digital. What is a bitcoin wallet?"
 coverImage: /images/posts/2016-05-12-understanding-bitcoin-wallets/bitcoin-wallet-cover.jpg
 image: /images/posts/2016-05-12-understanding-bitcoin-wallets/bitcoin-wallet.jpg
+permalink: /understanding-bitcoin-wallets/
 author: woodard
 popularPostTitle: "Buying Bitcoins: A Step-by-Step guide to Understanding Bitcoin Investing, Bit Coin Prices and Values."
 ---
