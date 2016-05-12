@@ -10,7 +10,7 @@ excerpt: Speed-to-market, correctness, and risk-mitigation are important to capt
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/bitcoin-expert/api-architect/)
 
-##<i class="fa fa-file-code-o"></i> API Architect
+<h2><i class="fa fa-file-code-o"></i> API Architect</h2>
 Platforms increase software usage and switching costs. I can help design and test your bitcoin software API.
 
 [Learn more >>](/bitcoin-expert/api-architect/){: class="btn btn-primary" role="button"}
@@ -19,7 +19,7 @@ Platforms increase software usage and switching costs. I can help design and tes
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/bitcoin-expert/experienced-bitcoin-consultant/)
 
-##<i class="fa fa-fighter-jet"></i> Consultant
+<h2><i class="fa fa-fighter-jet"></i> Consultant</h2>
 
 Want to improve your bitcoin service? Let me help you reduce support costs and improve market share.
 
@@ -29,7 +29,7 @@ Want to improve your bitcoin service? Let me help you reduce support costs and i
 <div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/bitcoin-expert/educator/)
 
-##<i class="fa fa-microphone"></i> Educator
+<h2><i class="fa fa-microphone"></i> Educator</h2>
 
 Don't have time to attend conferences? Have your presentations failed to convert? I can help deliver your message.
 
