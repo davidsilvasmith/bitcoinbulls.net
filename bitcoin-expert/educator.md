@@ -63,9 +63,4 @@ Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 <iframe width="854" height="510" src="//www.youtube.com/embed/EFraiyAD9oY" frameborder="0" allowfullscreen></iframe>
 <iframe width="854" height="510" src="//www.youtube.com/embed/vBED1r6LWWg" frameborder="0" allowfullscreen></iframe>
 
----
-
-#### About CEO David Silva Smith
-David believes everyone deserves to be empowered. David believes bitcoin is the most empowering technology since the Internet. David has been interviewed for CBS MoneyWatch, NBC Chicago, USA Today, Money and Tech, spreading the word about bitcoin. David's [bitcoin articles](http://www.benzinga.com/author/david-smith) have been featured on Yahoo Finance, MSN Money, and Nasdaq. Mr. Smith has created an arbitrage bot, [gogivecoin.com](http://www.gogivecoin.com), and is currently working on a person-to-person trading system. Prior to becoming engrossed in bitcoin, Smith built mobile apps for financial services companies. In his free time he enjoys playing frisbee and basketball with his seven year old son.
-
----
+{% include about-david.html %}
