@@ -9,6 +9,13 @@ includeJoin: 1
 includeCoverNav: 1 
 ---
 
+##Special Limited Duration Bitcoin Strategic Trading Fund
+
+A new Investment Fund has been formed specifically for serious, aggressive accredited investors interested in putting some risk capital into the Bitcoin and Crypto Currency space, but only with a management team that thoroughly knows and understands the Bitcoin/Alternative/Crypto Currency phenomenon.  
+
+<a href="/bitcoin-strategic-trading-fund/" class="btn btn-primary">Learn More >></a>
+
+___
 
 <div class="row">
     <div class="col-lg-4 fillable" markdown="1">
