@@ -2,7 +2,9 @@
 title: Bitcoin Strategic Trading Fund
 subtitle: Special Limited Duration
 permalink: /bitcoin-strategic-trading-fund/
-excerpt: "I've dreamed of earning passive investment income since the 7th grade. Now my dream is to ear passive bitcoin income."
+excerpt: "A Special Limited Offering Bitcoin Strategic Trading Fund - The Intelligent Approach to Capitalizing on the Bitcoin/Crypto Boom"
+link: /bitcoin-strategic-trading-fund/faq/
+linkText: BST FAQ
 ---
 
 # Announcing… A Special Limited Offering Bitcoin Strategic Trading Fund “The Intelligent Approach to Capitalizing on the Bitcoin/Crypto Boom”

@@ -8,6 +8,9 @@
              <a href="/bitcoin-strategic-trading-fund/" class="btn btn-orange" role="button">Bitcoin Strategic Trading Fund</a>
 
             {% endif %}
+            {% if page.link %}
+				<a href="{{page.link}}" class="btn btn-orange" role="button">{{page.linkText}}</a>            
+            {% endif %}
         </div>
     </section>
 </div>
