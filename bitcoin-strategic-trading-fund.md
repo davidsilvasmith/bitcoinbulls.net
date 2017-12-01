@@ -19,7 +19,7 @@ The Fund is suitable for investors interested in putting $5,000 to $100,000 in r
 
 * The sponsors and management will be investors in the Fund and will be compensated by a 20% share of net Fund profits, only making money from the fund if the investors/members do.
 
-* All investors in the Fund must be accredited, highly risk tolerant and able to withstand the loss of their investment. Subscriptions must completed and funds wired to the Fund manager by the close of business 12/7/17
+* All investors in the Fund must be accredited, highly risk tolerant and able to withstand the loss of their investment. Subscriptions must completed and funds wired to the Fund manager by the close of business 12/14/17
 
 * Fund will be liquidated and all cash balances distributed to Investors/ Members by no later than 3/22/18
 
