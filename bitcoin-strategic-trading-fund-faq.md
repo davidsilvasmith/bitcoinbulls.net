@@ -1,7 +1,7 @@
 ---
 title: Bitcoin Stategic Fund FAQ
 subtitle: Special Limited Duration
-permalink: /bitcoin-strategic-trading-fund/faq
+permalink: /bitcoin-strategic-trading-fund/faq/
 excerpt: "Bitcoin Strategic Trading Fund Frequently Asked Questions"
 link: /bitcoin-strategic-trading-fund/
 linkText: Bitcoin Strategic Fund
