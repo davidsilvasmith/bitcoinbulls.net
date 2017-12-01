@@ -78,7 +78,7 @@ The Fund Managing Partner is David S. Smith, a widely recognized expert and long
 * Educated congressional policymakers as part of Congressional Bitcoin Education Day
 * Founder of: Bitcoinbulls.net – Helping Bitcoin investors find yield / dividends, So What’s Bitcoin.com – Explaining Bitcoin in Plain English, and Gogivecoin.com – a service to help Bitcoin enthusiasts mail loved ones their first Bitcoins.
 
-#Invest
+# Invest
 
 Until Thursday December 14th accredited investors can invest in this special limited opportunity.
 
