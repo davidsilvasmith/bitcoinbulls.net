@@ -112,6 +112,23 @@
 
 {% include signup-guts.html %}
 
+{% if page.url contains "bitcoin-strategic-trading-fund" %}
+{% else %}
+    <div class="modal fade" id="bstModal" tabindex="-1" role="dialog" aria-labelledby="emaildialogsignupLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times</button>
+                <h3 id="bstModalLabel">Special Limited Duration Bitcoin Strategic Trading Fund</h3>
+                <p> A new Investment Fund has been formed specifically for serious, aggressive accredited investors interested in putting some risk capital into the Bitcoin and Crypto Currency space, but only with a management team that thoroughly knows and understands the Bitcoin/Alternative/Crypto Currency phenomenon.
+                </p>
+                <a href="/bitcoin-strategic-trading-fund/" class="btn btn-primary">Learn More&nbsp;»</a>
+            </div>
+        </div>
+       </div>
+    </div>
+{% endif %}
+
 <footer class="site-footer">
     <div class="container">
         &copy; {{ site.time | date: "%Y" }} 
@@ -146,6 +163,9 @@
             <script type="text/javascript">
             var lsBaseURL = (("https:" == document.location.protocol) ? "https://tracker.leadsius.com/djs/" : "http://tracker.leadsius.com/djs/");
             document.write(unescape("%3Cscript src='" + lsBaseURL + "tracker.js?_k=6837e76ba06b10da36297eb61060331a40a094b9' type='text/javascript'%3E%3C/script%3E"));
-        </script>
+            $(window).on('load',function(){
+                $('#bstModal').modal('show');
+            });
+            </script>
 </body>
 </html>
