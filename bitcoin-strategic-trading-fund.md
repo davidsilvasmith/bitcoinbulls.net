@@ -5,7 +5,7 @@ permalink: /bitcoin-strategic-trading-fund/
 excerpt: "I've dreamed of earning passive investment income since the 7th grade. Now my dream is to ear passive bitcoin income."
 ---
 
-#Announcing… A Special Limited Offering Bitcoin Strategic Trading Fund “The Intelligent Approach to Capitalizing on the Bitcoin/Crypto Boom”
+# Announcing… A Special Limited Offering Bitcoin Strategic Trading Fund “The Intelligent Approach to Capitalizing on the Bitcoin/Crypto Boom”
 
 A new Investment Fund has been formed by Bitcoin/Crypto professionals who are inviting aggressive accredited investors to join them as initial limited liability members/investors.
 
