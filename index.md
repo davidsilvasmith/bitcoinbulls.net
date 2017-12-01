@@ -18,7 +18,17 @@ A new Investment Fund has been formed specifically for serious, aggressive accre
 ___
 
 <div class="row">
-    <div class="col-lg-4 fillable" markdown="1">
+<div class="col-lg-4 fillable" markdown="1">
+[<span class="link_fill"> </span>](/instructional-guide-buying-bitcoins-bitcoin-investing-bit-coin-prices-values/)
+
+<h2><i class="fa fa-clock-o"></i> Buy bitcoin</h2>
+
+Want to buy bitcoin? I share 5 ways to buy bitcoin and the pros and cons of the different methods. I know many new bitcoin investors are interested in mining bitcoin I share why I advise buying bitcoin instead of mining it.
+
+[Learn more >>](/instructional-guide-buying-bitcoins-bitcoin-investing-bit-coin-prices-values/){: class="btn btn-primary" role="button"}
+</div>
+
+<div class="col-lg-4 fillable" markdown="1">
 [<span class="link_fill"> </span>](/how-to-make-money-arbitraging-bitcoin-amazon-gold/)
 
 <h2><i class="fa fa-signal"></i> Arbitrage</h2>
@@ -37,16 +47,6 @@ Interested in making money from selling gold bought at a discount? I'll share th
 BTCJam is a peer-to-peer lending service similar to Prosper and Lending Club. Investing bitcoins is a way to magnify returns and hedge against the risk of a decline in price. This article is about my experience with BTCJam.
 
 [Learn more >>](/how-to-use-btcjam-autoinvest.html){: class="btn btn-primary" role="button"}
-</div>
-
-<div class="col-lg-4 fillable" markdown="1">
-[<span class="link_fill"> </span>](/bitcoin-etfs-are-coming.html)
-
-<h2><i class="fa fa-clock-o"></i> Bitcoin ETFs are coming</h2>
-
-There are two bitcoin ETFs being brought to market. The Winklevoss COIN ETF and Barry Silbert's COIN ETF. Learn what an ETF is, when they are coming, how they will work, and what the impact may be when they are public.
-
-[Learn more >>](/bitcoin-etfs-are-coming.html){: class="btn btn-primary" role="button"}
 </div>
 </div>
 

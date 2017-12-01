@@ -100,7 +100,7 @@ There are a couple of reasons not to use Coinbase.
 
 The reason I recommend most people use Coinbase is because it is fast, safe, and convenient.
 
-###Coinbase is fast.
+### Coinbase is fast.
 
 After a 24 hour straightforward setup process, bitcoins are credited to your account instantly.
 
@@ -133,7 +133,7 @@ Not enough? Remember how Coinbase needs your ID? Well that is because Coinbase i
 
 Here is their [registration status](http://www.fincen.gov/financial_institutions/msb/msb.registration.letter.html?ID=11270521) on FinCen's website.
 
-###Coinbase is Convenient
+### Coinbase is Convenient
 
 I can buy bitcoin 24/7/365 through Coinbase. I can be laying on my bed in my pajamas and get bitcoin, or I can be out on a beach in the Dominican Republic and get bitcoins from my iPhone.
 
@@ -193,7 +193,7 @@ Just like Craigslist there are unscrupulous people out there who are trying to c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wMqYQB5pbGg?rel=0" frameborder="0" allowfullscreen></iframe>
 
-##Buying Bitcoin with Your Brokerage Account
+## Buying Bitcoin with Your Brokerage Account
 
 ![](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/buying-bitcoin-with-your-brokerage-account.jpg)
 
@@ -267,7 +267,7 @@ This video shows you step-by-step how to register for the Gemini exchange.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oQwmTRg6o9s?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-##Why Bitcoin Mining is a bad way to get bitcoins
+## Why Bitcoin Mining is a bad way to get bitcoins
 
 ![Bitcoin mining is a bad way to get bitcoins](/images/posts/2015-10-13-how-to-buy-bitcoin-the-complete-step-by-step-tutorial/bitcoin-mining-is-a-bad-way-to-get-bitcoins.gif "Bitcoin mining is a bad way to get bitcoins")
 
