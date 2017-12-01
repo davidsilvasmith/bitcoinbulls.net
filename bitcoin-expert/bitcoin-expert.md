@@ -1,6 +1,6 @@
 ---
 title: Hire bitcoin expertise.
-subtitle: I have 3 years experience in the 7-year-old bitcoin industry.
+subtitle: I have 5 years experience in the 8-year-old bitcoin industry.
 permalink: /bitcoin-expert/
 excerpt: Speed-to-market, correctness, and risk-mitigation are important to capture the opportunities created by bitcoin. Not only can I tell you where the industry is today, I have a better idea than most as to where it is going.
 ---
