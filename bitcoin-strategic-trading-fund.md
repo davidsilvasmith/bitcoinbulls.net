@@ -5,6 +5,7 @@ permalink: /bitcoin-strategic-trading-fund/
 excerpt: "A Special Limited Offering Bitcoin Strategic Trading Fund - The Intelligent Approach to Capitalizing on the Bitcoin/Crypto Boom"
 link: /bitcoin-strategic-trading-fund/faq/
 linkText: BST FAQ
+image: /images/bitcoins-bst.jpg
 ---
 
 # Announcing… A Special Limited Offering Bitcoin Strategic Trading Fund “The Intelligent Approach to Capitalizing on the Bitcoin/Crypto Boom”

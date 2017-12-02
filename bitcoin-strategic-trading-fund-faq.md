@@ -5,6 +5,7 @@ permalink: /bitcoin-strategic-trading-fund/faq/
 excerpt: "Bitcoin Strategic Trading Fund Frequently Asked Questions"
 link: /bitcoin-strategic-trading-fund/
 linkText: Bitcoin Strategic Fund
+image: /images/bitcoins-bst.jpg
 ---
 
 # Bitcoin Strategic Trading Fund Frequently Asked Questions
