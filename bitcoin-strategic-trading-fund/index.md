@@ -89,7 +89,6 @@ Until Thursday December 14th accredited investors can invest in this special lim
 * SUBSTANTIAL UPSIDE POTENTIAL In 90-Day Period 
 * Risk limited to amount invested
 * Managed by Nationally Recognized Bitcoin Experts
-
 * Accredited Risk Tolerant Inv. Only
 
 [Invest](https://goo.gl/forms/4js0mb9R8BoaQ2zp1){: class="btn btn-primary" role="button"}
