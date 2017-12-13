@@ -79,19 +79,25 @@
                 <img src="{{ site.data.information.logo }}" alt="{{site.data.information.title}}">
             </a>
              {% assign url = page.url|remove:'index.html' %}
-                        
+                        {% if page.url contains "bitcoin-strategic-trading-fund" %}
+                            {% assign url = page.url|remove:'index.html' %}
+                            {% for link in site.data.bst-navigation %}
+                            {% assign urlSize = link.url|size %}
+                            <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}}</a>
+                            
+                            {% endfor %}
+                        {% else %}
                         {% for link in site.data.navigation %}
                         {% assign urlSize = link.url|size %}
 
                         <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}} </a>
                         
                         {% endfor %}
-
                         {% include request-signup-link.html param="Subscribe" %} 
+                        {% endif %}
         </nav>
         {% if site.data.information.tagline or site.data.information.product_url %}<nav class="tagline">
-            {% if site.data.information.tagline %}<span>{{ site.data.information.tagline }}</span>{% endif %}
-            {% if site.data.information.product_link %}<a href="{{ site.data.information.product_link }}" class="btn btn-outline">Learn More</a>{% endif %}
+            {% if site.data.information.product_link %}<a href="{{ site.data.information.product_link }}" class="btn btn-outline">Invest</a>{% endif %}
         </nav>{% endif %}
     </header>
 </section>
@@ -106,22 +112,6 @@
 {{ content }}
 {% else %}
   <main class="container">
-    {% if page.url contains "bitcoin-strategic-trading-fund" %}
-    <hr />
-    <h3 style="color:#50b79a;" class="text-center">BST Links</h3>
-    <nav class="text-center">
-         {% assign url = page.url|remove:'index.html' %}
-            {% for link in site.data.bst-navigation %}
-                {% assign urlSize = link.url|size %}
-                {% if url == link.url and urlSize > 2 %}
-                    {% else %}
-                    <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}}</a> | 
-                {% endif %}
-            {% endfor %}
-            <a href="https://goo.gl/forms/4js0mb9R8BoaQ2zp1" title="Invest">Invest</a>
-    </nav>
-    <hr />
-    {% endif %}
     {{content}}
   </main>
 {% endif %}
