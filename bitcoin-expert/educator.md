@@ -31,7 +31,10 @@ Email: <dave@bitcoinbulls.net>
 Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 
 ## Bitcoin Speaking Experience & Notable Media
-* 5/27/16 **What is the block chain?** (Michigan Tech BBQ) Grand Ledge, MI
+* 12/11/17 **[Local bitcoin investors talk about the cryptocurrency](http://www.wilx.com/content/news/Local-bitcoin-investors-talk-about-the--463497023.html)** (WILX News 10) Lansing, MI
+* 12/10/17 **[Back by Popular Demand, Cousin David Returns as Bitcoin Skyrockets, for Crypto Newbies](http://coloringcrypto.com/index.php/2017/12/10/14-back-by-popular-demand-cousin-david-returns-as-bitcoin-skyrockets-for-crypto-newbies/)** (Coloring Crypto Podcast) Los Angeles, CA
+* 10/30/17 **[Coloring Crypto Podcast](http://coloringcrypto.com/index.php/2017/10/30/the-origin-of-coloring-crypto-with-cousin-david/)** (Coloring Crypto Podcast) Los Angeles, CA
+* 8/3/17 **[Why Lansing is investing in bitcoin](http://www.lansingstatejournal.com/story/news/local/2017/08/03/lansing-investing-invest-investment-bitcoin/497148001/)** (Lansing State Journal) Lansing, MI
 * 5/3/16 **[Lansing proponent doubts Bitcoin creation claim](http://wkar.org/post/lansing-proponent-doubts-bitcoin-creation-claim)** (WKAR Current State) East Lansing, MI
 * 11/9/15 **[Bitcoin back in favor after price pop and drop](http://www.freep.com/story/money/business/2015/11/08/bitcoin-back-detroit-after-price-pop-and-drop/75224930/)** (Detroit Free Press) Detroit, MI
 * 9/28/15 **Bitcoin & Blockchain Technology: Why Lawyers Should Care** (Michigan State College of Law) East Lansing, MI
