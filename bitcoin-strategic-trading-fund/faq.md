@@ -3,8 +3,8 @@ title: Bitcoin Stategic Fund FAQ
 subtitle: Special Limited Duration
 permalink: /bitcoin-strategic-trading-fund/faq/
 excerpt: "Bitcoin Strategic Trading Fund Frequently Asked Questions"
-link: /bitcoin-strategic-trading-fund/
-linkText: Bitcoin Strategic Fund
+link: /bitcoin-strategic-trading-fund/how-to-subscribe/
+linkText: Invest
 image: /images/bitcoins-bst.jpg
 ---
 
