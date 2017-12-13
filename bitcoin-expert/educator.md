@@ -36,6 +36,7 @@ Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 * 10/30/17 **[Coloring Crypto Podcast](http://coloringcrypto.com/index.php/2017/10/30/the-origin-of-coloring-crypto-with-cousin-david/)** (Coloring Crypto Podcast) Los Angeles, CA
 * 8/3/17 **[Why Lansing is investing in bitcoin](http://www.lansingstatejournal.com/story/news/local/2017/08/03/lansing-investing-invest-investment-bitcoin/497148001/)** (Lansing State Journal) Lansing, MI
 * 5/3/16 **[Lansing proponent doubts Bitcoin creation claim](http://wkar.org/post/lansing-proponent-doubts-bitcoin-creation-claim)** (WKAR Current State) East Lansing, MI
+* 4/1/16 **[Fast Track: Mobile Payment & Digital Currency Guide](http://www.consumersdigest.com/sub/fast-track-mobile-payment-digital-currency-guide/1)** Consumers Digest
 * 11/9/15 **[Bitcoin back in favor after price pop and drop](http://www.freep.com/story/money/business/2015/11/08/bitcoin-back-detroit-after-price-pop-and-drop/75224930/)** (Detroit Free Press) Detroit, MI
 * 9/28/15 **Bitcoin & Blockchain Technology: Why Lawyers Should Care** (Michigan State College of Law) East Lansing, MI
 * 12/18/14 **Why Nerds are Excited About Bitcoin** (DemoCamp Lansing) Lansing, MI
