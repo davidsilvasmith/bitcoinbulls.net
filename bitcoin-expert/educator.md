@@ -62,7 +62,7 @@ Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 * 12/8/13 **Bitcoin: The Future of Money** (SouthEastern Michigan Computer Organization) Detroit, MI
 * 11/20/13 **GoGiveCoin: My First Bitcoin App** (Lansing .NET User Group) Lansing, MI
 
-#### Speaking Samples
+## Speaking Samples
 <iframe width="854" height="510" src="//www.youtube.com/embed/e-PXjJLF-bo" frameborder="0" allowfullscreen></iframe>
 <iframe width="854" height="510" src="//www.youtube.com/embed/EFraiyAD9oY" frameborder="0" allowfullscreen></iframe>
 <iframe width="854" height="510" src="//www.youtube.com/embed/vBED1r6LWWg" frameborder="0" allowfullscreen></iframe>
