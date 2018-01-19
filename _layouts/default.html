@@ -93,7 +93,7 @@
                         <a href="{{link.url}}" title="{{link.text}}" {% if url contains link.url and urlSize > 2 %}class="active"{% endif %} {% if url == '/' and url == link.url %}class="active"{% endif %}>{{link.text}} </a>
                         
                         {% endfor %}
-                        {% include request-signup-link.html param="Subscribe" %} 
+                        {% include request-signup-link.html param="Free Newsletter" %} 
                         {% endif %}
         </nav>
         {% if site.data.information.tagline or site.data.information.product_url %}<nav class="tagline">
