@@ -31,11 +31,11 @@ Email: <dave@bitcoinbulls.net>
 Twitter: [@davidsilvasmith](http://www.twitter.com/davidsilvasmith)
 
 ## Bitcoin Speaking Experience & Notable Media
-* 3/11/2018 ** [Blockchain Introduction: What it is and what can it do?](https://www.wordpress.semco.org/?p=1533)** (SouthEastern Michigan Computer Organization, Inc) Bloomfield Hills, MI
-* 3/9/2018 **[What Just Happened? With Fan-Favorite-Previous-Guests Cousin Dave and Usman Majeed ](http://coloringcrypto.com/index.php/2018/03/09/28-flash-episode-what-just-happened-with-fan-favorite-previous-guests-cousin-dave-and-usman-majeed/)] ** (Coloring Crypto Podcast) Los Angeles, CA
-* 2/6/2018 ** [Strategic Bitcoin Tips](http://www.michiganbusinessnetwork.com/blog/strategic-bitcoin-tips)** (Michigan Business Network) Lansing, MI
-* 1/31/2018 ** [David Smith (Bitcoin Strategic Trading Fund)](https://www.startupgrind.com/events/details/startup-grind-lansing-presents-david-smith-bitcoin-strategic-trading-fund)** (Startup Grind Lansing) East Lansing, MI
-* 1/3/2018 ** [The Future Of Digital Cash](http://www.michiganbusinessnetwork.com/blog/the-future-of-digital-cash)** (Michigan Business Network) Lansing, MI
+* 3/11/18 **[Blockchain Introduction: What it is and what can it do?](https://www.wordpress.semco.org/?p=1533)** (SouthEastern Michigan Computer Organization, Inc) Bloomfield Hills, MI
+* 3/9/18 **[What Just Happened? With Fan-Favorite-Previous-Guests Cousin Dave and Usman Majeed ](http://coloringcrypto.com/index.php/2018/03/09/28-flash-episode-what-just-happened-with-fan-favorite-previous-guests-cousin-dave-and-usman-majeed/)]** (Coloring Crypto Podcast) Los Angeles, CA
+* 2/6/18 **[Strategic Bitcoin Tips](http://www.michiganbusinessnetwork.com/blog/strategic-bitcoin-tips)** (Michigan Business Network) Lansing, MI
+* 1/31/18 **[David Smith (Bitcoin Strategic Trading Fund)](https://www.startupgrind.com/events/details/startup-grind-lansing-presents-david-smith-bitcoin-strategic-trading-fund)** (Startup Grind Lansing) East Lansing, MI
+* 1/3/18 **[The Future Of Digital Cash](http://www.michiganbusinessnetwork.com/blog/the-future-of-digital-cash)** (Michigan Business Network) Lansing, MI
 * 1/13/17 **[Bitcoin and Cryptocurrencies](https://www.businessrap.biz/single-post/2017/12/13/Business-Rap-December-13-2017)** (Business Rap) Lansing MI
 * 12/11/17 **[Local bitcoin investors talk about the cryptocurrency](http://www.wilx.com/content/news/Local-bitcoin-investors-talk-about-the--463497023.html)** (WILX News 10) Lansing, MI
 * 12/10/17 **[Back by Popular Demand, Cousin David Returns as Bitcoin Skyrockets, for Crypto Newbies](http://coloringcrypto.com/index.php/2017/12/10/14-back-by-popular-demand-cousin-david-returns-as-bitcoin-skyrockets-for-crypto-newbies/)** (Coloring Crypto Podcast) Los Angeles, CA
